@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'aecrm';
+	src: url('includes/fonts/aecrm.eot');
+	src: url('includes/fonts/aecrm.eot?#iefix') format('embedded-opentype'), url('includes/fonts/aecrm.woff') format('woff'), url('includes/fonts/aecrm.ttf') format('truetype'), url('includes/fonts/aecrm.svg#aecrm') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+#adminmenu .dashicons-admin-wc-crm:before {
+	font-family: dashicons;
+	content: "\f336";
+}

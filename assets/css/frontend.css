@@ -1,0 +1,52 @@
+table#validation_table {
+    margin-top: 50px;
+}
+.btn-container {
+    text-align: right;
+    margin-top: 10px;
+}
+ul.validation-actions {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+
+ul.validation-actions li {
+    display: inline-block;
+}
+
+ul.validation-actions li a {
+    display: inline-block;
+    padding: 5px;
+    line-height: 1;
+    border-radius: 3px;
+    background: #e7e7e7;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    color: #7f7f7f;
+}
+
+ul.validation-actions li i {
+    vertical-align: middle;
+}
+
+select#validation_type {
+    padding: .6180469716em;
+    border-color: #ddd;
+}
+#validation-upload.dropzone {
+    min-height: 150px;
+    max-width: 150px;
+    padding: 0;
+}
+
+.woocommerce-MyAccount-content .wc-enhanced-select {
+    border-color: #ddd;
+    padding: .98em;
+    padding: .6180469716em;
+    background-color: #f2f2f2;
+}

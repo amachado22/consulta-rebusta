@@ -1,0 +1,3353 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Customer Relationship Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Wed Dec 09 2015 22:31:05 GMT+0000 (GMT)\n"
+"POT-Revision-Date: Wed Dec 09 2015 22:31:07 GMT+0000 (GMT)\n"
+"PO-Revision-Date: 2017-01-19 09:38+0000\n"
+"Last-Translator: petaqui - Alexandro Lacadena ( alexandro.lacadena@gmail.com)"
+"\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es-ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../includes/core-functions.php:445
+msgid "Alternative Dispute Resolution"
+msgstr "Resolución alternativa a la disputa"
+
+#: ../includes/core-functions.php:446
+msgid "Alternative Medicine"
+msgstr "Medicina alternativa"
+
+#: ../includes/core-functions.php:447
+msgid "Animation"
+msgstr "Animación"
+
+#: ../includes/core-functions.php:448
+msgid "Apparel & Fashion"
+msgstr "Ropa y moda"
+
+#: ../includes/core-functions.php:449
+msgid "Architecture & Planning"
+msgstr "Arquitectura y planos"
+
+#: ../includes/core-functions.php:450
+msgid "Arts and Crafts"
+msgstr "Arte y modelos"
+
+#: ../includes/core-functions.php:451
+msgid "Automotive"
+msgstr "Automotriz"
+
+#: ../includes/core-functions.php:452
+msgid "Aviation & Aerospace"
+msgstr "Aviación y aeroespacial"
+
+#: ../includes/core-functions.php:453
+msgid "Banking"
+msgstr "Banca"
+
+#: ../includes/core-functions.php:454
+msgid "Biotechnology"
+msgstr "Biotecnología"
+
+#: ../includes/core-functions.php:455
+msgid "Broadcast Media"
+msgstr "Televisión y media"
+
+#: ../includes/core-functions.php:456
+msgid "Building Materials"
+msgstr "Materiales de construcción"
+
+#: ../includes/core-functions.php:457
+msgid "Business Supplies and Equipment"
+msgstr "Materiales de oficina y equipamiento"
+
+#: ../includes/core-functions.php:458
+msgid "Capital Markets"
+msgstr "Mercados capitales"
+
+#: ../includes/core-functions.php:459
+msgid "Chemicals"
+msgstr "Químicos"
+
+#: ../includes/core-functions.php:460
+msgid "Civic & Social Organization"
+msgstr "Organización social o cívica"
+
+#: ../includes/core-functions.php:461
+msgid "Civil Engineering"
+msgstr "Ingieneria civil"
+
+#: ../includes/core-functions.php:462
+msgid "Commercial Real Estate"
+msgstr "Bienes comerciales"
+
+#: ../includes/core-functions.php:463
+msgid "Computer & Network Security"
+msgstr "Ordenadores y seguridad de redes"
+
+#: ../includes/core-functions.php:464
+msgid "Computer Games"
+msgstr "Juegos de ordenador"
+
+#: ../includes/core-functions.php:465
+msgid "Computer Hardware"
+msgstr "Hardware de ordenador"
+
+#: ../includes/core-functions.php:466
+msgid "Computer Networking"
+msgstr "Redes de ordenador"
+
+#: ../includes/core-functions.php:467
+msgid "Computer Software"
+msgstr "Software de ordenador"
+
+#: ../includes/core-functions.php:468
+msgid "Construction"
+msgstr "Construcción"
+
+#: ../includes/core-functions.php:469
+msgid "Consumer Electronics"
+msgstr "Electrónica de consumo"
+
+#: ../includes/core-functions.php:470
+msgid "Consumer Goods"
+msgstr "Bienes de consumo"
+
+#: ../includes/core-functions.php:471
+msgid "Consumer Services"
+msgstr "Servicios de consumo"
+
+#: ../includes/core-functions.php:472
+msgid "Cosmetics"
+msgstr "Cosméticos"
+
+#: ../includes/core-functions.php:473
+msgid "Dairy"
+msgstr "Diario"
+
+#: ../includes/core-functions.php:474
+msgid "Defense & Space"
+msgstr "Defensa y espacio"
+
+#: ../includes/core-functions.php:475
+msgid "Design"
+msgstr "Diseño"
+
+#: ../includes/core-functions.php:476
+msgid "Education Management"
+msgstr "Administrador de educación"
+
+#: ../includes/core-functions.php:477
+msgid "E-Learning"
+msgstr "Aprendizaje online"
+
+#: ../includes/core-functions.php:478
+msgid "Electrical/Electronic Manufacturing"
+msgstr "Producción electrica/electrónica"
+
+#: ../includes/core-functions.php:479
+msgid "Entertainment"
+msgstr "Entretenimiento"
+
+#: ../includes/core-functions.php:480
+msgid "Environmental Services"
+msgstr "Servicios medioambientales"
+
+#: ../includes/core-functions.php:481
+msgid "Events Services"
+msgstr "Servicios para eventos"
+
+#: ../includes/core-functions.php:482
+msgid "Executive Office"
+msgstr "Director ejecutivo"
+
+#: ../includes/core-functions.php:483
+msgid "Facilities Services"
+msgstr "Servicios facultativos"
+
+#: ../includes/core-functions.php:484
+msgid "Farming"
+msgstr "Granjero"
+
+#: ../includes/core-functions.php:485
+msgid "Financial Services"
+msgstr "Servicios financieros"
+
+#: ../includes/core-functions.php:486
+msgid "Fine Art"
+msgstr "Arte fino"
+
+#: ../includes/core-functions.php:487
+msgid "Fishery"
+msgstr "Pescador"
+
+#: ../includes/core-functions.php:488
+msgid "Food & Beverages"
+msgstr "Comida y bebidas"
+
+#: ../includes/core-functions.php:489
+msgid "Food Production"
+msgstr "Productos de alimentos"
+
+#: ../includes/core-functions.php:490
+msgid "Fund-Raising"
+msgstr "Captador de fondos"
+
+#: ../includes/core-functions.php:491
+msgid "Furniture"
+msgstr "Muebles"
+
+#: ../includes/core-functions.php:492
+msgid "Gambling & Casinos"
+msgstr "Casinos y juegos de azar"
+
+#: ../includes/core-functions.php:493
+msgid "Glass, Ceramics & Concrete"
+msgstr "Vidrio, cerámicas y similares"
+
+#: ../includes/core-functions.php:494
+msgid "Government Administration"
+msgstr "Administrador gubernamental"
+
+#: ../includes/core-functions.php:495
+msgid "Government Relations"
+msgstr "Relaciones gubernamentales"
+
+#: ../includes/core-functions.php:496
+msgid "Graphic Design"
+msgstr "Diseño gráfico"
+
+#: ../includes/core-functions.php:497
+msgid "Health, Wellness and Fitness"
+msgstr "Salud, bienestar y fitness"
+
+#: ../includes/core-functions.php:498
+msgid "Higher Education"
+msgstr "Educación superior"
+
+#: ../includes/core-functions.php:499
+msgid "Hospital & Health Care"
+msgstr "Hospital y cuidado de la salud"
+
+#: ../includes/core-functions.php:500
+msgid "Hospitality"
+msgstr "Hospitalidad"
+
+#: ../includes/core-functions.php:501
+msgid "Human Resources"
+msgstr "Recursos humanos"
+
+#: ../includes/core-functions.php:502
+msgid "Import and Export"
+msgstr "Importar y exportar"
+
+#: ../includes/core-functions.php:503
+msgid "Individual & Family Services"
+msgstr "Individual y servicios familiares"
+
+#: ../includes/core-functions.php:504
+msgid "Industrial Automation"
+msgstr "Automatización industrial"
+
+#: ../includes/core-functions.php:505
+msgid "Information Services"
+msgstr "Servicios de información"
+
+#: ../includes/core-functions.php:506
+msgid "Information Technology and Services"
+msgstr "Tecnología de la información y servicios"
+
+#: ../includes/core-functions.php:507
+msgid "Insurance"
+msgstr "Seguros"
+
+#: ../includes/core-functions.php:508
+msgid "International Affairs"
+msgstr "Tratados internacionales"
+
+#: ../includes/core-functions.php:509
+msgid "International Trade and Development"
+msgstr "Tratado internacional y desarrollo"
+
+#: ../includes/core-functions.php:510
+msgid "Internet"
+msgstr "Internet"
+
+#: ../includes/core-functions.php:511
+msgid "Investment Banking"
+msgstr "Inversiones bancarias"
+
+#: ../includes/core-functions.php:512
+msgid "Investment Management"
+msgstr "Administración de inversiones"
+
+#: ../includes/core-functions.php:513
+msgid "Judiciary"
+msgstr "Judicial"
+
+#: ../includes/core-functions.php:514
+msgid "Law Enforcement"
+msgstr "Fuerzas de la ley"
+
+#: ../includes/core-functions.php:515
+msgid "Law Practice"
+msgstr "Práctica jurídica"
+
+#: ../includes/core-functions.php:516
+msgid "Legal Services"
+msgstr "Servicios legales"
+
+#: ../includes/core-functions.php:517
+msgid "Legislative Office"
+msgstr "Oficina legislativa"
+
+#: ../includes/core-functions.php:518
+msgid "Leisure, Travel & Tourism"
+msgstr "Ocio, viajes y turismo"
+
+#: ../includes/core-functions.php:519
+msgid "Libraries"
+msgstr "Librerias"
+
+#: ../includes/core-functions.php:520
+msgid "Logistics and Supply Chain"
+msgstr "Logística y cadena de distribución"
+
+#: ../includes/core-functions.php:521
+msgid "Luxury Goods & Jewelry"
+msgstr "Bienes de lujo y joyería"
+
+#: ../includes/core-functions.php:522
+msgid "Machinery"
+msgstr "Maquinaria"
+
+#: ../includes/core-functions.php:523
+msgid "Management Consulting"
+msgstr "Consultoria de administración"
+
+#: ../includes/core-functions.php:524
+msgid "Maritime"
+msgstr "Marítimo"
+
+#: ../includes/core-functions.php:525
+msgid "Market Research"
+msgstr "Búsqueda de mercado"
+
+#: ../includes/core-functions.php:526
+msgid "Marketing and Advertising"
+msgstr "Marketing y anuncios"
+
+#: ../includes/core-functions.php:527
+msgid "Mechanical or Industrial Engineering"
+msgstr "Ingienería mecánica o industrial"
+
+#: ../includes/core-functions.php:528
+msgid "Media Production"
+msgstr "Producción audiovisual"
+
+#: ../includes/core-functions.php:529
+msgid "Medical Devices"
+msgstr "Dispositivos médicos"
+
+#: ../includes/core-functions.php:530
+msgid "Medical Practice"
+msgstr "Práctica médica"
+
+#: ../includes/core-functions.php:531
+msgid "Mental Health Care"
+msgstr "Salud mental"
+
+#: ../includes/core-functions.php:532
+msgid "Military"
+msgstr "Militar"
+
+#: ../includes/core-functions.php:533
+msgid "Mining & Metals"
+msgstr "Metales y mineria"
+
+#: ../includes/core-functions.php:534
+msgid "Motion Pictures and Film"
+msgstr "Imágenes y películas"
+
+#: ../includes/core-functions.php:535
+msgid "Museums and Institutions"
+msgstr "Museos e instituciones"
+
+#: ../includes/core-functions.php:536
+msgid "Music"
+msgstr "Música"
+
+#: ../includes/core-functions.php:537
+msgid "Nanotechnology"
+msgstr "Nanotecnología"
+
+#: ../includes/core-functions.php:538
+msgid "Newspapers"
+msgstr "Periódicos"
+
+#: ../includes/core-functions.php:539
+msgid "Non-Profit Organization Management"
+msgstr "Administración de organizaciones no lucrativas"
+
+#: ../includes/core-functions.php:540
+msgid "Oil & Energy"
+msgstr "Gas y energía"
+
+#: ../includes/core-functions.php:541
+msgid "Online Media"
+msgstr "Contenido audiovisual online"
+
+#: ../includes/core-functions.php:542
+msgid "Outsourcing/Offshoring"
+msgstr "Deslocalización/Externalización"
+
+#: ../includes/core-functions.php:543
+msgid "Package/Freight Delivery"
+msgstr "Paquetería/Entrega de mercancia"
+
+#: ../includes/core-functions.php:544
+msgid "Packaging and Containers"
+msgstr "Paquetería y contenedores"
+
+#: ../includes/core-functions.php:545
+msgid "Paper & Forest Products"
+msgstr "Papel y productos forestales"
+
+#: ../includes/core-functions.php:546
+msgid "Performing Arts"
+msgstr "Artes de realización"
+
+#: ../includes/core-functions.php:547
+msgid "Pharmaceuticals"
+msgstr "Farmacéuticos"
+
+#: ../includes/core-functions.php:548
+msgid "Philanthropy"
+msgstr "Filantropia"
+
+#: ../includes/core-functions.php:549
+msgid "Photography"
+msgstr "Fotografía"
+
+#: ../includes/core-functions.php:550
+msgid "Plastics"
+msgstr "Plásticos"
+
+#: ../includes/core-functions.php:551
+msgid "Political Organization"
+msgstr "Organización política"
+
+#: ../includes/core-functions.php:552
+msgid "Primary/Secondary Education"
+msgstr "Educación primaria/secundaria"
+
+#: ../includes/core-functions.php:553
+msgid "Printing"
+msgstr "Imprenta"
+
+#: ../includes/core-functions.php:554
+msgid "Professional Training & Coaching"
+msgstr "Entrenador profesional y coach"
+
+#: ../includes/core-functions.php:555
+msgid "Program Development"
+msgstr "Desarrollador de programas"
+
+#: ../includes/core-functions.php:556
+msgid "Public Policy"
+msgstr "Política pública"
+
+#: ../includes/core-functions.php:557
+msgid "Public Relations and Communications"
+msgstr "Relaciones públicas y comunicación"
+
+#: ../includes/core-functions.php:558
+msgid "Public Safety"
+msgstr "Seguridad pública"
+
+#: ../includes/core-functions.php:559
+msgid "Publishing"
+msgstr "Publicación"
+
+#: ../includes/core-functions.php:560
+msgid "Railroad Manufacture"
+msgstr "Fabricación de ferrocarriles"
+
+#: ../includes/core-functions.php:561
+msgid "Ranching"
+msgstr "Granjero"
+
+#: ../includes/core-functions.php:562
+msgid "Real Estate"
+msgstr "Bienes inmuebles"
+
+#: ../includes/core-functions.php:563
+msgid "Recreational Facilities and Services"
+msgstr "Facilidades y servicios recreacionales"
+
+#: ../includes/core-functions.php:564
+msgid "Religious Institutions"
+msgstr "Instituciones religiosas"
+
+#: ../includes/core-functions.php:565
+msgid "Renewables & Environment"
+msgstr "Renovables y medio ambiente"
+
+#: ../includes/core-functions.php:566
+msgid "Research"
+msgstr "Investigación"
+
+#: ../includes/core-functions.php:567
+msgid "Restaurants"
+msgstr "Restaurantes"
+
+#: ../includes/core-functions.php:568
+msgid "Retail"
+msgstr "Venta"
+
+#: ../includes/core-functions.php:569
+msgid "Security and Investigations"
+msgstr "Seguridad e investigaciones"
+
+#: ../includes/core-functions.php:570
+msgid "Semiconductors"
+msgstr "Semiconductores"
+
+#: ../includes/core-functions.php:571
+msgid "Shipbuilding"
+msgstr "Constructor de barcos"
+
+#: ../includes/core-functions.php:572
+msgid "Sporting Goods"
+msgstr "Bienes deportivos"
+
+#: ../includes/core-functions.php:573
+msgid "Sports"
+msgstr "Deportes"
+
+#: ../includes/core-functions.php:574
+msgid "Staffing and Recruiting"
+msgstr "Personal y contratación"
+
+#: ../includes/core-functions.php:575
+msgid "Supermarkets"
+msgstr "Supermercados"
+
+#: ../includes/core-functions.php:576
+msgid "Telecommunications"
+msgstr "Telecomunicación"
+
+#: ../includes/core-functions.php:577
+msgid "Textiles"
+msgstr "Textiles"
+
+#: ../includes/core-functions.php:578
+msgid "Think Tanks"
+msgstr "Laboratorio de ideas"
+
+#: ../includes/core-functions.php:579
+msgid "Tobacco"
+msgstr "Tabaco"
+
+#: ../includes/core-functions.php:580
+msgid "Translation and Localization"
+msgstr "Traducción y localización"
+
+#: ../includes/core-functions.php:581
+msgid "Transportation/Trucking/Railroad"
+msgstr "Transportes"
+
+#: ../includes/core-functions.php:582
+msgid "Utilities"
+msgstr "Utilidades"
+
+#: ../includes/core-functions.php:583
+msgid "Venture Capital & Private Equity"
+msgstr "Capital de riesgo y capital privado"
+
+#: ../includes/core-functions.php:584
+msgid "Veterinary"
+msgstr "Veterinario"
+
+#: ../includes/core-functions.php:585
+msgid "Warehousing"
+msgstr "Almacenes"
+
+#: ../includes/core-functions.php:586
+msgid "Wholesale"
+msgstr "Venta al por mayor"
+
+#: ../includes/core-functions.php:587
+msgid "Wine and Spirits"
+msgstr "Vinos y espirituales"
+
+#: ../includes/core-functions.php:588
+msgid "Wireless"
+msgstr "Inlámbrico"
+
+#: ../includes/core-functions.php:589
+msgid "Writing and Editing"
+msgstr "Escritura y edición"
+
+#: ../includes/admin/class-wc-crm-admin-settings.php:50 
+#: ../includes/admin/class- wc-crm-admin-notices.php:77
+msgid "Action failed. Please refresh the page and retry."
+msgstr "La acción falló. Por favor, refresca la página e inténtalo de nuevo."
+
+#: ../includes/admin/class-wc-crm-admin-settings.php:57
+msgid "Your settings have been saved."
+msgstr "Los ajustes se han guardado."
+
+#: ../includes/admin/class-wc-crm-admin-settings.php:113
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr "Los cambios realizados se perderán si sales de la página."
+
+#: ../includes/admin/class-wc-crm-admin-welcome.php:35
+msgid "About WooCommerce Customer Relationship Manager"
+msgstr "Acerca de WooCommerce Customer Relationship Manager"
+
+#: ../includes/admin/class-wc-crm-admin-welcome.php:36
+msgid "Welcome to WooCommerce Customer Relationship Manager"
+msgstr "Bienvenido a WooCommerce Customer Relationship Manager"
+
+#: ../includes/admin/class-wc-crm-admin-welcome.php:63
+#, php-format
+msgid "Welcome to WooCommerce CRM %s"
+msgstr "Bienvenido a WooCommerce CRM %s"
+
+#: ../includes/admin/class-wc-crm-admin-welcome.php:68
+msgid "Thanks, all done!"
+msgstr "¡Gracias! ¡Todo completado!"
+
+#: ../includes/admin/class-wc-crm-admin-welcome.php:70
+msgid "Thank you for updating to the latest version!"
+msgstr "¡Gracias por actualizar a la última versión!"
+
+#: ../includes/admin/class-wc-crm-admin-welcome.php:72
+msgid "Thanks for installing!"
+msgstr "¡Gracias por instalarlo!"
+
+#: ../includes/admin/class-wc-crm-admin-welcome.php:75
+#, php-format
+msgid ""
+"%s WooCommerce Customer Relationship Manager %s is more powerful, stable and "
+"secure than ever before. We hope you enjoy using it."
+msgstr ""
+"%s WooCommerce Customer Relationship Manager %s es más potente, estable y "
+"seguro que nunca antes. Esperamos que lo disfrutes."
+
+#: ../includes/admin/class-wc-crm-admin-welcome.php:79
+#, php-format
+msgid "Version %s"
+msgstr "Versión %s"
+
+#: ../includes/admin/class-wc-crm-admin-welcome.php:98
+msgid "Go to WooCommerce Customer Relationship Manager Settings"
+msgstr "Ir a los ajustes de WooCommerce Customer Relationship Manager"
+
+#: ../includes/admin/class-wc-crm-admin-acf.php:139
+msgid "All"
+msgstr "Todo"
+
+#: ../includes/admin/class-wc-crm-admin-post-types.php:56 
+#: ../includes/admin/class- wc-crm-admin-menus.php:72 
+#: ../includes/admin/class-wc-crm-admin-menus.php:73
+msgid "Accounts"
+msgstr "Cuentas"
+
+#: ../includes/admin/class-wc-crm-admin-post-types.php:57
+msgid "Account"
+msgstr "Cuenta"
+
+#: ../includes/admin/class-wc-crm-admin-post-types.php:58
+msgid "Add Account"
+msgstr "Añadir una cuenta"
+
+#: ../includes/admin/class-wc-crm-admin-post-types.php:59
+msgid "Add New Account"
+msgstr "Añadir una nueva cuenta"
+
+#: ../includes/admin/class-wc-crm-admin-post-types.php:61
+msgid "Edit Account"
+msgstr "Editar cuenta"
+
+#: ../includes/admin/class-wc-crm-admin-post-types.php:62
+msgid "New Account"
+msgstr "Nueva cuenta"
+
+#: ../includes/admin/class-wc-crm-admin-post-types.php:63 
+#: ../includes/admin/class- wc-crm-admin-post-types.php:64
+msgid "View Account"
+msgstr "Ver cuenta"
+
+#: ../includes/admin/class-wc-crm-admin-post-types.php:65
+msgid "Search Accounts"
+msgstr "Buscar cuentas"
+
+#: ../includes/admin/class-wc-crm-admin-post-types.php:66
+msgid "No Accounts found"
+msgstr "No se han encontrado cuentas"
+
+#: ../includes/admin/class-wc-crm-admin-post-types.php:67
+msgid "No Accounts found in trash"
+msgstr "No se han encontrado cuentas en la papelera"
+
+#: ../includes/admin/class-wc-crm-admin-post-types.php:68
+msgid "Parent Account"
+msgstr "Cuenta principal"
+
+#: ../includes/admin/class-wc-crm-admin-post-types.php:69
+msgctxt "Admin menu name"
+msgid "Accounts"
+msgstr "Cuentas"
+
+#: ../includes/admin/class-wc-crm-admin-post-types.php:71
+msgid "This is where Accounts are stored."
+msgstr "Aquí es donde se guardan las Cuentas"
+
+#: ../includes/admin/class-wc-crm-admin-post-types.php:96 
+#: ../includes/admin/class- wc-crm-admin-post-types.php:99
+msgid "Account updated."
+msgstr "Cuenta actualizada"
+
+#: ../includes/admin/class-wc-crm-admin-post-types.php:97
+msgid "Custom field updated."
+msgstr "Campos personalizados actualizados."
+
+#: ../includes/admin/class-wc-crm-admin-post-types.php:98
+msgid "Custom field deleted."
+msgstr "Campo personalizado borrado."
+
+#. translators: %s: date and time of the revision
+#: ../includes/admin/class-wc-crm-admin-post-types.php:101
+#, php-format
+msgid "Account restored to revision from %s"
+msgstr "Cuenta restablecida a la revisión del %s"
+
+#: ../includes/admin/class-wc-crm-admin-post-types.php:102
+msgid "Account published."
+msgstr "Cuenta publicada."
+
+#: ../includes/admin/class-wc-crm-admin-post-types.php:103
+msgid "Account saved."
+msgstr "Cuentas guardadas."
+
+#: ../includes/admin/class-wc-crm-admin-post-types.php:104
+msgid "Account submitted."
+msgstr "Cuentas enviadas."
+
+#: ../includes/admin/class-wc-crm-admin-post-types.php:125
+msgid "Account Data"
+msgstr "Datos de cuenta"
+
+#. page title
+#: ../includes/admin/class-wc-crm-admin-post-types.php:126 .. 
+#: includes/admin/class-wc-crm-admin-menus.php:43 
+#: ../includes/admin/class-wc-crm- admin-menus.php:44 
+#: ../includes/admin/class-wc-crm-admin-menus.php:107 .. 
+#: includes/screen/class-wc-crm-screen-customers-list.php:67
+msgid "Customers"
+msgstr "Pacientes"
+
+#: ../includes/admin/class-wc-crm-admin-post-types.php:127
+msgid "Account Actions"
+msgstr "Acciones de cuenta"
+
+#: ../includes/admin/class-wc-crm-admin-post-types.php:128
+msgid "Account Notes"
+msgstr "Notas de cuenta"
+
+#: ../includes/admin/class-wc-crm-admin-post-types.php:190
+msgid "Account Owner"
+msgstr "Dueño de la cuenta"
+
+#: ../includes/admin/class-wc-crm-admin-post-actions.php:376
+msgid "Customer status updated."
+msgstr "Estado del paciente actualizado."
+
+#: ../includes/admin/class-wc-crm-admin-post-actions.php:386
+#, php-format
+msgid "%d customer added to the group."
+msgid_plural "%d customers added to the group."
+msgstr[0] "%d paciente añadido al grupo."
+msgstr[1] "%d pacientes añadidos al grupo."
+
+#: ../includes/admin/class-wc-crm-admin-post-actions.php:434
+#, php-format
+msgid "%d post permanently deleted."
+msgid_plural "%d posts permanently deleted."
+msgstr[0] "%d post borrado permanentemente."
+msgstr[1] "%d posts borrados permanentemente."
+
+#: ../includes/admin/class-wc-crm-admin-post-actions.php:449
+#, php-format
+msgid "%d post restored from the Trash."
+msgid_plural "%d posts restored from the Trash."
+msgstr[0] "%d post restaurado desde la papelera."
+msgstr[1] "%d posts restaurados desde la papelera."
+
+#: ../includes/admin/class-wc-crm-admin-post-actions.php:467
+msgid "Undo"
+msgstr "Deshacer"
+
+#: ../includes/admin/class-wc-crm-admin-post-actions.php:468
+#, php-format
+msgid "%d post moved to the Trash."
+msgid_plural "%d posts moved to the Trash."
+msgstr[0] "%d post movido a la papelera"
+msgstr[1] "%d posts movidos a la papelera"
+
+#: ../includes/admin/class-wc-crm-admin-menus.php:54 
+#: ../includes/screen/class-wc- crm-screen-customers-edit.php:39
+msgid "Add New Customer"
+msgstr "Añadir un nuevo paciente"
+
+#: ../includes/admin/class-wc-crm-admin-menus.php:55
+msgid "Add New"
+msgstr "Añadir uno nuevo"
+
+#: ../includes/admin/class-wc-crm-admin-menus.php:63 
+#: ../includes/admin/class-wc- crm-admin-menus.php:64 
+#: ../includes/screen/class-wc-crm-screen-activity.php:19 . 
+#: ./includes/screen/views/html-customer-activity.php:9
+msgid "Activity"
+msgstr "Actividad"
+
+#: ../includes/admin/class-wc-crm-admin-menus.php:80 
+#: ../includes/admin/class-wc- crm-admin-menus.php:81 
+#: ../includes/admin/class-wc-crm-admin-menus.php:134
+msgid "Groups"
+msgstr "Grupos"
+
+#: ../includes/admin/class-wc-crm-admin-menus.php:120
+msgid "Log Records"
+msgstr "Guardar registros"
+
+#: ../includes/admin/class-wc-crm-admin-orders-page.php:63
+msgid "View Customer"
+msgstr "Ver paciente"
+
+#: ../includes/admin/class-wc-crm-admin-orders-page.php:112
+msgid "Billing:"
+msgstr "Facturación:"
+
+#: ../includes/admin/class-wc-crm-admin-orders-page.php:116
+msgid "Tel:"
+msgstr "Teléfono:"
+
+#: ../includes/admin/class-wc-crm-admin-orders-page.php:156
+#, php-format
+msgctxt "Order number by X"
+msgid "%s by %s"
+msgstr "%s por %s"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:55
+msgid "Introduction"
+msgstr "Introducción"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:60 .. 
+#: includes/admin/class-wc-crm-admin-setup-wizard.php:224 .. 
+#: includes/admin/settings/wc-crm-settings-general.php:70
+msgid "General Options"
+msgstr "Opciones generales"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:65 .. 
+#: includes/admin/class-wc-crm-admin-setup-wizard.php:299 .. 
+#: includes/admin/settings/wc-crm-settings-general.php:124
+msgid "Fetch Customers"
+msgstr "Captar pacientes"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:70 .. 
+#: includes/admin/class-wc-crm-admin-setup-wizard.php:370
+msgid "Load Customers"
+msgstr "Cargar pacientes"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:75
+msgid "Finished!"
+msgstr "¡Completado!"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:87
+msgctxt "enhanced select"
+msgid "One result is available, press enter to select it."
+msgstr "Un resultado está disponible, presiona Enter para seleccionarlo."
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:88
+msgctxt "enhanced select"
+msgid "%qty% results are available, use up and down arrow keys to navigate."
+msgstr ""
+"%qty% resultados están disponibles. Presiona las flechas hacia arriba y "
+"abajo para navegar."
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:89
+msgctxt "enhanced select"
+msgid "No matches found"
+msgstr "No se han encontrado resultados"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:90
+msgctxt "enhanced select"
+msgid "Loading failed"
+msgstr "La carga falló"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:91
+msgctxt "enhanced select"
+msgid "Please enter 1 or more characters"
+msgstr "Por favor, introduce 1 o más caracteres"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:92
+#, php-format
+msgctxt "enhanced select"
+msgid "Please enter %qty% or more characters"
+msgstr "Por favor, introduce %qty% o más caracteres"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:93
+msgctxt "enhanced select"
+msgid "Please delete 1 character"
+msgstr "Por favor, borra 1 caracter"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:94
+#, php-format
+msgctxt "enhanced select"
+msgid "Please delete %qty% characters"
+msgstr "Por favor, borra %qty% caracteres"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:95
+msgctxt "enhanced select"
+msgid "You can only select 1 item"
+msgstr "Sólo puedes seleccionar un elemento"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:96
+#, php-format
+msgctxt "enhanced select"
+msgid "You can only select %qty% items"
+msgstr "Sólo puedes seleccionar %qty% elementos"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:97
+msgctxt "enhanced select"
+msgid "Loading more results&hellip;"
+msgstr "Cargando más resultados&hellip;"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:98
+msgctxt "enhanced select"
+msgid "Searching&hellip;"
+msgstr "Buscando&hellip;"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:144
+msgid "WooCommerce &rsaquo; Setup Wizard"
+msgstr "WooCommerce &rsaquo; Asistente de instalación"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:162
+msgid "Return to the WordPress Dashboard"
+msgstr "Volver al panel de WordPress"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:204
+msgid "Welcome to WooCommerce Customer Relationship Manager!"
+msgstr "¡Bienvenido a WooCommerce Customer Relationship Manager!"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:205
+msgid ""
+"Thank you for choosing WooCommerce Customer Relationship Manager to manage "
+"your customers! This quick setup wizard will help you configure the basic "
+"settings."
+msgstr ""
+"Gracias por elegir WooCommerce Customer Relationship Manager para "
+"administrar los pacientes/clientes. Este pequeño asistente te ayudará a "
+"configurar los ajustes básicos."
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:206
+msgid ""
+"No time right now? If you don’t want to go through the wizard, you can skip "
+"and return to the WordPress dashboard. Come back anytime if you change your "
+"mind!"
+msgstr ""
+"¿Sin tiempo ahora? Si no quieres ir a través de todo el proceso, puedes "
+"saltártelo y volver al panel de WordPress. ¡Vuelve cuando quieras si cambias "
+"de opinión!"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:208
+msgid "Let's Go!"
+msgstr "¡Vamos!"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:209
+msgid "Not right now"
+msgstr "Ahora no"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:228 .. 
+#: includes/admin/settings/wc-crm-settings-general.php:72
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:231 .. 
+#: includes/admin/settings/wc-crm-settings-general.php:78
+msgid "First & last name e.g. johnsmith"
+msgstr "Nombre y apellido ej. manuelgarcia"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:232 .. 
+#: includes/admin/settings/wc-crm-settings-general.php:79
+msgid "Hyphen separated e.g. john-smith"
+msgstr "Separados por un guión ej. manuel-garcia"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:233 .. 
+#: includes/admin/settings/wc-crm-settings-general.php:80
+msgid "Email address"
+msgstr "Dirección email"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:236 .. 
+#: includes/admin/settings/wc-crm-settings-general.php:73
+msgid "Choose what the username is when customers are added."
+msgstr "Elige que nombre de usuario se creará cuando se añadan pacientes."
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:241 .. 
+#: includes/admin/settings/wc-crm-settings-general.php:86 .. 
+#: includes/screen/tables/class-wc-crm-table-customers.php:121
+msgid "Value"
+msgstr "Valor"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:243
+msgid "Choose a statuses&hellip;"
+msgstr "Elige unos estados&hellip;"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:244
+msgid "Choose a status&hellip;"
+msgstr "Elige un estado&hellip;"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:252 .. 
+#: includes/admin/settings/wc-crm-settings-general.php:87
+msgid ""
+"Choose which statuses the customer orders must be before appearing in the "
+"Value column."
+msgstr ""
+"Elige que estados han de tener los pedidos de pacientes antes de aparecer en "
+"la columna de Valor"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:257 .. 
+#: includes/admin/settings/wc-crm-settings-general.php:94
+msgid "Automatic Emails"
+msgstr "Emails automáticos"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:260 .. 
+#: includes/admin/settings/wc-crm-settings-general.php:95
+msgid ""
+"Check this box to send an email with username and password when creating a "
+"new customer."
+msgstr ""
+"Marca esta caja para enviar un email con el nombre de usuario y contraseña "
+"cuando se cree un nuevo paciente."
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:265 .. 
+#: includes/admin/class-wc-crm-admin-setup-wizard.php:343 .. 
+#: includes/admin/class-wc-crm-admin-setup-wizard.php:378
+msgid "Continue"
+msgstr "Continuar"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:301 .. 
+#: includes/admin/settings/wc-crm-settings-general.php:124
+msgid ""
+"The following options affects how the customers in the customers table "
+"should be fetched."
+msgstr ""
+"Las siguientes opciones afectan a cómo los pacientes en la tabla de "
+"pacientes serán captados."
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:305 .. 
+#: includes/admin/settings/wc-crm-settings-general.php:51 .. 
+#: includes/admin/settings/wc-crm-settings-general.php:126
+msgid "User Roles"
+msgstr "Roles de usuario"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:307
+msgid "Choose a roles&hellip;"
+msgstr "Elegir unos roles&hellip;"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:308
+msgid "Choose a role&hellip;"
+msgstr "Elegir un rol&hellip;"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:316
+msgid ""
+"Choose which User Roles of the customers/users that will be shown in the "
+"customers table."
+msgstr ""
+"Elige que roles de usuario/paciente aparecerán en la tabla de pacientes."
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:321 .. 
+#: includes/admin/settings/wc-crm-settings-general.php:134 .. 
+#: includes/admin/views/html-about-news.php:20
+msgid "Guest Customers"
+msgstr "Pacientes invitados"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:324
+msgid "Select whether Guest customers appear on the customers table."
+msgstr ""
+"Selecciona cuando un paciente invitado aparecerá en la tabla de "
+"pacientes/clientes."
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:328 .. 
+#: includes/admin/settings/wc-crm-settings-general.php:142
+msgid "Customer Name Format"
+msgstr "Formato del nombre de paciente"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:331 .. 
+#: includes/admin/settings/wc-crm-settings-general.php:149
+msgid "First Last"
+msgstr "Nombre Apellido"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:332 .. 
+#: includes/admin/settings/wc-crm-settings-general.php:150
+msgid "Last, First"
+msgstr "Apellido, Nombre"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:335 .. 
+#: includes/admin/settings/wc-crm-settings-general.php:143
+msgid "Choose the format of the names displayed on the Customers page."
+msgstr "Elige que formato de nombres se mostrará en la página de pacientes."
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:371 .. 
+#: includes/admin/class-wc-crm-admin-setup-wizard.php:389
+msgid ""
+"Please be patient while the customers are loaded. You will be notified via "
+"this page when the loading is completed."
+msgstr ""
+"Por favor, se paciente mientras los pacientes/clientes se están cargando. Te "
+"notificaremos en esta página cuando la carga se complete."
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:372 .. 
+#: includes/admin/class-wc-crm-admin-setup-wizard.php:390 
+#: ../includes/views/html- reload-customers.php:50
+msgid "You must enable Javascript in order to proceed!"
+msgstr "Debes activar Javascript para poder proceder"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:377 .. 
+#: includes/admin/class-wc-crm-admin-setup-wizard.php:395
+msgid "Start load"
+msgstr "Empezar carga"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:388 .. 
+#: includes/screen/class-wc-crm-screen-customers-list.php:85
+msgid "Update Customers"
+msgstr "Actualizar pacientes"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:396
+msgid "Return to the customers list"
+msgstr "Volver a la lista de pacientes"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:419
+msgid "WooCommerce CRM is Ready!"
+msgstr "¡WooCommerce CRM está listo!"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:423
+msgid "Next Steps"
+msgstr "Siguientes pasos"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:425
+msgid "View your customers!"
+msgstr "¡Mira tus pacientes!"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:429
+msgid "Learn More"
+msgstr "Saber más"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:431
+msgid "Subscribe to our newlsetter"
+msgstr "Suscríbete a nuestro boletín de noticias"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:432
+msgid "Read more about getting started"
+msgstr "Leer más sobre cómo empezar"
+
+#: ../includes/admin/class-wc-crm-admin-setup-wizard.php:433
+msgid "Explore our other powerful extensions"
+msgstr "Explora nuestras potentes extensiones"
+
+#: ../includes/admin/settings/wc-crm-settings-general.php:27
+msgid "General"
+msgstr "General"
+
+#: ../includes/admin/settings/wc-crm-settings-general.php:45
+msgid "Filters"
+msgstr "Filtros"
+
+#: ../includes/admin/settings/wc-crm-settings-general.php:52 .. 
+#: includes/screen/class-wc-crm-screen-groups.php:346 
+#: ../includes/screen/class- wc-crm-screen-groups.php:524 
+#: ../includes/screen/tables/class-wc-crm-table- customers.php:120
+msgid "Last Order"
+msgstr "Último pedido"
+
+#: ../includes/admin/settings/wc-crm-settings-general.php:53
+msgid "State"
+msgstr "Provincia"
+
+#: ../includes/admin/settings/wc-crm-settings-general.php:56 .. 
+#: includes/screen/views/html-activity-phone-call.php:25 .. 
+#: includes/screen/views/html-phone-call.php:101
+msgid "Customer Name"
+msgstr "Nombre de paciente"
+
+#: ../includes/admin/settings/wc-crm-settings-general.php:57
+msgid "Products"
+msgstr "Productos"
+
+#: ../includes/admin/settings/wc-crm-settings-general.php:58
+msgid "Products Variations"
+msgstr "Variaciones de productos"
+
+#: ../includes/admin/settings/wc-crm-settings-general.php:59 .. 
+#: includes/screen/class-wc-crm-screen-groups.php:326 
+#: ../includes/screen/class- wc-crm-screen-groups.php:508
+msgid "Order Status"
+msgstr "Estado del pedido"
+
+#: ../includes/admin/settings/wc-crm-settings-general.php:61
+msgid "Product Categories"
+msgstr "Categorías de productos"
+
+#: ../includes/admin/settings/wc-crm-settings-general.php:67
+msgid "Product Brands"
+msgstr "Marcas de productos"
+
+#: ../includes/admin/settings/wc-crm-settings-general.php:104
+msgid "Subscribers"
+msgstr "Suscriptores"
+
+#: ../includes/admin/settings/wc-crm-settings-general.php:105
+msgid ""
+"Check this box to show column indicating whether customer is an active "
+"subscriber."
+msgstr ""
+"Marca esta caja para mostrar una columna indicando si el paciente es un "
+"suscriptor activo."
+
+#: ../includes/admin/settings/wc-crm-settings-general.php:114
+msgid "Groups Integration"
+msgstr "Integración con grupos"
+
+#: ../includes/admin/settings/wc-crm-settings-general.php:115
+msgid ""
+"Check this box to show column indicating which group is the customer a "
+"member of."
+msgstr ""
+"Marca esta caja para mostrar la columna indicando a qué grupo pertenece el "
+"paciente."
+
+#: ../includes/admin/settings/wc-crm-settings-general.php:154
+msgid "Default Status"
+msgstr "Estado por defecto"
+
+#: ../includes/admin/settings/wc-crm-settings-general.php:154
+msgid ""
+"The following options determine the default status for the customers when "
+"added to this site."
+msgstr ""
+"Las siguientes opciones determinan el estado por defecto para los pacientes "
+"cuando se añadan al sitio."
+
+#: ../includes/admin/settings/wc-crm-settings-general.php:156
+msgid "Manually Added"
+msgstr "Añadido manualmente"
+
+#: ../includes/admin/settings/wc-crm-settings-general.php:157
+msgid "Added manually via this plugin."
+msgstr "Añadido manualmente a través de este plugin."
+
+#: ../includes/admin/settings/wc-crm-settings-general.php:165
+msgid "Purchased Customers"
+msgstr "Pacientes que han comprado"
+
+#: ../includes/admin/settings/wc-crm-settings-general.php:166
+msgid "Added automatically via purchases made."
+msgstr "Añadido automáticamente a través de una compra hecha."
+
+#: ../includes/admin/settings/wc-crm-settings-general.php:175
+msgid "Registration Page"
+msgstr "Página de registro"
+
+#: ../includes/admin/settings/wc-crm-settings-general.php:176
+msgid "Added via the account registration page."
+msgstr "Añadido vía la página de registro."
+
+#: ../includes/admin/settings/wc-crm-settings-order-page.php:27
+msgid "Orders Page"
+msgstr "Página de pedidos"
+
+#: ../includes/admin/settings/wc-crm-settings-order-page.php:43
+msgid "Customer Link"
+msgstr "Enlace del paciente"
+
+#: ../includes/admin/settings/wc-crm-settings-order-page.php:44
+msgid ""
+"Choose what the link of the customer is on the Orders page, customer or user "
+"profile."
+msgstr ""
+"Elige que enlace tendrá el paciente en la página de pedidos, ficha de "
+"paciente o perfil de usuario de la página."
+
+#: ../includes/admin/settings/wc-crm-settings-order-page.php:51
+msgid "Customer "
+msgstr "Paciente"
+
+#: ../includes/admin/settings/wc-crm-settings-order-page.php:52
+msgid "User profile"
+msgstr "Página de perfil"
+
+#: ../includes/admin/settings/wc-crm-settings-statuses.php:46
+msgid "Edit Status "
+msgstr "Editar estado"
+
+#: ../includes/admin/settings/wc-crm-settings-statuses.php:54 .. 
+#: includes/admin/settings/wc-crm-settings-statuses.php:115 .. 
+#: includes/screen/class-wc-crm-screen-groups.php:225 
+#: ../includes/screen/class- wc-crm-screen-groups.php:426 
+#: ../includes/screen/tables/class-wc-crm-table- customer-status.php:53 
+#: ../includes/screen/tables/class-wc-crm-table-customer- 
+#: products-purchased.php:76 
+#: ../includes/screen/tables/class-wc-crm-table-groups. php:70
+msgid "Name"
+msgstr "Nombre"
+
+#: ../includes/admin/settings/wc-crm-settings-statuses.php:62 .. 
+#: includes/admin/settings/wc-crm-settings-statuses.php:119 .. 
+#: includes/screen/class-wc-crm-screen-groups.php:432 .. 
+#: includes/screen/tables/class-wc-crm-table-customer-status.php:54 .. 
+#: includes/screen/tables/class-wc-crm-table-groups.php:71
+msgid "Slug"
+msgstr "Slug (Identificador)"
+
+#: ../includes/admin/settings/wc-crm-settings-statuses.php:70 .. 
+#: includes/admin/settings/wc-crm-settings-statuses.php:123 .. 
+#: includes/screen/tables/class-wc-crm-table-customer-status.php:55
+msgid "Icon"
+msgstr "Icono"
+
+#: ../includes/admin/settings/wc-crm-settings-statuses.php:78 .. 
+#: includes/admin/settings/wc-crm-settings-statuses.php:127
+msgid "Colour"
+msgstr "Color"
+
+#: ../includes/admin/settings/wc-crm-settings-statuses.php:87
+msgid "Back to statuses list"
+msgstr "Volver a la lista de estados"
+
+#: ../includes/admin/settings/wc-crm-settings-statuses.php:95
+msgid "Customer Status "
+msgstr "Estado del paciente"
+
+#: ../includes/admin/settings/wc-crm-settings-newsletter.php:27 .. 
+#: includes/screen/tables/class-wc-crm-table-customers.php:124
+msgid "Newsletter"
+msgstr "Boletín de noticias"
+
+#: ../includes/admin/settings/wc-crm-settings-newsletter.php:55
+msgid "MailChimp Integration"
+msgstr "Integración con MailChimp"
+
+#: ../includes/admin/settings/wc-crm-settings-newsletter.php:58
+msgid "Integrate with MailChimp"
+msgstr "Integrar con MailChimp"
+
+#: ../includes/admin/settings/wc-crm-settings-newsletter.php:59
+msgid ""
+"Specify whether to integrate Customer Relationship Manager with MailChimp to "
+"see which customers signed to the newsletter."
+msgstr ""
+"Especificar si se desea integrar Customer Relationship Manager con MailChimp "
+"para ver que pacientes están suscritos al boletín de noticias."
+
+#: ../includes/admin/settings/wc-crm-settings-newsletter.php:68
+msgid "MailChimp API Key"
+msgstr "Clave API de MailChimp"
+
+#: ../includes/admin/settings/wc-crm-settings-newsletter.php:69
+msgid ""
+"You can obtain your API key by <a href=\"https://us2.admin.mailchimp."
+"com/account/api/\">logging in to your MailChimp account</a>."
+msgstr ""
+"Puedes obtener tu clave API <a href=\"https://us2.admin.mailchimp."
+"com/account/api/\">iniciando sesión en tu cuenta de MalChimp</a>."
+
+#: ../includes/admin/settings/wc-crm-settings-newsletter.php:79
+msgid "MailChimp List"
+msgstr "Listas de MailChimp"
+
+#: ../includes/admin/settings/wc-crm-settings-newsletter.php:80
+msgid ""
+"Choose a list customers can subscribe to (you must save your API key first)."
+msgstr ""
+"Elige una lista a la que los pacientes pueden suscribirse (debes haber "
+"guardado una clave API previamente)"
+
+#: ../includes/admin/views/html-notice-update.php:12
+msgid ""
+"<strong>WooCommerce CRM Data Update Required</strong> &#8211; We just need "
+"to update your install to the latest version"
+msgstr ""
+"<strong>Actualización requerida para WooCommerce CRM Data</strong> &#8211;  "
+"Necesitamos actualizar la aplicación a la última versión"
+
+#: ../includes/admin/views/html-notice-update.php:13
+msgid "Run the updater"
+msgstr "Ejecutar el actualizador"
+
+#: ../includes/admin/views/html-notice-update.php:17
+msgid ""
+"It is strongly recommended that you backup your database before proceeding. "
+"Are you sure you wish to run the updater now?"
+msgstr ""
+"Se recomienda encarecidamente crear una copia de seguridad de la base de "
+"dates antes de continuar. ¿Seguro que quieres ejecutar el actualizador ahora?"
+
+#: ../includes/admin/views/html-about-news.php:11 
+#: ../includes/views/html-about- news.php:11
+msgid "What's New"
+msgstr "Novedades"
+
+#: ../includes/admin/views/html-about-news.php:16 
+#: ../includes/views/html-about- news.php:16
+msgid "Speed Optimisation"
+msgstr "Optimización de velocidad"
+
+#: ../includes/admin/views/html-about-news.php:17
+msgid ""
+"To cater for bigger databases, we've optimised the performance of the plugin "
+"when handling larger records and number of customers."
+msgstr ""
+"Para atender bases de datos más grandes, hemos optimizado el rendimiento del "
+"plugin al manejar registros más grandes y número de clientes."
+
+#: ../includes/admin/views/html-about-news.php:21
+msgid ""
+"You can now edit Guest customers and add more information to their records, "
+"including information entered from Advanced Custom Fields."
+msgstr ""
+"Ahora puedes editar los pacientes invitados y añadir más información a sus "
+"registros, incluyendo información introducida desde Advanced Custom Fields."
+
+#: ../includes/admin/views/html-about-news.php:24
+msgid "Redesigned Logging"
+msgstr "Registro rediseñado"
+
+#: ../includes/admin/views/html-about-news.php:25
+msgid ""
+"We have redesigned the logging pages for email and phone calls, following "
+"the standard ecosystem which WooCommerce uses."
+msgstr ""
+"Hemos rediseñado las páginas de registro de correo electrónico y llamadas "
+"telefónicas, siguiendo el ecosistema estándar que WooCommerce utiliza."
+
+#: ../includes/admin/views/html-about-news.php:28 
+#: ../includes/views/html-about- news.php:20
+msgid "Refactoring"
+msgstr "Refactorización"
+
+#: ../includes/admin/views/html-about-news.php:29 
+#: ../includes/views/html-about- news.php:21
+msgid ""
+"We have refactored the entire plugin to prepare for exciting changes coming "
+"towards the end of this year."
+msgstr ""
+"Hemos refactorizado todo el plugin para prepararnos para los emocionantes "
+"cambios que vienen hacia finales de este año."
+
+#: ../includes/admin/views/html-notice-install.php:11
+msgid ""
+"<strong>Welcome to WooCommerce Customer Relationship Manager</strong> &#8211;"
+" You&lsquo;re almost ready to start"
+msgstr ""
+"<strong>Bienvenido a WooCommerce Customer Relationship Manager</strong> "
+"&#8211; Estás casi listo para empezar"
+
+#: ../includes/admin/views/html-notice-install.php:12
+msgid "Run the Setup Wizard"
+msgstr "Lanzar el asistente de instalación"
+
+#: ../includes/admin/views/html-reload-customers.php:40 
+#: ../includes/views/html- reload-customers.php:40
+#, php-format
+msgid "To go back to the previous page, <a href=\"%s\">click here</a>."
+msgstr "Para volver a la página anterior, <a href=\"%s\">clica aquí</a>."
+
+#: ../includes/admin/views/html-reload-customers.php:43 
+#: ../includes/views/html- reload-customers.php:43
+#, php-format
+msgid ""
+"All done! %1$s customer(s) were successfully loaded in %2$s seconds and "
+"there were %3$s failure(s). To try reloading the failed customers again, <a "
+"href=\"%4$s\">click here</a>. %5$s"
+msgstr ""
+"¡Hecho! %1$s paciente(s) se cargaron correctamente en %2$s segundos, y hubo "
+"%3$s error(es). Intenta cargar de nuevo los pacientes/clientes fallidos, <a "
+"href=\"%4$s\">clica aquí</a>. %5$s"
+
+#: ../includes/admin/views/html-reload-customers.php:44 
+#: ../includes/views/html- reload-customers.php:44
+#, php-format
+msgid ""
+"All done! %1$s customer(s) were successfully loaded in %2$s seconds and "
+"there were 0 failures. %3$s"
+msgstr ""
+"¡Hecho! %1$s paciente(s) se cargaron correctamente en %2$s segundos y hubo 0 "
+"fallos.%3$s"
+
+#: ../includes/admin/views/html-reload-customers.php:52 
+#: ../includes/views/html- reload-customers.php:58
+msgid "Process Information"
+msgstr "Procesar información"
+
+#: ../includes/admin/views/html-reload-customers.php:54 
+#: ../includes/views/html- reload-customers.php:60
+msgid "Total users"
+msgstr "Usuarios totales"
+
+#: ../includes/admin/views/html-reload-customers.php:55 
+#: ../includes/views/html- reload-customers.php:61
+msgid "Total guests"
+msgstr "Invitados totales"
+
+#: ../includes/admin/views/html-reload-customers.php:56 
+#: ../includes/views/html- reload-customers.php:62
+msgid "Success"
+msgstr "Hecho"
+
+#: ../includes/admin/views/html-reload-customers.php:57 
+#: ../includes/views/html- reload-customers.php:63
+msgid "Failure"
+msgstr "Error"
+
+#: ../includes/admin/views/html-reload-customers.php:104 
+#: ../includes/views/html- reload-customers.php:101
+msgid "Stopping..."
+msgstr "Deteniéndolo..."
+
+#: ../includes/admin/views/html-admin-settings.php:22
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+#: ../includes/views/html-about-news.php:17
+msgid ""
+"To cater for bigger databases, we've optimised the performance of the plugin "
+"when handling larger records and number of customers.."
+msgstr ""
+"Para abastecer bases de datos más grandes, optimizamos el rendimiento del "
+"plugin cuando manejamos registros más grandes y número de clientes."
+
+#: ../includes/views/html-reload-customers.php:46
+msgid "Reload customers"
+msgstr "Recargar pacientes"
+
+#: ../includes/views/html-reload-customers.php:49
+msgid ""
+"Please be patient while the customers are reloaded. You will be notified via "
+"this page when the reloading is completed."
+msgstr ""
+"Por favor, se paciente mientras los pacientes se recargan. Se te notificará "
+"en esta página cuando el proceso se haya completado."
+
+#: ../includes/screen/class-wc-crm-screen-customer-filters.php:109
+msgid "Show all customer statuses"
+msgstr "Mostrar todos los estados de los pacientes"
+
+#: ../includes/screen/class-wc-crm-screen-customer-filters.php:137
+msgid "Show all countries"
+msgstr "Mostrar todos los paises"
+
+#: ../includes/screen/class-wc-crm-screen-customer-filters.php:163
+msgid "Show all states"
+msgstr "Mostrar todas las provincias"
+
+#: ../includes/screen/class-wc-crm-screen-customer-filters.php:186
+msgid "Show all cities"
+msgstr "Mostrar todas las ciudades"
+
+#: ../includes/screen/class-wc-crm-screen-customer-filters.php:204
+msgid "All time results"
+msgstr "Resultados de todos los tiempos"
+
+#: ../includes/screen/class-wc-crm-screen-customer-filters.php:209
+msgid "Last 24 hours"
+msgstr "Últimas 24 horas"
+
+#: ../includes/screen/class-wc-crm-screen-customer-filters.php:214
+msgid "This month"
+msgstr "Este mes"
+
+#: ../includes/screen/class-wc-crm-screen-customer-filters.php:218
+msgid "Last 30 days"
+msgstr "Últimos 30 días"
+
+#: ../includes/screen/class-wc-crm-screen-customer-filters.php:222
+msgid "Last 6 months"
+msgstr "Últimos 6 meses"
+
+#: ../includes/screen/class-wc-crm-screen-customer-filters.php:226
+msgid "Last 12 months"
+msgstr "Últimos 12 meses"
+
+#: ../includes/screen/class-wc-crm-screen-customer-filters.php:234
+msgid "Show all user roles"
+msgstr "Mostrar todos los roles de usuarios"
+
+#: ../includes/screen/class-wc-crm-screen-customer-filters.php:276
+msgid "Show all statuses"
+msgstr "Mostrar todos los estados"
+
+#: ../includes/screen/class-wc-crm-screen-groups.php:86
+msgid "Please, provide a group name, slug and type."
+msgstr "Por favor, indica un nombre al grupo, slug (identificador) y tipo."
+
+#: ../includes/screen/class-wc-crm-screen-groups.php:88
+#, php-format
+msgid "Slug “%s” is too long (28 characters max). Shorten it, please."
+msgstr ""
+"El slug (identificador) \"%s\" es muy largo (máximo 28 caracteres). Acórtalo,"
+" por favor."
+
+#: ../includes/screen/class-wc-crm-screen-groups.php:90 
+#: ../includes/screen/class- wc-crm-screen-groups.php:92
+#, php-format
+msgid ""
+"Slug “%s” is not allowed because it is a reserved term. Change it, please."
+msgstr ""
+"El slug (identificador) \"%s\" no se permite porque es un término reservado. "
+"Por favor, cámbialo."
+
+#: ../includes/screen/class-wc-crm-screen-groups.php:97
+#, php-format
+msgid "Slug “%s” is already in use. Change it, please."
+msgstr "El slug (identificador) \"%s\" ya está en uso. Por favor, cámbialo."
+
+#: ../includes/screen/class-wc-crm-screen-groups.php:137
+msgid "Group successfully added."
+msgstr "Grupo añadido satisfactoriamente."
+
+#: ../includes/screen/class-wc-crm-screen-groups.php:147
+msgid "Group successfully updated."
+msgstr "Grupo actualizado correctamente."
+
+#: ../includes/screen/class-wc-crm-screen-groups.php:162
+msgid "Group deleted"
+msgstr "Grupo borrado"
+
+#: ../includes/screen/class-wc-crm-screen-groups.php:175
+#, php-format
+msgid "%d Groups deleted."
+msgid_plural "%d Groups deleted."
+msgstr[0] "%d grupo borrado"
+msgstr[1] "%d grupos borrados"
+
+#: ../includes/screen/class-wc-crm-screen-groups.php:216
+msgid "Edit group"
+msgstr "Editar grupo"
+
+#: ../includes/screen/class-wc-crm-screen-groups.php:218
+msgid "Groups are used to organise your customers."
+msgstr "Los grupos se usan para organizar a tus pacientes."
+
+#: ../includes/screen/class-wc-crm-screen-groups.php:234 
+#: ../includes/screen/class- wc-crm-screen-groups.php:438 
+#: ../includes/screen/tables/class-wc-crm-table- 
+#: customer-products-purchased.php:81 ../includes/screen/tables/class-wc-crm- 
+#: table-customer-activity.php:54 
+#: ../includes/screen/tables/class-wc-crm-table- activity.php:69 
+#: ../includes/screen/tables/class-wc-crm-table-groups.php:72 .. 
+#: includes/screen/views/html-activity-phone-call.php:17 .. 
+#: includes/screen/views/html-phone-call.php:69
+msgid "Type"
+msgstr "Tipo"
+
+#: ../includes/screen/class-wc-crm-screen-groups.php:238 
+#: ../includes/screen/class- wc-crm-screen-groups.php:440
+msgid "Dynamic"
+msgstr "Dinámico"
+
+#: ../includes/screen/class-wc-crm-screen-groups.php:239 
+#: ../includes/screen/class- wc-crm-screen-groups.php:441
+msgid "Static"
+msgstr "Estático"
+
+#: ../includes/screen/class-wc-crm-screen-groups.php:242 
+#: ../includes/screen/class- wc-crm-screen-groups.php:444
+msgid "Determines how you select group for customers."
+msgstr "Determina cómo se seleccionan los grupos para los pacientes."
+
+#: ../includes/screen/class-wc-crm-screen-groups.php:248 
+#: ../includes/screen/class- wc-crm-screen-groups.php:447
+msgid "Total Spent"
+msgstr "Total gastado"
+
+#: ../includes/screen/class-wc-crm-screen-groups.php:252 
+#: ../includes/screen/class- wc-crm-screen-groups.php:449
+msgid "="
+msgstr "="
+
+#: ../includes/screen/class-wc-crm-screen-groups.php:253 
+#: ../includes/screen/class- wc-crm-screen-groups.php:450
+msgid "&gt;"
+msgstr "&gt;"
+
+#: ../includes/screen/class-wc-crm-screen-groups.php:254 
+#: ../includes/screen/class- wc-crm-screen-groups.php:451
+msgid "&lt;"
+msgstr "&lt;"
+
+#: ../includes/screen/class-wc-crm-screen-groups.php:255 
+#: ../includes/screen/class- wc-crm-screen-groups.php:452
+msgid "&ge;"
+msgstr "&ge;"
+
+#: ../includes/screen/class-wc-crm-screen-groups.php:256 
+#: ../includes/screen/class- wc-crm-screen-groups.php:453
+msgid "&le;"
+msgstr "&le;"
+
+#: ../includes/screen/class-wc-crm-screen-groups.php:264 
+#: ../includes/screen/class- wc-crm-screen-groups.php:458
+msgid "User Role"
+msgstr "Rol de usuario"
+
+#: ../includes/screen/class-wc-crm-screen-groups.php:269 
+#: ../includes/screen/class- wc-crm-screen-groups.php:461
+msgid "Any"
+msgstr "Cualquiera"
+
+#: ../includes/screen/class-wc-crm-screen-groups.php:291 
+#: ../includes/screen/class- wc-crm-screen-groups.php:479
+msgid "Choose a Customer Status..."
+msgstr "Elige un estado del paciente..."
+
+#: ../includes/screen/class-wc-crm-screen-groups.php:306 
+#: ../includes/screen/class- wc-crm-screen-groups.php:492
+msgid "Product Category"
+msgstr "Categoría de producto"
+
+#: ../includes/screen/class-wc-crm-screen-groups.php:309 
+#: ../includes/screen/class- wc-crm-screen-groups.php:329 
+#: ../includes/screen/class-wc-crm-screen-groups.php: 493 
+#: ../includes/screen/class-wc-crm-screen-groups.php:509
+msgid "Choose a Product Category..."
+msgstr "Elige una categoría de producto..."
+
+#: ../includes/screen/class-wc-crm-screen-groups.php:351 
+#: ../includes/screen/class- wc-crm-screen-groups.php:527
+msgid "Between"
+msgstr "Entre"
+
+#: ../includes/screen/class-wc-crm-screen-groups.php:352 
+#: ../includes/screen/class- wc-crm-screen-groups.php:528
+msgid "Before"
+msgstr "Antes"
+
+#: ../includes/screen/class-wc-crm-screen-groups.php:353 
+#: ../includes/screen/class- wc-crm-screen-groups.php:529
+msgid "After"
+msgstr "Después"
+
+#: ../includes/screen/class-wc-crm-screen-groups.php:373
+msgid "Update"
+msgstr "Actualizar"
+
+#: ../includes/screen/class-wc-crm-screen-groups.php:405 .. 
+#: includes/screen/views/html-customer-groups.php:8
+msgid "Customer Groups"
+msgstr "Grupos de pacientes"
+
+#: ../includes/screen/class-wc-crm-screen-groups.php:422
+msgid "Add New group"
+msgstr "Añadir un grupo nuevo"
+
+#: ../includes/screen/class-wc-crm-screen-groups.php:423
+msgid ""
+"Groups are used to organise your customers. Please Note: you cannot rename a "
+"group later."
+msgstr ""
+"Los grupos se usan para organizar a los pacientes. Tenga en cuenta que no se "
+"pueden renombrar los grupos más adelante."
+
+#: ../includes/screen/class-wc-crm-screen-groups.php:428
+msgid "Name for the group."
+msgstr "Nombre para el grupo"
+
+#: ../includes/screen/class-wc-crm-screen-groups.php:434
+msgid ""
+"Unique slug/reference for the group; must be shorter than 28 characters."
+msgstr ""
+"Slug/identificador único para el grupo; debe tener menos de 28 caracteres."
+
+#: ../includes/screen/class-wc-crm-screen-groups.php:546
+msgid "Add group"
+msgstr "Añadir grupo"
+
+#: ../includes/screen/class-wc-crm-screen-groups.php:557
+msgid "Are you sure you want to delete this group?"
+msgstr "¿Seguro que quieres borrar este grupo?"
+
+#: ../includes/screen/class-wc-crm-screen-customers-list.php:39
+msgid "Search"
+msgstr "Buscar"
+
+#: ../includes/screen/class-wc-crm-screen-customers-list.php:41
+msgid "Search Customers"
+msgstr "Buscar pacientes"
+
+#: ../includes/screen/class-wc-crm-screen-customers-list.php:79
+msgid "Customers group "
+msgstr "Grupo de pacientes"
+
+#: ../includes/screen/class-wc-crm-screen-customers-edit.php:34
+msgid "Edit Customer "
+msgstr "Editar paciente"
+
+#: ../includes/screen/class-wc-crm-screen-customers-edit.php:100 .. 
+#: includes/screen/class-wc-crm-screen-customers-edit.php:260
+msgid "Please enter an e-mail address."
+msgstr "Por favor, introduce una dirección de email."
+
+#: ../includes/screen/class-wc-crm-screen-customers-edit.php:104 .. 
+#: includes/screen/class-wc-crm-screen-customers-edit.php:264
+msgid "The email address isn't correct."
+msgstr "La dirección de email no es correcta."
+
+#: ../includes/screen/class-wc-crm-screen-customers-edit.php:108 .. 
+#: includes/screen/class-wc-crm-screen-customers-edit.php:268
+msgid "This email is already registered, please choose another one."
+msgstr "Este email ya se ha registrado, por favor elige otro distinto."
+
+#: ../includes/screen/class-wc-crm-screen-customers-edit.php:253
+msgid "Customer updated."
+msgstr "Paciente actualizado."
+
+#: ../includes/screen/class-wc-crm-screen-customers-edit.php:321
+msgid "Customer created."
+msgstr "Paciente creado."
+
+#: ../includes/screen/class-wc-crm-screen-customers-edit.php:582 .. 
+#: includes/screen/views/html-customer-notes.php:20
+#, php-format
+msgid "added %s ago"
+msgstr "añadido hace %s"
+
+#: ../includes/screen/class-wc-crm-screen-customers-edit.php:590
+msgid "There are no notes for this customer yet."
+msgstr "Aún no hay notas para este paciente."
+
+#: ../includes/screen/class-wc-crm-screen-activity.php:43
+msgid "Email Details"
+msgstr "Detalles de email"
+
+#: ../includes/screen/class-wc-crm-screen-activity.php:46 .. 
+#: includes/screen/views/html-phone-call.php:133
+msgid "Call Details"
+msgstr "Detalles de llamada"
+
+#: ../includes/screen/class-wc-crm-screen-activity.php:150
+msgid "Phone call saved."
+msgstr "Llamada de teléfono guardada."
+
+#: ../includes/screen/class-wc-crm-screen-activity.php:206
+msgid "Email sent."
+msgstr "Email enviado."
+
+#: ../includes/screen/class-wc-crm-screen-activity-filters.php:35
+msgid "Empty Trash"
+msgstr "Vaciar papelera"
+
+#: ../includes/screen/class-wc-crm-screen-activity-filters.php:47
+msgid "Phone Call"
+msgstr "Llamada de teléfono"
+
+#: ../includes/screen/class-wc-crm-screen-activity-filters.php:51
+msgid "Show all types"
+msgstr "Mostrar todos los tipos"
+
+#: ../includes/screen/class-wc-crm-screen-activity-filters.php:83
+msgid "Show all dates"
+msgstr "Mostrar todas las fechas"
+
+#. translators: 1: month name, 2: 4-digit year
+#: ../includes/screen/class-wc-crm-screen-activity-filters.php:96
+#, php-format
+msgid "%1$s %2$d"
+msgstr "%1$s %2$d"
+
+#: ../includes/screen/class-wc-crm-screen-activity-filters.php:112
+msgid "Show all authors"
+msgstr "Mostrar todos los autores"
+
+#: ../includes/screen/tables/class-wc-crm-table-customer-orders.php:31 .. 
+#: includes/screen/views/html-phone-call.php:121
+msgid "order"
+msgstr "pedido"
+
+#: ../includes/screen/tables/class-wc-crm-table-customer-orders.php:32
+msgid "orders"
+msgstr "pedidos"
+
+#: ../includes/screen/tables/class-wc-crm-table-customer-orders.php:41
+msgid "No orders data found."
+msgstr "No se han encontrado pedidos."
+
+#: ../includes/screen/tables/class-wc-crm-table-customer-orders.php:91 .. 
+#: includes/screen/tables/class-wc-crm-table-customer-orders.php:91
+msgid "Status"
+msgstr "Estados"
+
+#: ../includes/screen/tables/class-wc-crm-table-customer-orders.php:92 .. 
+#: includes/screen/views/html-phone-call.php:121
+msgid "Order"
+msgstr "Pedido"
+
+#: ../includes/screen/tables/class-wc-crm-table-customer-orders.php:93
+msgid "Purchased"
+msgstr "Comprado"
+
+#: ../includes/screen/tables/class-wc-crm-table-customer-orders.php:94
+msgid "Ship to"
+msgstr "Enviar a"
+
+#: ../includes/screen/tables/class-wc-crm-table-customer-orders.php:95
+msgid "Customer Message"
+msgstr "Mensaje del paciente"
+
+#: ../includes/screen/tables/class-wc-crm-table-customer-orders.php:96 .. 
+#: includes/screen/tables/class-wc-crm-table-customer-activity.php:55 .. 
+#: includes/screen/tables/class-wc-crm-table-activity.php:70
+msgid "Date"
+msgstr "Fecha"
+
+#: ../includes/screen/tables/class-wc-crm-table-customer-orders.php:97
+msgid "Total"
+msgstr "Total"
+
+#: ../includes/screen/tables/class-wc-crm-table-customer-orders.php:98 .. 
+#: includes/screen/tables/class-wc-crm-table-customer-products-purchased.php:84
+#:  . ./includes/screen/tables/class-wc-crm-table-customer-activity.php:57 .. 
+#: includes/screen/tables/class-wc-crm-table-activity.php:74 .. 
+#: includes/screen/tables/class-wc-crm-table-customers.php:137 .. 
+#: includes/screen/views/html-customer-actions.php:14
+msgid "Actions"
+msgstr "Acciones"
+
+#: ../includes/screen/tables/class-wc-crm-table-customer-orders.php:126
+msgid "View Order"
+msgstr "Ver pedidos"
+
+#: ../includes/screen/tables/class-wc-crm-table-customer-orders.php:131 .. 
+#: includes/screen/tables/class-wc-crm-table-customer-products-purchased.php:103
+msgid "Select"
+msgstr "Seleccionar"
+
+#: ../includes/screen/tables/class-wc-crm-table-customer-status.php:24
+msgid "status"
+msgstr "estado"
+
+#: ../includes/screen/tables/class-wc-crm-table-customer-status.php:25
+msgid "statuses"
+msgstr "estados"
+
+#: ../includes/screen/tables/class-wc-crm-table-customer-status.php:31
+msgid "No custom statuses have been found. Try to adjust the filter."
+msgstr ""
+"No se han encontrado estados personalizados. Trata de ajustar el filtro."
+
+#: ../includes/screen/tables/class-wc-crm-table-customer-status.php:76 .. 
+#: includes/screen/tables/class-wc-crm-table-groups.php:95
+msgid "Delete"
+msgstr "Borrar"
+
+#: ../includes/screen/tables/class-wc-crm-table-customer-products-purchased.php:
+#:  30 ../includes/screen/views/html-phone-call.php:122
+msgid "product"
+msgstr "producto"
+
+#: ../includes/screen/tables/class-wc-crm-table-customer-products-purchased.php:31
+msgid "products"
+msgstr "productos"
+
+#: ../includes/screen/tables/class-wc-crm-table-customer-products-purchased.php:38
+msgid "No products data found."
+msgstr "Datos de producto no encontrados."
+
+#: ../includes/screen/tables/class-wc-crm-table-customer-products-purchased.php:75
+msgid "Image"
+msgstr "Imagen"
+
+#: ../includes/screen/tables/class-wc-crm-table-customer-products-purchased.php:77
+msgid "SKU"
+msgstr "SKU"
+
+#: ../includes/screen/tables/class-wc-crm-table-customer-products-purchased.php:78
+msgid "Stock"
+msgstr "Stock"
+
+#: ../includes/screen/tables/class-wc-crm-table-customer-products-purchased.php:79
+msgid "Price"
+msgstr "Precio"
+
+#: ../includes/screen/tables/class-wc-crm-table-customer-products-purchased.php:82
+msgid "Number Purchased"
+msgstr "Número comprados"
+
+#: ../includes/screen/tables/class-wc-crm-table-customer-products-purchased.php:83
+msgid "Value of Purchases"
+msgstr "Valor de las compras"
+
+#: ../includes/screen/tables/class-wc-crm-table-customer-activity.php:22 .. 
+#: includes/screen/tables/class-wc-crm-table-activity.php:21
+msgid "log"
+msgstr "registro"
+
+#: ../includes/screen/tables/class-wc-crm-table-customer-activity.php:23 .. 
+#: includes/screen/tables/class-wc-crm-table-activity.php:22
+msgid "logs"
+msgstr "registros"
+
+#: ../includes/screen/tables/class-wc-crm-table-customer-activity.php:53 .. 
+#: includes/screen/tables/class-wc-crm-table-activity.php:68 .. 
+#: includes/screen/views/html-email-form.php:39 ../includes/screen/views/html- 
+#: activity-email.php:37 
+#: ../includes/screen/views/html-activity-phone-call.php:13 
+#: ../includes/screen/views/html-phone-call.php:58
+msgid "Subject"
+msgstr "Asunto"
+
+#: ../includes/screen/tables/class-wc-crm-table-customer-activity.php:56 .. 
+#: includes/screen/tables/class-wc-crm-table-activity.php:71
+msgid "Author"
+msgstr "Autor"
+
+#: ../includes/screen/tables/class-wc-crm-table-customer-activity.php:71 .. 
+#: includes/screen/tables/class-wc-crm-table-activity.php:28
+msgid "No found."
+msgstr "No encontrado."
+
+#: ../includes/screen/tables/class-wc-crm-table-customer-activity.php:93 .. 
+#: includes/screen/tables/class-wc-crm-table-activity.php:86
+msgid "View"
+msgstr "Ver"
+
+#: ../includes/screen/tables/class-wc-crm-table-customer-activity.php:98 .. 
+#: includes/screen/tables/class-wc-crm-table-activity.php:91
+msgid "Trash"
+msgstr "Papelera"
+
+#: ../includes/screen/tables/class-wc-crm-table-customers.php:25
+msgid "customer"
+msgstr "paciente"
+
+#: ../includes/screen/tables/class-wc-crm-table-customers.php:26
+msgid "customers"
+msgstr "pacientes"
+
+#: ../includes/screen/tables/class-wc-crm-table-customers.php:76
+msgid "Customers not found."
+msgstr "Pacientes no encontrados."
+
+#: ../includes/screen/tables/class-wc-crm-table-customers.php:78
+msgid "Customers not found. Try to adjust the filter."
+msgstr "Pacientes no encontrados. Intenta ajustar el filtro."
+
+#: ../includes/screen/tables/class-wc-crm-table-customers.php:118
+msgid "Contact Details"
+msgstr "Detalles de contacto"
+
+#: ../includes/screen/tables/class-wc-crm-table-customers.php:119 .. 
+#: includes/screen/tables/class-wc-crm-table-customers.php:119 .. 
+#: includes/screen/views/html-customer-notes.php:8
+msgid "Customer Notes"
+msgstr "Notas de paciente"
+
+#: ../includes/screen/tables/class-wc-crm-table-customers.php:129
+msgid "Subscribed"
+msgstr "Suscrito"
+
+#: ../includes/screen/tables/class-wc-crm-table-customers.php:165 .. 
+#: includes/screen/tables/class-wc-crm-table-customers.php:342 .. 
+#: includes/screen/views/html-email-form.php:8
+msgid "Send Email"
+msgstr "Enviar email"
+
+#: ../includes/screen/tables/class-wc-crm-table-customers.php:166
+msgid "Export Contacts"
+msgstr "Exportar contactos"
+
+#: ../includes/screen/tables/class-wc-crm-table-customers.php:170
+#, php-format
+msgid "Mark as %s"
+msgstr "Marcar como %s"
+
+#: ../includes/screen/tables/class-wc-crm-table-customers.php:175
+#, php-format
+msgid "Add to %s"
+msgstr "Añadir a %s"
+
+#: ../includes/screen/tables/class-wc-crm-table-customers.php:183
+#, php-format
+msgid "Select %s"
+msgstr "Seleccionar %s"
+
+#: ../includes/screen/tables/class-wc-crm-table-customers.php:228
+#, php-format
+msgid "Email: %s"
+msgstr "Email: %s"
+
+#: ../includes/screen/tables/class-wc-crm-table-customers.php:251
+#, php-format
+msgid "%d order"
+msgid_plural "%d orders"
+msgstr[0] "%d pedido"
+msgstr[1] "%d pedidos"
+
+#: ../includes/screen/tables/class-wc-crm-table-customers.php:306 .. 
+#: includes/screen/tables/class-wc-crm-table-customers.php:310
+msgid "-"
+msgstr "-"
+
+#: ../includes/screen/tables/class-wc-crm-table-customers.php:323
+msgid "Edit Customer"
+msgstr "Editar paciente"
+
+#: ../includes/screen/tables/class-wc-crm-table-customers.php:331
+msgid "View Orders"
+msgstr "Ver pedidos"
+
+#: ../includes/screen/tables/class-wc-crm-table-customers.php:349 .. 
+#: includes/screen/views/html-phone-call.php:32
+msgid "Place Call"
+msgstr "Establecer una llamada"
+
+#: ../includes/screen/tables/class-wc-crm-table-groups.php:22
+msgid "groups_table"
+msgstr "groups_table"
+
+#: ../includes/screen/tables/class-wc-crm-table-groups.php:23
+msgid "groups_tables"
+msgstr "groups_tables"
+
+#: ../includes/screen/tables/class-wc-crm-table-groups.php:46
+msgid "Groups not found. Try to adjust the filter."
+msgstr "Grupos no encontrados. Trata de ajustar el filtro."
+
+#: ../includes/screen/tables/class-wc-crm-table-groups.php:73
+msgid "Terms"
+msgstr "Términos"
+
+#: ../includes/screen/tables/class-wc-crm-table-groups.php:107 .. 
+#: includes/screen/tables/class-wc-crm-table-groups.php:107
+msgid "View Customers in Group"
+msgstr "Ver pacientes en el grupo"
+
+#: ../includes/screen/tables/class-wc-crm-table-groups.php:130
+#, php-format
+msgid "Customer status is %s"
+msgstr "El estado del paciente es %s"
+
+#: ../includes/screen/tables/class-wc-crm-table-groups.php:142
+#, php-format
+msgid "Product category is %s"
+msgstr "La categoría del producto es %s"
+
+#: ../includes/screen/tables/class-wc-crm-table-groups.php:155
+#, php-format
+msgid "Order status is %s"
+msgstr "El estado del pedido es %s"
+
+#: ../includes/screen/views/html-customer-groups.php:18
+msgid "Search for a group…"
+msgstr "Buscar un grupo..."
+
+#: ../includes/screen/views/html-customer-details.php:16
+msgid "details"
+msgstr "detalles"
+
+#: ../includes/screen/views/html-customer-details.php:23
+#, php-format
+msgid "1 order"
+msgid_plural "%s orders"
+msgstr[0] "1 pedido"
+msgstr[1] "%s pedidos"
+
+#: ../includes/screen/views/html-customer-details.php:75
+msgid "Billing Details "
+msgstr "Detalles de facturación"
+
+#: ../includes/screen/views/html-customer-details.php:78 .. 
+#: includes/screen/views/html-customer-details.php:78
+msgid "Load billing address"
+msgstr "Cargar la dirección de facturación"
+
+#: ../includes/screen/views/html-customer-details.php:104
+msgid "Preferred Payment Method"
+msgstr "Método de pago preferido"
+
+#: ../includes/screen/views/html-customer-details.php:137
+msgid "Payment Method:"
+msgstr "Método de pago:"
+
+#: ../includes/screen/views/html-customer-details.php:139
+msgid "N/A"
+msgstr "N/A"
+
+#: ../includes/screen/views/html-customer-details.php:163
+msgid "Shipping Details "
+msgstr "Detalles de envio"
+
+#: ../includes/screen/views/html-customer-details.php:166 .. 
+#: includes/screen/views/html-customer-details.php:166
+msgid "Copy from billing"
+msgstr "Copiar de facturación"
+
+#: ../includes/screen/views/html-customer-details.php:167 .. 
+#: includes/screen/views/html-customer-details.php:167
+msgid "Load shipping address"
+msgstr "Cargar dirección de envio"
+
+#: ../includes/screen/views/html-customer-actions.php:8
+msgid "Customer Actions"
+msgstr "Acciones del paciente"
+
+#: ../includes/screen/views/html-customer-actions.php:20
+msgid "New order"
+msgstr "Nuevo pedido"
+
+#: ../includes/screen/views/html-customer-actions.php:21 .. 
+#: includes/screen/views/html-email-form.php:60
+msgid "Send email"
+msgstr "Enviar email"
+
+#: ../includes/screen/views/html-customer-actions.php:22
+msgid "Add a new call"
+msgstr "Añadir una nueva llamada"
+
+#: ../includes/screen/views/html-email-form.php:9
+msgid "Compose a new email to the customer."
+msgstr "Escribir un nuevo email al paciente."
+
+#: ../includes/screen/views/html-email-form.php:15
+msgid "From Name"
+msgstr "Del nombre"
+
+#: ../includes/screen/views/html-email-form.php:23
+msgid "From Email Address"
+msgstr "Del email"
+
+#: ../includes/screen/views/html-email-form.php:31
+msgid "Recipients"
+msgstr "Destinatarios"
+
+#: ../includes/screen/views/html-email-form.php:47
+msgid "Body"
+msgstr "Cuerpo"
+
+#: ../includes/screen/views/html-customer-orders.php:9
+msgid "Customer Orders"
+msgstr "Pedidos del paciente"
+
+#: ../includes/screen/views/html-activity-email.php:9 .. 
+#: includes/screen/views/html-activity-phone-call.php:9
+msgid "Activity #"
+msgstr "Actividad #"
+
+#: ../includes/screen/views/html-activity-email.php:9 .. 
+#: includes/screen/views/html-activity-phone-call.php:9
+msgid " details"
+msgstr "detalles"
+
+#: ../includes/screen/views/html-activity-email.php:10
+msgid "Email sent on "
+msgstr "Email enviado"
+
+#: ../includes/screen/views/html-activity-email.php:10 .. 
+#: includes/screen/views/html-activity-phone-call.php:10
+msgid "at"
+msgstr "en"
+
+#: ../includes/screen/views/html-activity-email.php:13
+msgid "From"
+msgstr "Desde"
+
+#: ../includes/screen/views/html-activity-email.php:22
+msgid "To"
+msgstr "Para"
+
+#: ../includes/screen/views/html-activity-email.php:41
+msgid "Message"
+msgstr "Mensaje"
+
+#: ../includes/screen/views/html-activity-phone-call.php:10
+msgid "Call placed on "
+msgstr "Llamada establecida"
+
+#: ../includes/screen/views/html-activity-phone-call.php:21 .. 
+#: includes/screen/views/html-phone-call.php:81
+msgid "Purpose"
+msgstr "Motivo"
+
+#: ../includes/screen/views/html-activity-phone-call.php:44 .. 
+#: includes/screen/views/html-phone-call.php:116
+msgid "Related To"
+msgstr "Relacionado con"
+
+#: ../includes/screen/views/html-activity-phone-call.php:52 .. 
+#: includes/screen/views/html-phone-call.php:186
+msgid "Call Duration"
+msgstr "Duración de la llamada"
+
+#: ../includes/screen/views/html-activity-phone-call.php:56
+msgid "Call Result"
+msgstr "Resultado de la llamada"
+
+#: ../includes/screen/views/html-phone-call.php:13
+msgid "Place New Call"
+msgstr "Establecer una nueva llamada"
+
+#: ../includes/screen/views/html-phone-call.php:17
+msgid "Place a new call with"
+msgstr "Establecer una nueva llamada con"
+
+#: ../includes/screen/views/html-phone-call.php:17
+msgid "on"
+msgstr "en"
+
+#: ../includes/screen/views/html-phone-call.php:17
+msgid "using the fields below."
+msgstr "usando los campos inferiores."
+
+#: ../includes/screen/views/html-phone-call.php:26 
+#: ../includes/screen/views/html- phone-call.php:43
+msgid "Phone Number"
+msgstr "Número de teléfono"
+
+#: ../includes/screen/views/html-phone-call.php:27 
+#: ../includes/screen/views/html- phone-call.php:44 
+#: ../includes/screen/views/html-phone-call.php:59 .. 
+#: includes/screen/views/html-phone-call.php:117 
+#: ../includes/screen/views/html- phone-call.php:172 
+#: ../includes/screen/views/html-phone-call.php:187
+msgid "(required)"
+msgstr "(obligatorio)"
+
+#: ../includes/screen/views/html-phone-call.php:33 
+#: ../includes/screen/views/html- phone-call.php:48
+msgid "Enter phone number of this phone call."
+msgstr "Introduce un número de teléfono para esta llamada."
+
+#: ../includes/screen/views/html-phone-call.php:34 
+#: ../includes/screen/views/html- phone-call.php:49
+msgid "Phone number of the call is missing."
+msgstr "Falta el número de teléfono de la llamada."
+
+#: ../includes/screen/views/html-phone-call.php:63
+msgid "Subject of the phone call is missing."
+msgstr "Falta el asunto de la llamada."
+
+#: ../includes/screen/views/html-phone-call.php:64
+msgid "Enter the subject/topic of this phone call."
+msgstr "Introduce el asunto/motivo de esta llamada."
+
+#: ../includes/screen/views/html-phone-call.php:73 
+#: ../includes/screen/views/html- phone-call.php:73
+msgid "Inbound"
+msgstr "Entrante"
+
+#: ../includes/screen/views/html-phone-call.php:74 
+#: ../includes/screen/views/html- phone-call.php:74
+msgid "Outbound"
+msgstr "Saliente"
+
+#: ../includes/screen/views/html-phone-call.php:76
+msgid "Select the type of the phone call."
+msgstr "Selecciona el tipo de llamada."
+
+#: ../includes/screen/views/html-phone-call.php:85 
+#: ../includes/screen/views/html- phone-call.php:85
+msgid "None"
+msgstr "Ninguno"
+
+#: ../includes/screen/views/html-phone-call.php:86 
+#: ../includes/screen/views/html- phone-call.php:86
+msgid "Prospecting"
+msgstr "Prospección"
+
+#: ../includes/screen/views/html-phone-call.php:87 
+#: ../includes/screen/views/html- phone-call.php:87
+msgid "Administrative"
+msgstr "Administrativo"
+
+#: ../includes/screen/views/html-phone-call.php:88 
+#: ../includes/screen/views/html- phone-call.php:88
+msgid "Negotiation"
+msgstr "Negociación"
+
+#: ../includes/screen/views/html-phone-call.php:89 
+#: ../includes/screen/views/html- phone-call.php:89
+msgid "Demo"
+msgstr "Demo"
+
+#: ../includes/screen/views/html-phone-call.php:90 
+#: ../includes/screen/views/html- phone-call.php:90
+msgid "Project"
+msgstr "Proyecto"
+
+#: ../includes/screen/views/html-phone-call.php:93
+msgid "Select the purpose of the phone call."
+msgstr "Selecciona el motivo de la llamada."
+
+#: ../includes/screen/views/html-phone-call.php:122
+msgid "Product"
+msgstr "Producto"
+
+#: ../includes/screen/views/html-phone-call.php:125
+msgid "Find"
+msgstr "Encontrar"
+
+#: ../includes/screen/views/html-phone-call.php:127
+msgid "Enter the order/product or use the \"Find\" button to search for it."
+msgstr ""
+"Introduce el pedido/producto o usa el botón de \"Encontrar\" para buscarlo."
+
+#: ../includes/screen/views/html-phone-call.php:128
+msgid "Subject of the phone call is missing"
+msgstr "Falta el motivo de llamada."
+
+#: ../includes/screen/views/html-phone-call.php:138
+msgid "Current Call"
+msgstr "Llamada actual"
+
+#: ../includes/screen/views/html-phone-call.php:142
+msgid "Completed Call"
+msgstr "Llamada completada"
+
+#: ../includes/screen/views/html-phone-call.php:147
+msgid "Call Timer"
+msgstr "Temporizador de llamada"
+
+#: ../includes/screen/views/html-phone-call.php:151
+msgid "Start"
+msgstr "Empezar"
+
+#: ../includes/screen/views/html-phone-call.php:152
+msgid "Stop"
+msgstr "Parar"
+
+#: ../includes/screen/views/html-phone-call.php:153
+msgid "Pause/Resume"
+msgstr "Pausar/Resumir"
+
+#: ../includes/screen/views/html-phone-call.php:154
+msgid "Reset"
+msgstr "Resetear"
+
+#: ../includes/screen/views/html-phone-call.php:159
+msgid "Call Date"
+msgstr "Fecha de llamada"
+
+#: ../includes/screen/views/html-phone-call.php:164
+msgid "Phone call date entered is incorrect or invalid."
+msgstr "La fecha introducida de la llamada es incorrecta o inválida."
+
+#: ../includes/screen/views/html-phone-call.php:171
+msgid "Call Time"
+msgstr "Hora de llamada"
+
+#: ../includes/screen/views/html-phone-call.php:179
+msgid "Call time is incorrect/invalid."
+msgstr "La hora de la llamada es incorrecta/inválida."
+
+#: ../includes/screen/views/html-phone-call.php:191
+msgid "h"
+msgstr "h"
+
+#: ../includes/screen/views/html-phone-call.php:192
+msgid "m"
+msgstr "m"
+
+#: ../includes/screen/views/html-phone-call.php:193
+msgid "s"
+msgstr "s"
+
+#: ../includes/screen/views/html-phone-call.php:194
+msgid "Call duration is incorrect/invalid."
+msgstr "La duración de la llamada es incorrecta/inválida"
+
+#: ../includes/screen/views/html-phone-call.php:200
+msgid "Call Results"
+msgstr "Resultados de la llamada"
+
+#: ../includes/screen/views/html-phone-call.php:203
+msgid "ERROR"
+msgstr "ERROR"
+
+#: ../includes/screen/views/html-phone-call.php:203
+msgid ": This field Call Results is required."
+msgstr ": Este campo de resultados de la llamada es obligatorio."
+
+#: ../includes/screen/views/html-phone-call.php:217
+msgid "Close"
+msgstr "Cerrar"
+
+#: ../includes/screen/views/html-phone-call.php:220
+msgid "Select Related Order"
+msgstr "Seleccionar pedido relacionado"
+
+#: ../includes/screen/views/html-customer-products-purchased.php:9
+msgid "Products Purchased"
+msgstr "Productos comprados"
+
+#. URI of the plugin
+msgid ""
+"http://codecanyon.net/item/woocommerce-customer-relationship-"
+"manager/5712695&ref=actualityextensions"
+msgstr ""
+"http://codecanyon.net/item/woocommerce-customer-relationship-"
+"manager/5712695&ref=actualityextensions"
+
+#. Description of the plugin
+msgid ""
+"Allows for better overview and management of WooCommerce customers, accounts "
+"and the communication between your business and theirs."
+msgstr ""
+"Permite una administración de los pacientes/clientes de WooCommerce, cuentas "
+"y de la comunicación entre tu empresa y ellos."
+
+#. Author of the plugin
+msgid "Actuality Extensions"
+msgstr "Actuality Extensions"
+
+#. Author URI of the plugin
+msgid "http://actualityextensions.com"
+msgstr "http://actualityextensions.com"
+
+#: ../includes/customer-functions.php:25
+#, php-format
+msgid "Failed: %d is an invalid user ID."
+msgstr "Error: %d es un ID de usuario incorrecto"
+
+#: ../includes/customer-functions.php:108
+#, php-format
+msgid "<b>&quot;%s&quot; (ID %s)</b>"
+msgstr "<b>&quot;%s&quot; (ID %s)</b>"
+
+#: ../includes/class-wc-crm-ajax.php:218 ../includes/class-wc-crm-ajax.php:219 
+#: .. includes/class-wc-crm-customer.php:759 
+#: ../includes/class-wc-crm-customer.php: 760
+msgid "WC_CRM"
+msgstr "WC_CRM"
+
+#: ../includes/class-wc-crm.php:400 ../includes/class-wc-crm.php:409 .. 
+#: includes/admin/class-wc-crm-admin-notices.php:81 
+#: ../includes/admin/class-wc- crm-admin-acf.php:35 
+#: ../includes/admin/class-wc-crm-admin-acf.php:43
+msgid "Cheatin&#8217; huh?"
+msgstr "¿Haciendo trampas&#8217; huh?"
+
+#: ../includes/class-wc-crm-accounts.php:403 ../includes/screen/class-wc-crm- 
+#: screen-customers-edit.php:583 
+#: ../includes/screen/views/html-customer-notes.php: 21
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: ../includes/class-wc-crm-customer.php:399
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../includes/class-wc-crm-customer.php:404
+msgid "Skype"
+msgstr "Skype"
+
+#: ../includes/class-wc-crm-importer.php:316
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+"El archivo de exportación no se pudo encontrar en <code>%s</code>. Parece "
+"que el error lo ha causado un problema con los permisos."
+
+#: ../includes/class-wc-crm-importer.php:443
+msgid ""
+"Select what the default User Role for the imported customers should be upon "
+"import."
+msgstr "Selecciona cual será el rol por defecto para los pacientes importados."
+
+#: ../includes/class-wc-crm-importer.php:460
+msgid ""
+"Select what the default customer status for the imported customers should be "
+"upon import."
+msgstr ""
+"Selecciona cual será el estado por defecto de los pacientes importados."
+
+#: ../includes/class-wc-crm-importer.php:469
+msgid ""
+"Check this box to skip the addition of the first row of the CSV file. You "
+"can see the values of the first row below on the left."
+msgstr ""
+"Selecciona esta caja para saltar la adición de la primera fila del archivo "
+"CSV. Puedes ver los valroes de la primera fila abajo a la izquierda."
+
+#: ../includes/class-wc-crm-importer.php:474
+msgid "Field Mapping"
+msgstr "Asignación de campos"
+
+#: ../includes/class-wc-crm-importer.php:504 
+#: ../includes/admin/class-wc-crm-admin- import.php:19 
+#: ../includes/admin/class-wc-crm-admin-import.php:20
+msgid "Import"
+msgstr "Importar"
+
+#: ../includes/class-wc-crm-importer.php:540
+msgid "Enter user meta key."
+msgstr "Introducir clave meta del usuario."
+
+#: ../includes/class-wc-crm-importer.php:554
+msgid "There was an error when reading this file"
+msgstr "Hubo un error mientras se leia el archivo"
+
+#: ../includes/class-wc-crm-importer.php:565
+msgid "Choose a CSV file to upload, then click Upload file and import."
+msgstr ""
+"Elige un archivo CSV para subirlo, después haz click en Subir para importar "
+"el archivo."
+
+#: ../includes/core-functions.php:92 ../includes/core-functions.php:111
+msgid "Y/m/d g:i:s A"
+msgstr "Y/m/d g:i:s A"
+
+#: ../includes/core-functions.php:100 ../includes/core-functions.php:119
+msgid "Y/m/d"
+msgstr "Y/m/d"
+
+#: ../includes/core-functions.php:139
+#, php-format
+msgid "Unable to load lists() from MailChimp: (%s) %s"
+msgstr "No se pudo recuperar las listas() desde MailChimp: (%s) %s"
+
+#: ../includes/core-functions.php:155
+msgid "Select a list..."
+msgstr "Selecciona una lista..."
+
+#: ../includes/core-functions.php:155
+msgid "Enter your key and save to see your lists"
+msgstr "Introduce tu clave y guardala para ver tus listas"
+
+#: ../includes/core-functions.php:383
+msgid "Advertisement"
+msgstr "Anuncio"
+
+#: ../includes/core-functions.php:384
+msgid "Cold Call"
+msgstr "Llamada en frio (para ofrecer algún producto)"
+
+#: ../includes/core-functions.php:385
+msgid "Employee Referral"
+msgstr "Recomendación de empleados"
+
+#: ../includes/core-functions.php:386
+msgid "External Referral"
+msgstr "Recomendación externa"
+
+#: ../includes/core-functions.php:387
+msgid "Online Store"
+msgstr "Tienda online"
+
+#: ../includes/core-functions.php:388 ../includes/core-functions.php:432
+msgid "Partner"
+msgstr "Socio"
+
+#: ../includes/core-functions.php:389
+msgid "Public Relations"
+msgstr "Relaciones públicas"
+
+#: ../includes/core-functions.php:390
+msgid "Sales Mail Alias"
+msgstr "Alias de correo de ventas"
+
+#: ../includes/core-functions.php:391
+msgid "Seminar Partner"
+msgstr "Socio de seminario"
+
+#: ../includes/core-functions.php:392
+msgid "Seminar Internal"
+msgstr "Interno de seminario"
+
+#: ../includes/core-functions.php:393
+msgid "Trade Show"
+msgstr "Feria"
+
+#: ../includes/core-functions.php:394
+msgid "Web Download"
+msgstr "Descarga web"
+
+#: ../includes/core-functions.php:395
+msgid "Web Research"
+msgstr "Búsqueda web"
+
+#: ../includes/core-functions.php:396
+msgid "Web Cases"
+msgstr "Casos web"
+
+#: ../includes/core-functions.php:397
+msgid "Web Mail"
+msgstr "Email de la web"
+
+#: ../includes/core-functions.php:398
+msgid "Chat"
+msgstr "Chat"
+
+#: ../includes/core-functions.php:404
+msgid "Attempted to Contact"
+msgstr "Se ha intentado contactar"
+
+#: ../includes/core-functions.php:405
+msgid "Contact in Future"
+msgstr "Contactar en el futuro"
+
+#: ../includes/core-functions.php:406
+msgid "Contacted"
+msgstr "Contactado"
+
+#: ../includes/core-functions.php:407
+msgid "Junk Lead"
+msgstr "Referido inservible (no apto para comprar)"
+
+#: ../includes/core-functions.php:408
+msgid "Lost Lead"
+msgstr "Referido perdido"
+
+#: ../includes/core-functions.php:409
+msgid "Not Contacted"
+msgstr "No contactado"
+
+#: ../includes/core-functions.php:410
+msgid "Pre Qualified"
+msgstr "Pre Calificado"
+
+#: ../includes/core-functions.php:416 ../includes/core-functions.php:431 .. 
+#: includes/admin/class-wc-crm-admin-acf.php:132 
+#: ../includes/screen/views/html- customer-details.php:151 
+#: ../includes/screen/views/html-customer-details.php:153
+msgid "Other"
+msgstr "Otro"
+
+#: ../includes/core-functions.php:417
+msgid "Private"
+msgstr "Privado"
+
+#: ../includes/core-functions.php:418
+msgid "Public"
+msgstr "Público"
+
+#: ../includes/core-functions.php:419
+msgid "Subsidiary"
+msgstr "Subsidiario"
+
+#: ../includes/core-functions.php:425
+msgid "Analyst"
+msgstr "Analista"
+
+#: ../includes/core-functions.php:426
+msgid "Competitor"
+msgstr "Competidor"
+
+#: ../includes/core-functions.php:427 
+#: ../includes/admin/class-wc-crm-admin-acf. php:132 
+#: ../includes/screen/tables/class-wc-crm-table-customers.php:117 .. 
+#: includes/screen/views/html-customer-details.php:16
+msgid "Customer"
+msgstr "Paciente/Cliente"
+
+#: ../includes/core-functions.php:428
+msgid "Distributor"
+msgstr "Distribuidor"
+
+#: ../includes/core-functions.php:429
+msgid "Integrator"
+msgstr "Integrador"
+
+#: ../includes/core-functions.php:430
+msgid "Investor"
+msgstr "Inversor"
+
+#: ../includes/core-functions.php:433
+msgid "Press"
+msgstr "Prensa/Periodista"
+
+#: ../includes/core-functions.php:434
+msgid "Prospect"
+msgstr "Buscador"
+
+#: ../includes/core-functions.php:435
+msgid "Reseller"
+msgstr "Revendedor"
+
+#: ../includes/core-functions.php:436
+msgid "Supplier"
+msgstr "Distribuidor"
+
+#: ../includes/core-functions.php:437
+msgid "Vendor"
+msgstr "Vendedor"
+
+#: ../includes/core-functions.php:443
+msgid "Accounting"
+msgstr "Contable"
+
+#: ../includes/core-functions.php:444
+msgid "Airlines/Aviation"
+msgstr "Aerolineas/Aviación"
+
+#: ../includes/customer-functions.php:121 
+#: ../includes/customer-functions.php:243
+#, php-format
+msgid "<br />Successfully updated in %s seconds"
+msgstr "Actualizado correctamente en %s segundos"
+
+#: ../includes/customer-functions.php:144 
+#: ../includes/customer-functions.php:249
+#, php-format
+msgid "<br />Successfully added in %s seconds"
+msgstr "<br />Añadido satisfactoriamente en %s segundos"
+
+#: ../includes/customer-functions.php:157
+#, php-format
+msgid "Failed: %s is an invalid user email."
+msgstr "Falló: %s es un email incorrecto"
+
+#: ../includes/customer-functions.php:231
+#, php-format
+msgid "<b>Guest &quot;%s&quot; </b>"
+msgstr "<b>Invitado &quot;%s&quot; </b>"
+
+#: ../includes/class-wc-crm-install.php:336
+msgid "View Settings"
+msgstr "Ver los ajustes"
+
+#: ../includes/class-wc-crm-install.php:336 
+#: ../includes/admin/class-wc-crm-admin- welcome.php:81 
+#: ../includes/admin/class-wc-crm-admin-menus.php:89 .. 
+#: includes/admin/class-wc-crm-admin-menus.php:90
+msgid "Settings"
+msgstr "Ajustes"
+
+#: ../includes/class-wc-crm-install.php:351
+msgid "View Documentation"
+msgstr "Ver documentación"
+
+#: ../includes/class-wc-crm-install.php:351 
+#: ../includes/admin/class-wc-crm-admin- welcome.php:82
+msgid "Docs"
+msgstr "Documentos"
+
+#: ../includes/class-wc-crm-install.php:352
+msgid "Visit Support"
+msgstr "Visitar el soporte"
+
+#: ../includes/class-wc-crm-install.php:352 
+#: ../includes/screen/views/html-phone- call.php:91 
+#: ../includes/screen/views/html-phone-call.php:91
+msgid "Support"
+msgstr "Soporte"
+
+#: ../includes/class-wc-crm-export.php:17 
+#: ../includes/class-wc-crm-customer.php: 154 
+#: ../includes/admin/class-wc-crm-admin-orders-page.php:148 .. 
+#: includes/screen/class-wc-crm-screen-customer-filters.php:255 .. 
+#: includes/screen/class-wc-crm-screen-groups.php:272 
+#: ../includes/screen/class- wc-crm-screen-groups.php:464 
+#: ../includes/screen/class-wc-crm-screen-customers- edit.php:36
+msgid "Guest"
+msgstr "Invitado"
+
+#: ../includes/class-wc-crm-ajax.php:96
+#, php-format
+msgid "(ID %s)<br />%s"
+msgstr "(ID %s)<br />%s"
+
+#: ../includes/class-wc-crm-ajax.php:165 ../includes/class-wc-crm-ajax.php:243 
+#: .. includes/class-wc-crm-accounts.php:404 
+#: ../includes/screen/class-wc-crm-screen- customers-edit.php:584 
+#: ../includes/screen/views/html-customer-notes.php:22
+msgid "Delete note"
+msgstr "Borrar nota"
+
+#: ../includes/class-wc-crm.php:263
+msgid ""
+"Copy billing information to shipping information? This will remove any "
+"currently entered shipping information."
+msgstr ""
+"¿Copiar información de facturación a la dirección de envio? Esto borrará "
+"otra información de envio introducida actualmente."
+
+#: ../includes/class-wc-crm.php:264
+msgid ""
+"Load the customer's billing information? This will remove any currently "
+"entered billing information."
+msgstr ""
+"¿Cargar la información de facturación del paciente? Esto borrará cualquier "
+"otra información de facturación introducida."
+
+#: ../includes/class-wc-crm.php:265
+msgid ""
+"Load the customer's shipping information? This will remove any currently "
+"entered shipping information."
+msgstr ""
+"¿Cargar la información de enviodel paciente? Esto borrará cualquier otra "
+"información de envio introducida."
+
+#: ../includes/class-wc-crm.php:273
+msgid "Select an option&hellip;"
+msgstr "Seleccionar una opción&hellip;"
+
+#: ../includes/class-wc-crm-accounts.php:42 
+#: ../includes/class-wc-crm-accounts.php: 85 
+#: ../includes/class-wc-crm-customer.php:315 
+#: ../includes/class-wc-crm-customer. php:478 
+#: ../includes/class-wc-crm-customer.php:530
+msgid "First Name"
+msgstr "Nombre"
+
+#: ../includes/class-wc-crm-accounts.php:46 
+#: ../includes/class-wc-crm-accounts.php: 89 
+#: ../includes/class-wc-crm-customer.php:320 
+#: ../includes/class-wc-crm-customer. php:482 
+#: ../includes/class-wc-crm-customer.php:534
+msgid "Last Name"
+msgstr "Apellido"
+
+#: ../includes/class-wc-crm-accounts.php:50 
+#: ../includes/class-wc-crm-accounts.php: 93 
+#: ../includes/class-wc-crm-customer.php:486 
+#: ../includes/class-wc-crm-customer. php:538
+msgid "Company"
+msgstr "Empresa"
+
+#: ../includes/class-wc-crm-accounts.php:54 
+#: ../includes/class-wc-crm-accounts.php: 97 
+#: ../includes/class-wc-crm-customer.php:490 
+#: ../includes/class-wc-crm-customer. php:542
+msgid "Address 1"
+msgstr "Dirección 1"
+
+#: ../includes/class-wc-crm-accounts.php:58 
+#: ../includes/class-wc-crm-accounts.php: 101 
+#: ../includes/class-wc-crm-customer.php:494 ../includes/class-wc-crm- 
+#: customer.php:546
+msgid "Address 2"
+msgstr "Dirección 2"
+
+#: ../includes/class-wc-crm-accounts.php:62 
+#: ../includes/class-wc-crm-accounts.php: 105 
+#: ../includes/class-wc-crm-customer.php:498 ../includes/class-wc-crm- 
+#: customer.php:550 ../includes/admin/settings/wc-crm-settings-general.php:54
+msgid "City"
+msgstr "Ciudad"
+
+#: ../includes/class-wc-crm-accounts.php:66 
+#: ../includes/class-wc-crm-accounts.php: 109 
+#: ../includes/class-wc-crm-customer.php:502 ../includes/class-wc-crm- 
+#: customer.php:554
+msgid "Postcode"
+msgstr "Código postal"
+
+#: ../includes/class-wc-crm-accounts.php:70 
+#: ../includes/class-wc-crm-accounts.php: 113 
+#: ../includes/class-wc-crm-customer.php:506 ../includes/class-wc-crm- 
+#: customer.php:558 ../includes/admin/settings/wc-crm-settings-general.php:55
+msgid "Country"
+msgstr "Pais"
+
+#: ../includes/class-wc-crm-accounts.php:74 
+#: ../includes/class-wc-crm-accounts.php: 117 
+#: ../includes/class-wc-crm-customer.php:510 ../includes/class-wc-crm- 
+#: customer.php:562
+msgid "Select a country&hellip;"
+msgstr "Seleccionar un pais&hellip;"
+
+#: ../includes/class-wc-crm-accounts.php:77 
+#: ../includes/class-wc-crm-accounts.php: 120 
+#: ../includes/class-wc-crm-customer.php:513 ../includes/class-wc-crm- 
+#: customer.php:565
+msgid "State/County"
+msgstr "Pais"
+
+#: ../includes/class-wc-crm-accounts.php:128 
+#: ../includes/class-wc-crm-customer. php:521 
+#: ../includes/screen/tables/class-wc-crm-table-customer-activity.php:129 
+#: ../includes/screen/tables/class-wc-crm-table-activity.php:152
+msgid "Phone"
+msgstr "Teléfono"
+
+#: ../includes/class-wc-crm-accounts.php:132 
+#: ../includes/class-wc-crm-customer. php:389
+msgid "Fax"
+msgstr "Fax"
+
+#: ../includes/class-wc-crm-accounts.php:136 
+#: ../includes/class-wc-crm-customer. php:394
+msgid "Website"
+msgstr "Página web"
+
+#: ../includes/class-wc-crm-accounts.php:140
+msgid "Ticker symbol"
+msgstr "Símbolo para marcar"
+
+#: ../includes/class-wc-crm-accounts.php:144 
+#: ../includes/admin/class-wc-crm-admin- post-types.php:191
+msgid "Account Type"
+msgstr "Tipo de cuenta"
+
+#: ../includes/class-wc-crm-accounts.php:151 
+#: ../includes/admin/class-wc-crm-admin- post-types.php:192
+msgid "Ownership"
+msgstr "Dueño"
+
+#: ../includes/class-wc-crm-accounts.php:158 
+#: ../includes/class-wc-crm-customer. php:438 
+#: ../includes/admin/class-wc-crm-admin-post-types.php:193
+msgid "Industry"
+msgstr "Sector (Industria)"
+
+#: ../includes/class-wc-crm-accounts.php:164
+msgid "Select an Industry"
+msgstr "Seleccionar una empresa"
+
+#: ../includes/class-wc-crm-accounts.php:169
+msgid "Employees"
+msgstr "Empleados"
+
+#: ../includes/class-wc-crm-accounts.php:178
+msgid "Annual Revenue"
+msgstr "Beneficios anuales"
+
+#: ../includes/class-wc-crm-accounts.php:187
+msgid "SIC code"
+msgstr "Código SIC"
+
+#: ../includes/class-wc-crm-accounts.php:210
+msgid "Account Details"
+msgstr "Detalles de la cuenta"
+
+#: ../includes/class-wc-crm-accounts.php:213
+msgid "Account number"
+msgstr "Número de cuenta"
+
+#: ../includes/class-wc-crm-accounts.php:230
+msgid "Account owner"
+msgstr "Dueño de la cuenta"
+
+#: ../includes/class-wc-crm-accounts.php:239 ../includes/screen/views/html- 
+#: customer-details.php:39
+msgid "General Details"
+msgstr "Detalles generales"
+
+#: ../includes/class-wc-crm-accounts.php:241 
+#: ../includes/class-wc-crm-customer. php:351 
+#: ../includes/admin/class-wc-crm-admin-post-types.php:189
+msgid "Account Name"
+msgstr "Nombre de cuenta"
+
+#: ../includes/class-wc-crm-accounts.php:269 
+#: ../includes/class-wc-crm-accounts. php:283
+msgid "Billing Details"
+msgstr "Detalles de facturación"
+
+#: ../includes/class-wc-crm-accounts.php:270 
+#: ../includes/class-wc-crm-accounts. php:311 
+#: ../includes/admin/class-wc-crm-admin-post-types.php:60 .. 
+#: includes/screen/views/html-customer-details.php:77 .. 
+#: includes/screen/views/html-customer-details.php:165
+msgid "Edit"
+msgstr "Editar"
+
+#: ../includes/class-wc-crm-accounts.php:275 
+#: ../includes/class-wc-crm-accounts. php:277 
+#: ../includes/class-wc-crm-accounts.php:316 ../includes/class-wc-crm- 
+#: accounts.php:318 ../includes/admin/class-wc-crm-admin-post-actions.php:316 
+#: .. includes/admin/class-wc-crm-admin-post-actions.php:319 .. 
+#: includes/screen/views/html-customer-details.php:84 .. 
+#: includes/screen/views/html-customer-details.php:86 .. 
+#: includes/screen/views/html-customer-details.php:173 .. 
+#: includes/screen/views/html-customer-details.php:176
+msgid "Address"
+msgstr "Dirección"
+
+#: ../includes/class-wc-crm-accounts.php:277 ../includes/screen/views/html- 
+#: customer-details.php:86
+msgid "No billing address set."
+msgstr "No se ha asignado aún una dirección de facturación."
+
+#: ../includes/class-wc-crm-accounts.php:310 
+#: ../includes/class-wc-crm-accounts. php:324
+msgid "Shipping Details"
+msgstr "Detalles de envio"
+
+#: ../includes/class-wc-crm-accounts.php:318 ../includes/screen/views/html- 
+#: customer-details.php:176
+msgid "No shipping address set."
+msgstr "No se ha establecido una dirección de envio todavía."
+
+#: ../includes/class-wc-crm-accounts.php:366 
+#: ../includes/class-wc-crm-accounts. php:368 
+#: ../includes/screen/views/html-customer-actions.php:24
+msgid "Apply"
+msgstr "Aplicar"
+
+#: ../includes/class-wc-crm-accounts.php:373
+msgid "Save Account"
+msgstr "Guardar cuenta"
+
+#: ../includes/class-wc-crm-accounts.php:402
+#, php-format
+msgid "added on %1$s at %2$s"
+msgstr "añadido el %1$s a las %2$s"
+
+#: ../includes/class-wc-crm-accounts.php:403 ../includes/screen/class-wc-crm- 
+#: screen-customers-edit.php:583 
+#: ../includes/screen/views/html-customer-notes.php: 21
+#, php-format
+msgid "by %s"
+msgstr "por %s"
+
+#: ../includes/class-wc-crm-accounts.php:411 ../includes/screen/views/html- 
+#: customer-notes.php:28
+msgid "There are no notes yet."
+msgstr "Aún no hay notas."
+
+#: ../includes/class-wc-crm-accounts.php:417 ../includes/screen/views/html- 
+#: customer-notes.php:32
+msgid "Add note"
+msgstr "Añadir nota"
+
+#: ../includes/class-wc-crm-accounts.php:423
+msgid "Private note"
+msgstr "Nota privada"
+
+#: ../includes/class-wc-crm-accounts.php:425 ../includes/screen/views/html- 
+#: customer-notes.php:37
+msgid "Add"
+msgstr "Añadir"
+
+#: ../includes/class-wc-crm-accounts.php:440 ../includes/screen/class-wc-crm- 
+#: screen-customers-list.php:84 
+#: ../includes/screen/class-wc-crm-screen-customers- edit.php:44
+msgid "Add Customer"
+msgstr "Añadir paciente"
+
+#: ../includes/class-wc-crm-customer.php:325
+msgid "Email Address"
+msgstr "Dirección email"
+
+#: ../includes/class-wc-crm-customer.php:333
+msgid "Title"
+msgstr "Título"
+
+#: ../includes/class-wc-crm-customer.php:338
+msgid "Department"
+msgstr "Departamento"
+
+#: ../includes/class-wc-crm-customer.php:343 
+#: ../includes/admin/settings/wc-crm- settings-general.php:60 
+#: ../includes/admin/settings/wc-crm-settings-statuses. php:27 
+#: ../includes/screen/class-wc-crm-screen-groups.php:288 .. 
+#: includes/screen/class-wc-crm-screen-groups.php:478 .. 
+#: includes/screen/tables/class-wc-crm-table-customers.php:116 .. 
+#: includes/screen/tables/class-wc-crm-table-customers.php:116
+msgid "Customer Status"
+msgstr "Estado del paciente"
+
+#: ../includes/class-wc-crm-customer.php:357
+msgid "Select an account&hellip;"
+msgstr "Seleccionar una cuenta&hellip;"
+
+#: ../includes/class-wc-crm-customer.php:363
+msgid "Agent"
+msgstr "Técnico asignado"
+
+#: ../includes/class-wc-crm-customer.php:369
+msgid "Select an Agent&hellip;"
+msgstr "Seleccionar un técnico asignado&hellip;"
+
+#: ../includes/class-wc-crm-customer.php:375
+msgid "Date of Birth"
+msgstr "Fecha de nacimiento"
+
+#: ../includes/class-wc-crm-customer.php:384
+msgid "Mobile"
+msgstr "Teléfono móvil"
+
+#: ../includes/class-wc-crm-customer.php:409
+msgid "Assistant"
+msgstr "Asistente"
+
+#: ../includes/class-wc-crm-customer.php:414
+msgid "Lead Source"
+msgstr "Referido principal"
+
+#: ../includes/class-wc-crm-customer.php:420
+msgid "Select a Lead Source&hellip;"
+msgstr "Seleccionar un referido principal&hellip;"
+
+#: ../includes/class-wc-crm-customer.php:426
+msgid "Lead Status"
+msgstr "Referido principal"
+
+#: ../includes/class-wc-crm-customer.php:432
+msgid "Select a Lead Status&hellip;"
+msgstr "Seleccionar un estado principal de referido&hellip;"
+
+#: ../includes/class-wc-crm-customer.php:444
+msgid "Select an Industry&hellip;"
+msgstr "Seleccionar una industria&hellip;"
+
+#: ../includes/class-wc-crm-customer.php:450 
+#: ../includes/screen/tables/class-wc- 
+#: crm-table-customer-products-purchased.php:80
+msgid "Categories"
+msgstr "Categorías"
+
+#: ../includes/class-wc-crm-customer.php:455 ../includes/screen/class-wc-crm- 
+#: screen-customer-filters.php:300
+msgid "Search for a category&hellip;"
+msgstr "Buscar una categoría&hellip;"
+
+#: ../includes/class-wc-crm-customer.php:461
+msgid "Brands"
+msgstr "Marcas"
+
+#: ../includes/class-wc-crm-customer.php:466 ../includes/screen/class-wc-crm- 
+#: screen-customer-filters.php:320
+msgid "Search for a brand&hellip;"
+msgstr "Buscar una marca&hellip;"
+
+#: ../includes/class-wc-crm-customer.php:518 ../includes/screen/class-wc-crm- 
+#: screen-activity-filters.php:46 
+#: ../includes/screen/tables/class-wc-crm-table- customer-activity.php:127 
+#: ../includes/screen/tables/class-wc-crm-table- activity.php:150
+msgid "Email"
+msgstr "Email"
+
+#: ../includes/notice-functions.php:18 ../includes/notice-functions.php:50 .. 
+#: includes/notice-functions.php:68 ../includes/notice-functions.php:86 .. 
+#: includes/notice-functions.php:101 ../includes/notice-functions.php:146
+msgid "This function should not be called before woocommerce_init."
+msgstr "Esta función no debe ser llamada antes que woocommerce_init."
+
+#: ../includes/class-wc-crm-importer.php:90 
+#: ../includes/class-wc-crm-importer.php: 102 
+#: ../includes/class-wc-crm-importer.php:112 ../includes/class-wc-crm- 
+#: importer.php:311 ../includes/class-wc-crm-importer.php:315 
+#: ../includes/class- wc-crm-importer.php:324
+msgid "Sorry, there has been an error."
+msgstr "Disculpa, hubo un error en el procesado."
+
+#: ../includes/class-wc-crm-importer.php:91
+msgid "The file does not exist, please try again."
+msgstr "El archivo no existe, inténtalo de nuevo."
+
+#: ../includes/class-wc-crm-importer.php:103
+msgid "Please select user email and please try again."
+msgstr "Por favor, selecciona un email para el usuario e inténtalo de nuevo."
+
+#: ../includes/class-wc-crm-importer.php:278
+msgid "Import complete."
+msgstr "Importación completada."
+
+#: ../includes/class-wc-crm-importer.php:280
+#, php-format
+msgid "%d Customer has been successfully added."
+msgid_plural "%d Customers has been successfully added."
+msgstr[0] "%d El paciente se ha añadido correctamente."
+msgstr[1] "%d Los pacientes se han añadido correctamente."
+
+#: ../includes/class-wc-crm-importer.php:283
+#, php-format
+msgid "%d Group has been successfully added."
+msgid_plural "%d Groups has been successfully added."
+msgstr[0] "%d El grupo se ha añadido correctamente."
+msgstr[1] "%d Los grupos se han añadido correctamente."
+
+#: ../includes/class-wc-crm-importer.php:286
+#, php-format
+msgid "%d Customer status has been successfully added."
+msgid_plural "%d Customer statuses has been successfully added."
+msgstr[0] "%d El estado del paciente se ha añadido correctamente."
+msgstr[1] "%d Los estados del paciente se han añadido correctamente."
+
+#: ../includes/class-wc-crm-importer.php:290
+#, php-format
+msgid "%d Customer  was not added."
+msgid_plural "%d Customers  was not added."
+msgstr[0] "%d El paciente no se ha añadido"
+msgstr[1] "%d Los pacientes no se han añadido."
+
+#: ../includes/class-wc-crm-importer.php:391
+msgid "Select fields to map"
+msgstr "Seleccionar los campos a mapear"
+
+#: ../includes/class-wc-crm-importer.php:392
+msgid "Custom meta"
+msgstr "Datos personalizados"
+
+#: ../includes/class-wc-crm-importer.php:393
+msgid "Role"
+msgstr "Rol"
+
+#: ../includes/class-wc-crm-importer.php:394
+msgid "User Login"
+msgstr "Inicio de sesión del usuario"
+
+#: ../includes/class-wc-crm-importer.php:395 
+#: ../includes/screen/tables/class-wc- crm-table-customers.php:134
+msgid "Group"
+msgstr "Grupo"
+
+#: ../includes/class-wc-crm-importer.php:396
+msgid "Nicename"
+msgstr "Nombre de usuario"
+
+#: ../includes/class-wc-crm-importer.php:397
+msgid "Display name"
+msgstr "Nombre a mostrar"
+
+#: ../includes/class-wc-crm-importer.php:425 
+#: ../includes/class-wc-crm-importer. php:563
+msgid "Import "
+msgstr "Importar"
+
+#: ../includes/class-wc-crm-importer.php:433
+msgid "Default User Role "
+msgstr "Rol de paciente por defecto"
+
+#: ../includes/class-wc-crm-importer.php:448
+msgid "Default Status "
+msgstr "Estado por defecto"
+
+#: ../includes/class-wc-crm-importer.php:465
+msgid "Skip First Row"
+msgstr "Saltar primera línea"
+
+#: ../includes/core-functions.php:90
+msgid "Unpublished"
+msgstr "Sin publicar"
+
+#: ../includes/core-functions.php:98 ../includes/core-functions.php:117 .. 
+#: includes/screen/tables/class-wc-crm-table-customer-activity.php:144 .. 
+#: includes/screen/tables/class-wc-crm-table-activity.php:167
+#, php-format
+msgid "%s ago"
+msgstr "Hace %s"
+
+#. Name of the plugin
+msgid "WooCommerce Customer Relationship Manager"
+msgstr "WooCommerce Customer Relationship Manager"

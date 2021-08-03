@@ -1,0 +1,201 @@
+#wc_crm_task_info .show_repeat_type_options,
+#wc_crm_task_info .show_repeat_options{
+	display: none;
+}
+/* Task Table */
+.High, .Low, .Highest, .Lowest {
+	font-family: aecrm;
+    font-variant: normal;
+    height: 100%;
+    margin: 0;
+    text-transform: none;
+    display: block;
+    float: none;
+    margin: auto;
+    text-align: center;
+    font-size: 1.4em;
+    -webkit-font-smoothing: antialiased;
+}
+p.dropdown_customers_field span.select2-container,
+p.account_name_field span.select2-container {
+	width: 100% !important;
+	max-width: 100% !important;
+}
+td.status .wcrm-not-started, td.status .wcrm-deferred, td.status .wcrm-in-progress, td.status .wcrm-completed, td.status .wcrm-waiting {
+	font-family: WooCommerce;
+    font-variant: normal;
+    height: 100%;
+    margin: 0;
+    text-transform: none;
+    display: block;
+    float: none;
+    margin: auto;
+    text-align: center;
+    font-size: 1.4em;
+    -webkit-font-smoothing: antialiased;
+}
+td.status .wcrm-in-progress:after {
+	content: '\e011';
+    color: #73a724;
+}
+td.status .wcrm-not-started:after {
+	content: "\e033";
+    color: #999;
+}
+td.status .wcrm-waiting:after {
+	content: "\e012";
+    color: #ffba00;
+}
+td.status .wcrm-deferred:after {
+	content: "\e013";
+    color: #a00;
+}
+td.status .wcrm-completed:after {
+	content: "\e015";
+    color: #2ea2cc;
+}
+.High:after {
+	content: '\e902';
+    color: #a00a00;
+}
+.Low:after {
+	content: '\e900';
+    color: #2ea2cc;
+}
+.Lowest:after {
+	content: '\e901';
+    color: #2ea2cc;
+}
+.Highest:after {
+	content: '\e903';
+    color: #a00a00;
+}
+.column-priority,
+.column-status {
+	width: 55px;
+	text-align: center;
+}
+.column-priority .Priority {
+	display: block;
+    height: 1em;
+    margin: 0 auto;
+    position: relative;
+    text-indent: -9999px;
+    width: 1em;
+}
+.column-priority .Priority:before {
+	font-family: aecrm;
+    content: "\e902";
+    font-variant: normal;
+    font-weight: 400;
+    height: 100%;
+    left: 0;
+    line-height: 1;
+    margin: 0;
+    position: absolute;
+    text-align: center;
+    text-indent: 0;
+    text-transform: none;
+    top: 0;
+    width: 100%;
+    -webkit-font-smoothing: antialiased;
+    speak: none;
+}
+table.tasks .status_head {
+	width: 2em;
+}
+.column-due_date {
+	width: 15%;
+}
+.column-activity_owner {
+	width: 15%;
+}
+.column-customer_n_account {
+	width: 20%;
+}
+span.task_account {
+	margin: 3px 0;
+	display: block;
+}
+
+/* Task Description */
+#wc_crm_task_description #wp-content-editor-tools,
+#wc_crm_task_description .wp-editor-expand #wp-content-editor-tools{
+	background: none;
+}
+/* Task Data */
+#wc_crm_task_info div.task_data_column_container p.form-field {
+	margin: 9px 0 0;
+	width: 100%;
+}
+#wc_crm_task_info div.task_data_column_container p.form-field label {
+	display: block;
+	padding: 0 0 3px;
+	color: #777;
+}
+#wc_crm_task_info div.task_data_column_container p.form-field input[type="text"] {
+	width: 100%;
+}
+/* Task Actions */
+#misc-publishing-actions .curtime #due_date::before,
+#misc-publishing-actions label[for="task_priority"]:before {
+    color: #82878c;    
+    display: inline-block;
+    font: 20px/1 dashicons;
+    left: -1px;
+    position: relative;
+    text-decoration: none !important;
+    top: 0;
+    vertical-align: top;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-decoration: none!important;
+}
+/* Task Actions - Due Date */
+#misc-publishing-actions .curtime #due_date::before {
+	padding: 0px 1px;
+	content: "\f145";
+}
+#due_datediv select {
+    font-size: 12px;
+    height: 21px;
+    line-height: 14px;
+    padding: 0;
+    vertical-align: top;
+}
+#due_datediv {
+	padding-top: 5px;
+	line-height: 23px;
+}
+#due_datediv p {
+	margin: 8px 0 6px;
+}
+#due_date_aa, #due_date_jj, #due_date_hh, #due_date_mn {
+    font-size: 12px;
+    padding: 1px;
+}
+#due_date_jj, #due_date_hh, #due_date_mn {
+    width: 2em;
+}
+/* Task Actions - Priority */
+#misc-publishing-actions label[for="task_priority"]:before {
+	padding: 0 5px 0 1px;
+	content: "\f534";
+}
+#task-priority-display {
+	font-weight: 600;
+}
+#task-priority-select {
+	padding-top: 5px;
+	line-height: 23px;
+}
+
+#woocommerce-customer-tasks .tablenav {
+    display: none;
+}
+#woocommerce-customer-tasks table.tasks {
+    border: medium none;
+}
+#wc_crm_task_info .inside {
+	padding: 12px 24px 24px 24px !important;
+}

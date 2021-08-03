@@ -1,0 +1,89 @@
+#wpadminbar #wp-admin-bar-current_call_bar .button, #wpadminbar #wp-admin-bar-current_call_bar .button-primary, #wpadminbar #wp-admin-bar-current_call_bar .button-secondary {
+    border-radius: 3px;
+    border-style: solid;
+    border-width: 1px;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 13px;
+    line-height: 26px;
+    margin: 0;
+    padding: 0 10px 1px;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+#wpadminbar #wp-admin-bar-current_call_bar .button, #wpadminbar #wp-admin-bar-current_call_bar .button-secondary {
+    background: #f7f7f7 none repeat scroll 0 0;
+    border-color: #cccccc;
+    box-shadow: 0 1px 0 #cccccc;
+    color: #555;
+    vertical-align: top;
+}
+
+.ico_pause,
+.ico_stop {
+    margin-right: 10px;
+    font-family: 'aecrm' !important;
+    font-style: normal !important;
+    margin: auto;
+}
+#call-duration-timer {
+	text-align: center;
+}
+#wpbar_start_timer, #wpbar_stop_timer, #wpbar_pause_timer, #wpbar_reset_timer, #wpbar_save_timer,
+#start_timer, #stop_timer, #pause_timer, #reset_timer, #save_timer {
+    width: 28.3%;
+    display: inline-block;
+    text-align: center;
+    margin: 5px;
+}
+#wpbar_start_timer,
+#start_timer {
+    width: 96%;
+    margin-right: 0;
+    margin-left: 0;
+}
+#wpbar_stop_timer, #wpbar_pause_timer, #wpbar_save_timer
+#stop_timer, #pause_timer, #save_timer {
+    margin-right: 2%;
+}
+#wpbar_reset_timer:after,
+#reset_timer:after {
+    font-family: WooCommerce;
+    content:"\e031";
+}
+#wpbar_start_timer:after,
+#start_timer:after {
+    font-family: aecrm;
+    content:"\e904";
+}
+.ico_pause:after {
+    content:"\e909";
+}
+.play .ico_pause:after {
+  content:"\e90a";
+}
+.ico_stop:after {
+    content:"\e908";
+}
+
+.ico_save:before {
+    content: "\e017";
+    font-family: WooCommerce;
+    font-style: normal;
+}
+#wpbar_stop_timer, #wpbar_pause_timer, #wpbar_reset_timer, #wpbar_save_timer,
+#stop_timer, #pause_timer, #reset_timer, #save_timer{display: none;}
+
+#wpadminbar #wp-admin-bar-current_call_bar .ab-icon::before {
+    content: "\f525";
+    line-height: 24px;
+}
+
+#wpadminbar #wp-admin-bar-current_call_bar_container {
+    padding: 10px;
+}
+#wpadminbar #wp-admin-bar-current_call_bar #wpbar_start_timer,
+#wpadminbar #wp-admin-bar-current_call_bar #start_timer,
+#wpadminbar #wp-admin-bar-current_call_bar_container .ab-empty-item{display: none;}

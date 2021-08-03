@@ -1,0 +1,1529 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Customer Relationship Manager v2.4.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-10-23 22:25+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"Language: fr_FR\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ woocommerce
+#: admin/classes/settings/wc-crm-settings-general.php:27
+msgid "General"
+msgstr "Général"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/settings/wc-crm-settings-general.php:43
+msgid "Filters"
+msgstr "Filtres"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/settings/wc-crm-settings-general.php:49
+#: admin/classes/settings/wc-crm-settings-general.php:95
+msgid "User Roles"
+msgstr "Rôles de l'utilisateur"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/settings/wc-crm-settings-general.php:50
+#: admin/classes/wc_crm_customers_table.php:219
+#: admin/classes/wc_crm_user_groups.php:369
+#: admin/classes/wc_crm_user_groups.php:557
+msgid "Last Order"
+msgstr "Dernière commande"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/settings/wc-crm-settings-general.php:51
+msgid "State"
+msgstr "État"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/settings/wc-crm-settings-general.php:52
+msgid "City"
+msgstr "Ville"
+
+# @ wc_customer_relationship_manager
+# @ woocommerce
+#: admin/classes/settings/wc-crm-settings-general.php:53
+#: admin/classes/wc_crm_customer_details.php:203
+#: admin/classes/wc_crm_customer_details.php:287
+msgid "Country"
+msgstr "Pays"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/settings/wc-crm-settings-general.php:54
+#: admin/classes/wc_crm_customers_table.php:215
+#: admin/classes/wc_crm_phone_call.php:131
+msgid "Customer Name"
+msgstr "Nom du client"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/settings/wc-crm-settings-general.php:55
+msgid "Products"
+msgstr "Produits"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/settings/wc-crm-settings-general.php:56
+msgid "Products Variations"
+msgstr "Produits Variations"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/settings/wc-crm-settings-general.php:57
+#: admin/classes/wc_crm_user_groups.php:349
+#: admin/classes/wc_crm_user_groups.php:541
+msgid "Order Status"
+msgstr "Statut de la commande"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/settings/wc-crm-settings-general.php:58
+#: admin/classes/wc_crm_customers_table.php:214
+#: admin/classes/wc_crm_user_groups.php:311
+#: admin/classes/wc_crm_user_groups.php:511
+msgid "Customer Status"
+msgstr "Statut client"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/settings/wc-crm-settings-general.php:59
+msgid "Product Categories"
+msgstr "catégories de produits"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/settings/wc-crm-settings-general.php:64
+msgid "Product Brands"
+msgstr "Marques de produits"
+
+# @ woocommerce
+#: admin/classes/settings/wc-crm-settings-general.php:68
+msgid "General Options"
+msgstr "Options générales"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/settings/wc-crm-settings-general.php:73
+#: admin/classes/wc_crm_customers_table.php:220
+msgid "Number of Orders"
+msgstr "Numéro de commandes"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/settings/wc-crm-settings-general.php:82
+#: admin/classes/wc_crm_customers_table.php:222
+msgid "Total Value"
+msgstr "Valeur totale"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/settings/wc-crm-settings-general.php:92
+msgid "Fetch Customers"
+msgstr "Fetch clients - récuperer"
+
+# @ woocommerce
+#: admin/classes/settings/wc-crm-settings-general.php:104
+msgid "Guest Customers"
+msgstr "Clients invité"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/settings/wc-crm-settings-general.php:113
+msgid "Unique Identifier"
+msgstr "Identifiant Unique"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/settings/wc-crm-settings-general.php:120
+msgid "Username Email Address"
+msgstr "Nom d'utilisateur Adresse e-mail"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/settings/wc-crm-settings-general.php:121
+msgid "Billing Email Address"
+msgstr "Adresse Email de facturation"
+
+# @ woocommerce
+#: admin/classes/settings/wc-crm-settings-newsletter.php:27
+msgid "Newsletter"
+msgstr "Newsletter"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/settings/wc-crm-settings-newsletter.php:53
+msgid "MailChimp Integration"
+msgstr "Intégration MailChimp"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/settings/wc-crm-settings-newsletter.php:56
+msgid "Integrate with MailChimp"
+msgstr "Intégration avec MailChimp"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/settings/wc-crm-settings-newsletter.php:57
+msgid ""
+"Specify whether to integrate Customer Relationship Manager with MailChimp to "
+"see which customers signed to the newsletter."
+msgstr "Indiquez si vous souhaitez intégrer gestionnaire de la relation client avec MailChimp pour voir quels clients signé à la newsletter."
+
+# @ wc_customer_relationship_manager
+#: admin/classes/settings/wc-crm-settings-newsletter.php:66
+msgid "MailChimp API Key"
+msgstr "MailChimp API Key"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/settings/wc-crm-settings-newsletter.php:67
+msgid ""
+"You can obtain your API key by <a href=\"https://us2.admin.mailchimp.com/"
+"account/api/\">logging in to your MailChimp account</a>."
+msgstr "Vous pouvez obtenir votre clé API par l'exploitation forestière <a href=\"https://us2.admin.mailchimp.com/account/api/\"> à votre compte </a> MailChimp."
+
+# @ wc_customer_relationship_manager
+#: admin/classes/settings/wc-crm-settings-newsletter.php:77
+msgid "MailChimp List"
+msgstr "Liste MailChimp"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/settings/wc-crm-settings-newsletter.php:78
+msgid ""
+"Choose a list customers can subscribe to (you must save your API key first)."
+msgstr "Choisissez une liste clients peuvent s'abonner à (vous devez enregistrer votre clé API en premier)."
+
+# @ wc_customer_relationship_manager
+#: admin/classes/settings/wc-crm-settings-order-page.php:27
+msgid "Orders Page"
+msgstr "Page de commande"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/settings/wc-crm-settings-order-page.php:43
+msgid "Customer Link"
+msgstr "Lien client"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/settings/wc-crm-settings-order-page.php:50
+msgid "Customer "
+msgstr "Client "
+
+# @ wc_customer_relationship_manager
+#: admin/classes/settings/wc-crm-settings-order-page.php:51
+msgid "User profile"
+msgstr "Profil utilisateur"
+
+# @ woocommerce
+#: admin/classes/views/html-admin-settings.php:20
+msgid "Save changes"
+msgstr "Sauvegarder les changements"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_ajax.php:117 admin/classes/wc_crm_customer.php:664
+#: admin/classes/wc_crm_customer.php:903
+#: admin/classes/wc_crm_customer.php:1067
+#: admin/classes/wc_crm_customer.php:1101
+#: admin/classes/wc_crm_customers_table.php:635
+#: admin/classes/wc_crm_user_groups.php:295
+#: admin/classes/wc_crm_user_groups.php:497
+msgid "Guest"
+msgstr "Invité"
+
+# @ woocommerce
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_ajax.php:151
+#: admin/classes/wc_crm_customer_details.php:110
+#: admin/classes/wc_crm_customer_details.php:955
+msgid "Delete note"
+msgstr "Supprimer la note"
+
+# @ woocommerce
+#: admin/classes/wc_crm_customer.php:42 admin/classes/wc_crm_customer.php:50
+#: admin/classes/wc_crm_install.php:42 admin/classes/wc_crm_install.php:50
+#: woocommerce-customer-relationship-manager.php:84
+#: woocommerce-customer-relationship-manager.php:92
+msgid "Cheatin&#8217; huh?"
+msgstr "Cheatin&#8217; huh?"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customer.php:581 admin/classes/wc_crm_customer.php:782
+msgid "Show all products"
+msgstr "Voir tous les produits"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customer.php:603 admin/classes/wc_crm_customer.php:654
+msgid "Show all customers"
+msgstr "Afficher tous les clients"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customer.php:764
+msgid "Show all customer statuses"
+msgstr "Afficher tous les statuts de clients"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customer.php:799
+msgid "Show all countries"
+msgstr "Afficher tous les pays"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customer.php:820
+msgid "Show all states"
+msgstr "Afficher tous les régions"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customer.php:841
+msgid "Show all cities"
+msgstr "Voir toutes les villes"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customer.php:859
+msgid "All time results"
+msgstr "Tous les résultats de temps"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customer.php:864
+msgid "Last 24 hours"
+msgstr "Dernières 24 heures"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customer.php:869
+msgid "This month"
+msgstr "Ce mois"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customer.php:873
+msgid "Last 30 days"
+msgstr "30 derniers jours"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customer.php:877
+msgid "Last 6 months"
+msgstr "Les 6 derniers mois"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customer.php:881
+msgid "Last 12 months"
+msgstr "12 derniers mois"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customer.php:889
+msgid "Show all user roles"
+msgstr "Afficher tous les rôles utilisateur"
+
+# @ woocommerce
+#: admin/classes/wc_crm_customer.php:911
+msgid "Search for a product&hellip;"
+msgstr "Rechercher un produit&hellip;"
+
+# @ woocommerce
+#: admin/classes/wc_crm_customer.php:932
+msgid "Show all statuses"
+msgstr "Afficher tous les statuts"
+
+# @ woocommerce
+#: admin/classes/wc_crm_customer.php:953
+#: admin/classes/wc_crm_customer_details.php:475
+msgid "Search for a category&hellip;"
+msgstr "Recherche pour une catégorie&hellip;"
+
+# @ woocommerce
+#: admin/classes/wc_crm_customer.php:973
+#: admin/classes/wc_crm_customer_details.php:489
+msgid "Search for a brand&hellip;"
+msgstr "Recherche d'une marque&hellip;"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customer_details.php:42
+msgid "Edit Customer "
+msgstr "Editer client "
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customer_details.php:42
+#: admin/classes/wc_crm_customer_details.php:44
+#: admin/classes/wc_crm_customer_details.php:46
+#: admin/classes/wc_crm_install.php:110
+msgid "Add New Customer"
+msgstr "Ajouter un nouveau client"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customer_details.php:44
+msgid "View Customer "
+msgstr "Voir client "
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customer_details.php:108
+#: admin/classes/wc_crm_customer_details.php:953
+#, php-format
+msgid "added %s ago"
+msgstr "%s il ya"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customer_details.php:109
+#: admin/classes/wc_crm_customer_details.php:954
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customer_details.php:109
+#: admin/classes/wc_crm_customer_details.php:954
+#, php-format
+msgid "by %s"
+msgstr "%s"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customer_details.php:116
+#: admin/classes/wc_crm_customer_details.php:961
+msgid "There are no notes for this customer yet."
+msgstr "Il n'y a pas de notes pour ce client pour le moment."
+
+# @ woocommerce
+#: admin/classes/wc_crm_customer_details.php:170
+#: admin/classes/wc_crm_customer_details.php:255
+msgid "First Name"
+msgstr "Prénom"
+
+# @ woocommerce
+#: admin/classes/wc_crm_customer_details.php:176
+#: admin/classes/wc_crm_customer_details.php:261
+msgid "Last Name"
+msgstr "Nom de famille"
+
+# @ woocommerce
+#: admin/classes/wc_crm_customer_details.php:183
+#: admin/classes/wc_crm_customer_details.php:268
+msgid "Company Name"
+msgstr "Nom de l'entreprise"
+
+# @ woocommerce
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customer_details.php:188
+#: admin/classes/wc_crm_customer_details.php:273
+#: admin/classes/wc_crm_customer_details.php:511
+#: admin/classes/wc_crm_customer_details.php:513
+#: admin/classes/wc_crm_customer_details.php:611
+#: admin/classes/wc_crm_customer_details.php:614
+#: woocommerce-customer-relationship-manager.php:259
+#: woocommerce-customer-relationship-manager.php:262
+#: woocommerce-customer-relationship-manager.php:298
+#: woocommerce-customer-relationship-manager.php:301
+msgid "Address"
+msgstr "Adresse"
+
+# @ woocommerce
+#: admin/classes/wc_crm_customer_details.php:189
+#: admin/classes/wc_crm_customer_details.php:274
+msgctxt "placeholder"
+msgid "Street address"
+msgstr "Adresse de la rue"
+
+# @ woocommerce
+#: admin/classes/wc_crm_customer_details.php:195
+#: admin/classes/wc_crm_customer_details.php:280
+msgid "Address 2"
+msgstr "Adresse 2"
+
+# @ woocommerce
+#: admin/classes/wc_crm_customer_details.php:196
+#: admin/classes/wc_crm_customer_details.php:281
+msgctxt "placeholder"
+msgid "Apartment, suite, unit etc. (optional)"
+msgstr "Appartement, bureau, unité, etc. (facultatif)"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customer_details.php:208
+#: admin/classes/wc_crm_customer_details.php:292
+msgid "Select a country&hellip;"
+msgstr "Sélectionnez un pays&hellip;"
+
+# @ woocommerce
+#: admin/classes/wc_crm_customer_details.php:211
+#: admin/classes/wc_crm_customer_details.php:212
+#: admin/classes/wc_crm_customer_details.php:295
+#: admin/classes/wc_crm_customer_details.php:296
+msgid "Town / City"
+msgstr "Ville"
+
+# @ woocommerce
+#: admin/classes/wc_crm_customer_details.php:219
+#: admin/classes/wc_crm_customer_details.php:220
+#: admin/classes/wc_crm_customer_details.php:302
+#: admin/classes/wc_crm_customer_details.php:303
+msgid "State / County"
+msgstr "Pays / Région"
+
+# @ woocommerce
+#: admin/classes/wc_crm_customer_details.php:227
+#: admin/classes/wc_crm_customer_details.php:228
+#: admin/classes/wc_crm_customer_details.php:310
+#: admin/classes/wc_crm_customer_details.php:311
+msgid "Postcode / Zip"
+msgstr "Code Postal / Zip"
+
+# @ woocommerce
+#: admin/classes/wc_crm_customer_details.php:236
+msgid "Email Address"
+msgstr "Adresse e-mail"
+
+# @ woocommerce
+# @ wc_customer_relationship_manager
+# @ woocommerce-crm
+#: admin/classes/wc_crm_customer_details.php:242
+#: admin/classes/wc_crm_customers_table.php:217
+#: admin/classes/wc_crm_logs.php:281
+msgid "Phone"
+msgstr "Phone"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customer_details.php:412
+msgid "Customer Details"
+msgstr "Détails du client"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customer_details.php:415
+msgid "Customer number"
+msgstr "Numéro de client"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customer_details.php:426
+msgid "General Details"
+msgstr "Détails général"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customer_details.php:442
+msgid "Customer status:"
+msgstr "Statut client"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customer_details.php:504
+msgid "Billing Details"
+msgstr "Détails De La Facture"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customer_details.php:513
+msgid "No billing address set."
+msgstr "Aucune adresse de facturation réglé."
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customer_details.php:539
+msgid "Preferred Payment Method"
+msgstr "Méthode de paiement préférée"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customer_details.php:574
+msgid "Payment Method:"
+msgstr "Mode de paiement:"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customer_details.php:576
+msgid "N/A"
+msgstr "N / A"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customer_details.php:589
+#: admin/classes/wc_crm_customer_details.php:591
+msgid "Other"
+msgstr "Autre"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customer_details.php:604
+msgid "Shipping Details"
+msgstr "Les détails d'expédition"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customer_details.php:614
+msgid "No shipping address set."
+msgstr "Aucune adresse de livraison fixé."
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customer_details.php:642
+msgid "Copy from billing"
+msgstr "Copie de la facturation"
+
+# @ default
+#: admin/classes/wc_crm_customer_details.php:802
+msgid "<p><strong>ERROR</strong>: The email address isn’t correct.</p>"
+msgstr "<p><strong>ERROR</strong>:. L'adresse email n'est pas correct.</p>"
+
+# @ default
+#: admin/classes/wc_crm_customer_details.php:817
+msgid "<p><strong>ERROR</strong>: User already exists.</p>"
+msgstr "<p> <strong> ERROR </ strong>:. utilisateur existe déjà </ p>"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customer_details.php:828
+#: admin/classes/wc_crm_customer_details.php:829
+msgid "WC_CRM"
+msgstr "WC_CRM"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customers_table.php:26
+msgid "customer"
+msgstr "client"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customers_table.php:27
+msgid "customers"
+msgstr "clients"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customers_table.php:69
+msgid "No customers data found. Try to adjust the filter."
+msgstr "Pas de données de clients ont trouvé. Essayez de régler le filtre."
+
+# @ default
+#: admin/classes/wc_crm_customers_table.php:84
+#, php-format
+msgid "1 item"
+msgid_plural "%s items"
+msgstr[0] "1 article"
+msgstr[1] "1 article"
+
+# @ default
+#: admin/classes/wc_crm_customers_table.php:103
+msgid "Go to the first page"
+msgstr "Aller à la première page"
+
+# @ default
+#: admin/classes/wc_crm_customers_table.php:132
+msgid "Go to the previous page"
+msgstr "Accédez à la page précédente"
+
+# @ default
+#: admin/classes/wc_crm_customers_table.php:141
+msgid "Select Page"
+msgstr "Sélectionnez la page"
+
+# @ default
+#: admin/classes/wc_crm_customers_table.php:142
+msgid "Current page"
+msgstr "Page actuelle"
+
+# @ default
+#: admin/classes/wc_crm_customers_table.php:148
+#, php-format
+msgctxt "paging"
+msgid "%1$s of %2$s"
+msgstr "%1$s %2$s"
+
+# @ default
+#: admin/classes/wc_crm_customers_table.php:152
+msgid "Go to the next page"
+msgstr "Aller à la page suivante"
+
+# @ default
+#: admin/classes/wc_crm_customers_table.php:159
+msgid "Go to the last page"
+msgstr "Aller à la dernière page"
+
+# @ wc_customer_relationship_manager
+# @ woocommerce-crm
+#: admin/classes/wc_crm_customers_table.php:216
+#: admin/classes/wc_crm_logs.php:279
+msgid "Email"
+msgstr "Email"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customers_table.php:218
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customers_table.php:221
+msgid "Customer Notes"
+msgstr "Notes client"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customers_table.php:225
+msgid "Newsletter Subscription"
+msgstr "Inscription à la Newsletter"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customers_table.php:227
+#: admin/classes/wc_crm_logs.php:190 admin/classes/wc_crm_order_list.php:110
+#: admin/classes/wc_crm_product_list.php:109
+msgid "Actions"
+msgstr "Actions"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customers_table.php:249
+#: admin/classes/wc_crm_customers_table.php:609
+#: admin/classes/wc_crm_customers_table.php:655
+msgid "Send Email"
+msgstr "Envoyer un email"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customers_table.php:250
+msgid "Export Contacts"
+msgstr "Exporter les contacts"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customers_table.php:254
+#, php-format
+msgid "Mark as %s"
+msgstr "Marquer %s"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customers_table.php:259
+#, php-format
+msgid "Add to %s"
+msgstr "Ajouter %s"
+
+# @ default
+#: admin/classes/wc_crm_customers_table.php:563
+#, php-format
+msgid "Select %s"
+msgstr "%s"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customers_table.php:602
+#: admin/classes/wc_crm_customers_table.php:649
+#: admin/classes/wc_crm_order_list.php:180
+msgid "View Orders"
+msgstr "Voire commandes"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customers_table.php:616
+#: admin/classes/wc_crm_customers_table.php:662
+msgid "Call Customer"
+msgstr "Appel client"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_customers_table.php:623
+#: admin/classes/wc_crm_customers_table.php:669
+msgid "Contact Activity"
+msgstr "Activité Contact"
+
+# @ default
+#: admin/classes/wc_crm_customers_table.php:708
+#, php-format
+msgid "E-mail: %s"
+msgstr "%s"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_email_handling.php:48
+msgid "From Email Address"
+msgstr "De Adresse Email"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_email_handling.php:62
+#, php-format
+msgid "Default \"From\" Name is <strong>%s</strong>"
+msgstr "%sefault \"From\" Name is <strong>%s</strong>"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_email_handling.php:67
+#, php-format
+msgid "and the default \"From\" Email Address is <strong>%s</strong>"
+msgstr "%snd the default \"From\" Email Address is <strong>%s</strong>"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_email_handling.php:72
+msgid "Recipients"
+msgstr "Destinataires"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_email_handling.php:80
+#: admin/classes/wc_crm_logs.php:184 admin/classes/wc_crm_phone_call.php:88
+msgid "Subject"
+msgstr "Sujet"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_install.php:101 admin/classes/wc_crm_install.php:102
+#: admin/customers.php:82 admin/customers.php:216
+msgid "Customers"
+msgstr "Clients"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_install.php:110
+msgid "Customer Profile"
+msgstr "Profil client"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_install.php:110
+msgid "Add New"
+msgstr "Ajouter nouveau"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_install.php:113 admin/logs.php:90
+msgid "Activity"
+msgstr "Activité"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_install.php:115 admin/groups.php:18
+msgid "Groups"
+msgstr "Groupes"
+
+# @ wc_customer_relationship_manager
+# @ woocommerce
+#: admin/classes/wc_crm_install.php:117 admin/classes/wc_crm_install.php:147
+msgid "Settings"
+msgstr "Paramètres"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_logs.php:32
+msgid "log"
+msgstr "Connexion"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_logs.php:33
+msgid "logs"
+msgstr "Connexions"
+
+# @ default
+#: admin/classes/wc_crm_logs.php:41
+msgid "No found."
+msgstr "Non trouvé."
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_logs.php:185 admin/classes/wc_crm_phone_call.php:99
+#: admin/classes/wc_crm_product_list.php:107
+#: admin/classes/wc_crm_user_groups.php:259
+#: admin/classes/wc_crm_user_groups.php:471
+#: admin/classes/wc_crm_user_groups_table.php:83
+msgid "Type"
+msgstr "Type"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_logs.php:186 admin/classes/wc_crm_order_list.php:108
+#: admin/classes/wc_crm_product_list.php:108
+msgid "Date"
+msgstr "Date"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_logs.php:187
+msgid "Author"
+msgstr "Auteur"
+
+# @ wc_customer_relationship_manager
+# @ woocommerce
+#: admin/classes/wc_crm_logs.php:214 admin/classes/wc_crm_order_list.php:163
+msgid "View"
+msgstr "Voir"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_logs.php:219
+msgid "Trash"
+msgstr "Déchets"
+
+# @ woocommerce
+#: admin/classes/wc_crm_logs.php:296 admin/classes/wc_crm_product_list.php:241
+#: admin/classes/wc_crm_product_list.php:342 functions.php:99
+#, php-format
+msgid "%s ago"
+msgstr "%s il ya"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_logs.php:380
+msgid "View Phone Call"
+msgstr "Voir Appel"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_logs.php:453
+msgid "View Email"
+msgstr "voir Email"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_logs.php:516
+msgid "Back"
+msgstr "Retour"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_order_list.php:24
+#: admin/classes/wc_crm_phone_call.php:153
+msgid "order"
+msgstr "Commande"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_order_list.php:25
+msgid "orders"
+msgstr "Commandes"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_order_list.php:71
+msgid "No orders data found."
+msgstr "Aucune donnée de commande trouvé."
+
+# @ woocommerce
+#: admin/classes/wc_crm_order_list.php:102
+msgid "Status"
+msgstr "Statut"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_order_list.php:103
+#: admin/classes/wc_crm_phone_call.php:153
+msgid "Order"
+msgstr "Commande"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_order_list.php:104
+msgid "Purchased"
+msgstr "Acheter"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_order_list.php:105
+msgid "Ship to"
+msgstr "Envoyer à"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_order_list.php:106
+msgid "Customer Message"
+msgstr "Message client"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_order_list.php:107
+msgid "Order Notes"
+msgstr "Notes commande"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_order_list.php:109
+msgid "Total"
+msgstr "Global"
+
+# @ woocommerce
+#: admin/classes/wc_crm_order_list.php:148
+msgid "Processing"
+msgstr "Traitement"
+
+# @ woocommerce
+#: admin/classes/wc_crm_order_list.php:156
+msgid "Complete"
+msgstr "Complète"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_order_list.php:185
+#: admin/classes/wc_crm_product_list.php:136
+msgid "Select"
+msgstr "Sélectionner"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_phone_call.php:63
+msgid "Place New Call"
+msgstr "Placez Nouvel appel"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_phone_call.php:68
+msgid "Place Call"
+msgstr "Placer Appel"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_phone_call.php:75
+msgid "Enter Phone Number"
+msgstr "Saisir le numéro de téléphone"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_phone_call.php:103
+msgid "Inbound"
+msgstr "Inbound"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_phone_call.php:104
+msgid "Outbound"
+msgstr "Outbound"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_phone_call.php:111
+msgid "Purpose"
+msgstr "Objectif"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_phone_call.php:115
+msgid "None"
+msgstr "Aucun"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_phone_call.php:116
+msgid "Prospecting"
+msgstr "Prospection"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_phone_call.php:117
+msgid "Administrative"
+msgstr "Administratif"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_phone_call.php:118
+msgid "Negotiation"
+msgstr "Négociation"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_phone_call.php:119
+msgid "Demo"
+msgstr "Démo"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_phone_call.php:120
+msgid "Project"
+msgstr "Projet"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_phone_call.php:121
+msgid "Support"
+msgstr "Soutien"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_phone_call.php:148
+msgid "Related To"
+msgstr "Relatif à"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_phone_call.php:154
+#: admin/classes/wc_crm_product_list.php:24
+msgid "product"
+msgstr "produit"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_phone_call.php:154
+msgid "Product"
+msgstr "Produit"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_phone_call.php:157
+msgid "Find"
+msgstr "Trouver"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_phone_call.php:165
+msgid "Call Details"
+msgstr "Détails Appel"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_phone_call.php:170
+msgid "Current Call"
+msgstr "Appel en cours"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_phone_call.php:174
+msgid "Completed Call"
+msgstr "Appel Terminé"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_phone_call.php:179
+msgid "Call Timer"
+msgstr "Chronométrage d'appel"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_phone_call.php:183
+msgid "Start"
+msgstr "Start"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_phone_call.php:184
+msgid "Stop"
+msgstr "Arrêtez"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_phone_call.php:185
+msgid "Pause/Resume"
+msgstr "Pause / Reprise"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_phone_call.php:186
+msgid "Reset"
+msgstr "Reset"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_phone_call.php:191
+msgid "Call Date"
+msgstr "Date d'appel"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_phone_call.php:204
+msgid "Call Time"
+msgstr "Call Time"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_phone_call.php:219
+msgid "Call Duration"
+msgstr "Call Duration"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_phone_call.php:233
+msgid "Call Results"
+msgstr "Résultats Appel"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_product_list.php:25
+msgid "products"
+msgstr "produits"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_product_list.php:70
+msgid "No products data found."
+msgstr "Aucun  donnée sur le produit trouvée."
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_product_list.php:101
+msgid "Image"
+msgstr "Image"
+
+# @ wc_customer_relationship_manager
+# @ woocommerce
+#: admin/classes/wc_crm_product_list.php:102
+#: admin/classes/wc_crm_user_groups.php:250
+#: admin/classes/wc_crm_user_groups.php:459
+#: admin/classes/wc_crm_user_groups_table.php:81
+msgid "Name"
+msgstr "Nom"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_product_list.php:103
+msgid "SKU"
+msgstr "SKU"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_product_list.php:104
+msgid "Stock"
+msgstr "Stock"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_product_list.php:105
+msgid "Price"
+msgstr "Cours"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_product_list.php:106
+msgid "Categories"
+msgstr "Catégories"
+
+# @ woocommerce
+#: admin/classes/wc_crm_product_list.php:233
+#: admin/classes/wc_crm_product_list.php:334 functions.php:91
+msgid "Unpublished"
+msgstr "Non publié"
+
+# @ woocommerce
+#: admin/classes/wc_crm_product_list.php:235
+#: admin/classes/wc_crm_product_list.php:336 functions.php:93
+msgid "Y/m/d g:i:s A"
+msgstr "Y/m/d g:i:s A"
+
+# @ woocommerce
+#: admin/classes/wc_crm_product_list.php:243
+#: admin/classes/wc_crm_product_list.php:344 functions.php:101
+msgid "Y/m/d"
+msgstr "Y/m/d"
+
+# @ woocommerce
+#: admin/classes/wc_crm_settings.php:49
+msgid "Action failed. Please refresh the page and retry."
+msgstr "L'action a échoué. S'il vous plaît rafraîchir la page et réessayer."
+
+# @ woocommerce
+#: admin/classes/wc_crm_settings.php:56
+msgid "Your settings have been saved."
+msgstr "Vos paramètres ont été enregistrés."
+
+# @ woocommerce
+#: admin/classes/wc_crm_settings.php:111
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr "Les modifications apportées seront perdues si vous quittez cette page."
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_user_groups.php:91
+msgid "Please, provide a group name, slug and type."
+msgstr "S'il vous plaît, indiquez un nom de groupe, slug et le type."
+
+# @ woocommerce
+#: admin/classes/wc_crm_user_groups.php:93
+#, php-format
+msgid "Slug “%s” is too long (28 characters max). Shorten it, please."
+msgstr "%slug “%s” is too long (28 characters max). Shorten it, please."
+
+# @ woocommerce
+#: admin/classes/wc_crm_user_groups.php:95
+#: admin/classes/wc_crm_user_groups.php:97
+#, php-format
+msgid ""
+"Slug “%s” is not allowed because it is a reserved term. Change it, please."
+msgstr "%slug “%s” is not allowed because it is a reserved term. Change it, please."
+
+# @ woocommerce
+#: admin/classes/wc_crm_user_groups.php:102
+#, php-format
+msgid "Slug “%s” is already in use. Change it, please."
+msgstr "%slug “%s” is already in use. Change it, please."
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_user_groups.php:239
+msgid "Edit group"
+msgstr "Modifier le groupe"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_user_groups.php:243
+msgid "Groups are used to organise your customers."
+msgstr "Les groupes sont utilisés pour organiser vos clients."
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_user_groups.php:263
+#: admin/classes/wc_crm_user_groups.php:473
+msgid "Dynamic"
+msgstr "Dynamique"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_user_groups.php:264
+#: admin/classes/wc_crm_user_groups.php:474
+msgid "Static"
+msgstr "Parasites"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_user_groups.php:267
+#: admin/classes/wc_crm_user_groups.php:477
+msgid "Determines how you select group for customers."
+msgstr "Détermine la façon dont vous sélectionnez un groupe pour les clients."
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_user_groups.php:272
+#: admin/classes/wc_crm_user_groups.php:480
+msgid "Total Spent"
+msgstr "Total dépensé"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_user_groups.php:276
+#: admin/classes/wc_crm_user_groups.php:482
+msgid "="
+msgstr "="
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_user_groups.php:277
+#: admin/classes/wc_crm_user_groups.php:483
+msgid "&gt;"
+msgstr "&gt;"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_user_groups.php:278
+#: admin/classes/wc_crm_user_groups.php:484
+msgid "&lt;"
+msgstr "&lt;"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_user_groups.php:279
+#: admin/classes/wc_crm_user_groups.php:485
+msgid "&ge;"
+msgstr "&ge;"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_user_groups.php:280
+#: admin/classes/wc_crm_user_groups.php:486
+msgid "&le;"
+msgstr "&le;"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_user_groups.php:287
+#: admin/classes/wc_crm_user_groups.php:491
+msgid "User Role"
+msgstr "Rôle utilisateur"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_user_groups.php:292
+#: admin/classes/wc_crm_user_groups.php:494
+msgid "Any"
+msgstr "Quelconque"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_user_groups.php:314
+#: admin/classes/wc_crm_user_groups.php:512
+msgid "Choose a Customer Status..."
+msgstr "Choisissez un statut de client ..."
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_user_groups.php:329
+#: admin/classes/wc_crm_user_groups.php:525
+msgid "Product Category"
+msgstr "Catégorie de produit"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_user_groups.php:332
+#: admin/classes/wc_crm_user_groups.php:352
+#: admin/classes/wc_crm_user_groups.php:526
+#: admin/classes/wc_crm_user_groups.php:542
+msgid "Choose a Product Category..."
+msgstr "Choisissez une catégorie de produits ..."
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_user_groups.php:374
+#: admin/classes/wc_crm_user_groups.php:560
+msgid "Between"
+msgstr "Entre"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_user_groups.php:375
+#: admin/classes/wc_crm_user_groups.php:561
+msgid "Before"
+msgstr "Avant"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_user_groups.php:376
+#: admin/classes/wc_crm_user_groups.php:562
+msgid "After"
+msgstr "Après"
+
+# @ woocommerce
+#: admin/classes/wc_crm_user_groups.php:395
+msgid "Update"
+msgstr "Mettre à jour"
+
+# @ woocommerce
+#: admin/classes/wc_crm_user_groups.php:438
+msgid "Customer Groups"
+msgstr "Groupes clients"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_user_groups.php:455
+msgid "Add New group"
+msgstr "Ajouter un nouveau groupe"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_user_groups.php:456
+msgid ""
+"Groups are used to organise your customers. Please Note: you are cannot "
+"rename a group later."
+msgstr "Les groupes sont utilisés pour organiser vos clients. S'il vous plaît Note: vous ne pouvais pas renommer un groupe plus tard."
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_user_groups.php:461
+msgid "Name for the group."
+msgstr "Nom pour le groupe."
+
+# @ woocommerce
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_user_groups.php:465
+#: admin/classes/wc_crm_user_groups_table.php:82
+msgid "Slug"
+msgstr "Slug"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_user_groups.php:467
+msgid ""
+"Unique slug/reference for the group; must be shorter than 28 characters."
+msgstr "Slug Unique / référence pour le groupe; doit être inférieure à 28 caractères."
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_user_groups.php:579
+msgid "Add group"
+msgstr "Ajouter un groupe"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_user_groups.php:590
+msgid "Are you sure you want to delete this group?"
+msgstr "Êtes-vous sûr de vouloir supprimer ce groupe?"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_user_groups_table.php:23
+msgid "groups_table"
+msgstr "groups_table"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_user_groups_table.php:24
+msgid "groups_tables"
+msgstr "groups_tables"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_user_groups_table.php:57
+msgid "Groups not found. Try to adjust the filter."
+msgstr "Clients introuvables. Essayez de régler le filtre."
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_user_groups_table.php:84
+msgid "Terms"
+msgstr "Termes"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_user_groups_table.php:106
+msgid "Delete"
+msgstr "Effacer"
+
+# @ wc_customer_relationship_manager
+#: admin/classes/wc_crm_user_groups_table.php:118
+msgid "View Customers in Group"
+msgstr "Voir les clients du groupe"
+
+# @ default
+#: admin/classes/wc_crm_user_groups_table.php:139
+#, php-format
+msgid "Customer status is %s"
+msgstr "Statut de Client %s"
+
+# @ default
+#: admin/classes/wc_crm_user_groups_table.php:151
+#, php-format
+msgid "Product category is %s"
+msgstr "Catégorie de produit %s"
+
+# @ default
+#: admin/classes/wc_crm_user_groups_table.php:164
+#, php-format
+msgid "Order status is %s"
+msgstr "L'état des commandes %s"
+
+# @ default
+#: admin/customer_details.php:22
+msgid ""
+"To add a new customer to your site, fill in the form on this screen and "
+"click the Add New Customer button at the bottom."
+msgstr "Pour ajouter un nouveau client à votre site, remplir le formulaire sur cet écran et cliquez sur le bouton Nouveau client Ajouter au fond."
+
+# @ default
+#: admin/customer_details.php:23
+msgid ""
+"You must assign a password to the new user, which they can change after "
+"logging in. The username, however, cannot be changed."
+msgstr "Vous devez attribuer un mot de passe pour le nouvel utilisateur, qu'ils peuvent changer après la connexion. Le nom d'utilisateur, cependant, ne peut pas être changé."
+
+# @ default
+#: admin/customer_details.php:24
+msgid ""
+"New users will receive an email letting them know they&#8217;ve been added "
+"as a user for your site. By default, this email will also contain their "
+"password. Uncheck the box if you don&#8217;t want the password to be "
+"included in the welcome email."
+msgstr "Les nouveaux utilisateurs recevront un courriel leur faisant savoir qu'ils &#8217; a été ajouté en tant qu'utilisateur pour votre site. Par défaut, ce courriel contiendra également leur mot de passe. Décochez la case si vous ne &#8217;t veulent que le mot de passe pour être inclus dans le courriel de bienvenue."
+
+# @ default
+#: admin/customer_details.php:25
+msgid ""
+"Remember to click the Add New Customer button at the bottom of this screen "
+"when you are finished."
+msgstr "N'oubliez pas de cliquez sur le bouton Nouveau client Ajouter au bas de cet écran lorsque vous avez terminé."
+
+# @ default
+#: admin/customer_details.php:29
+msgid "Overview"
+msgstr "Vue d'ensemble"
+
+# @ wc_customer_relationship_manager
+#: admin/customers.php:155
+msgid "Please wait, loading.."
+msgstr "S'il vous plaît patienter, chargement .."
+
+# @ wc_customer_relationship_manager
+#: admin/customers.php:168
+msgid "Search"
+msgstr "Recherche"
+
+# @ wc_customer_relationship_manager
+#: admin/customers.php:170
+msgid "Search Customers"
+msgstr "Recherche clients"
+
+# @ wc_customer_relationship_manager
+#: admin/customers.php:207
+msgid "Customers group "
+msgstr "Groupe Clients "
+
+# @ wc_customer_relationship_manager
+#: admin/customers.php:209
+msgid "Orders"
+msgstr "Commandes"
+
+# @ wc_customer_relationship_manager
+#: admin/customers.php:211
+msgid "Products "
+msgstr "Produits "
+
+# @ wc_customer_relationship_manager
+#: admin/customers.php:225
+msgid "Your email has been successfully sent."
+msgstr "Votre e-mail a été envoyé avec succès."
+
+# @ wc_customer_relationship_manager
+#: admin/customers.php:228
+msgid "Phone Call has been saved."
+msgstr "Appel a été enregistré."
+
+# @ wc_customer_relationship_manager
+#: admin/customers.php:242
+msgid "Customer status updated."
+msgstr "Statut de client mis à jour."
+
+# @ wc_customer_relationship_manager
+#: admin/logs.php:19
+msgid "Log Records"
+msgstr "Enregistrements de journal"
+
+# @ wc_customer_relationship_manager
+#: admin/logs.php:60
+msgid " post permanently deleted."
+msgstr " Message définitivement supprimé."
+
+# @ wc_customer_relationship_manager
+#: admin/logs.php:62
+msgid " posts permanently deleted."
+msgstr " Messages supprimés définitivement."
+
+# @ wc_customer_relationship_manager
+#: admin/logs.php:68
+msgid " post restored from the Trash."
+msgstr " Message restauré à partir de la Corbeille."
+
+# @ wc_customer_relationship_manager
+#: admin/logs.php:70
+msgid " posts restored from the Trash."
+msgstr " Messages restaurés de la corbeille."
+
+# @ wc_customer_relationship_manager
+#: admin/logs.php:76
+msgid " post moved to the Trash."
+msgstr " Message déplacé vers la Corbeille."
+
+# @ wc_customer_relationship_manager
+#: admin/logs.php:76 admin/logs.php:78
+msgid "Undo"
+msgstr "Défaire"
+
+# @ wc_customer_relationship_manager
+#: admin/logs.php:78
+msgid " posts moved to the Trash."
+msgstr " Messages placés dans la Corbeille."
+
+# @ wc_customer_relationship_manager
+#: functions.php:125
+#, php-format
+msgid "Unable to load lists() from MailChimp: (%s) %s"
+msgstr "Impossible de charger les listes () de MailChimp: %s %s"
+
+# @ wc_customer_relationship_manager
+#: functions.php:138
+msgid "Select a list..."
+msgstr "Sélectionnez une liste ..."
+
+# @ wc_customer_relationship_manager
+#: functions.php:138
+msgid "Enter your key and save to see your lists"
+msgstr "Entrez votre clé et enregistrer pour voir vos listes"
+
+# @ wc_customer_relationship_manager
+#: woocommerce-customer-relationship-manager.php:175
+msgid "View Customer"
+msgstr "Voir client"
+
+# @ woocommerce
+#: woocommerce-customer-relationship-manager.php:384
+msgid ""
+"Copy billing information to shipping information? This will remove any "
+"currently entered shipping information."
+msgstr "Copie des informations de facturation des informations d'expédition à la? Cela permettra d'éliminer toute information expédition actuellement entré."
+
+# @ woocommerce
+#: woocommerce-customer-relationship-manager.php:441
+msgid "Show all types"
+msgstr "Voir tous les types"
+
+# @ default
+#: woocommerce-customer-relationship-manager.php:466
+msgid "Show all dates"
+msgstr "Montrer toutes les dates"
+
+# @ default
+#. translators: 1: month name, 2: 4-digit year
+#: woocommerce-customer-relationship-manager.php:479
+#, php-format
+msgid "%1$s %2$d"
+msgstr "%1$s %2$d"
+
+# @ woocommerce
+#: woocommerce-customer-relationship-manager.php:490
+msgid "Show all authors"
+msgstr "Afficher tous les auteurs"
+
+# @ wc_customer_relationship_manager
+#: woocommerce-customer-relationship-manager.php:566
+msgid "Customer status"
+msgstr "Statut client"
+

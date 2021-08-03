@@ -1,0 +1,197 @@
+p.form-field .select2-container {
+	width: 100% !important;
+	max-width: 100% !important;
+}
+#wc_crm_call_data p.form-field label {display: block; padding: 0 0 3px; color: #777;}
+#wc_crm_call_data p.form-field input[type="text"] {
+    width: 100%;
+}
+#wc_crm_call_data div.inside {
+	padding: 12px 24px 24px 24px;
+}
+#wc_crm_call_data div.call_data_column_container p.form-field {
+	margin: 12px 0 0;
+    width: 100%;
+}
+#woocommerce-customer-calls table.calls {
+	border: none;
+}
+#wc_crm_call_data div.call_data_column_container p.post_content_field textarea {
+	width: 100%;
+	height: 5em;
+}
+/* Call Actions */
+#major-viewing-actions {
+    background: #F5F5F5;
+    border-top: 1px solid #DDD;
+    clear: both;
+    padding: 10px;
+    text-align: center;
+}
+#major-viewing-actions a {
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+    margin: 5px;
+}
+#major-viewing-actions a.disabled {
+    background: #f5f5f5;
+    color: #999999;
+    cursor: not-allowed;
+}
+#major-viewing-actions a.view_customer:after {
+	font-family: WooCommerce;
+    content: "\e03a";
+    speak: none;
+    -webkit-font-smoothing: antialiased;
+    text-align: center;
+}
+#major-viewing-actions a.view_order:after {
+	font-family: WooCommerce;
+    content: "\e010";
+    speak: none;
+    -webkit-font-smoothing: antialiased;
+    text-align: center;
+}
+#major-viewing-actions a.view_product:after {
+	font-family: WooCommerce;
+    content: "\e006";
+    speak: none;
+    -webkit-font-smoothing: antialiased;
+    text-align: center;
+}
+#major-viewing-actions a.place_call:after {
+	font-family: dashicons;
+    content: "\f525";
+    speak: none;
+    -webkit-font-smoothing: antialiased;
+    text-align: center;
+}
+/* Call Actions - Details */
+#post-body .misc-pub-post-status:before {
+    content: "\f525" !important;
+    display: inline-block;
+    font: 400 20px/1 dashicons;
+    speak: none;
+    left: -1px;
+    padding: 0 5px 0 0;
+    position: relative;
+    top: 0;
+    text-decoration: none!important;
+    vertical-align: top;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #82878c;
+}
+/* Call Actions - Date */
+#call_duration_h, #call_duration_m, #call_duration_s {
+    width: 4em;
+    font-size: 12px;
+    padding: 1px;
+}
+/* Call Actions - Duration */
+#misc-publishing-actions label[for="call_duration"]:before {
+	content: "\f321";
+    display: inline-block;
+    font: 400 20px/1 dashicons;
+    speak: none;
+    left: -1px;
+    padding: 0 5px 0 0;
+    position: relative;
+    top: 0;
+    text-decoration: none!important;
+    vertical-align: top;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #82878c;
+}
+.misc-pub-duration #call_duration{
+    font-weight: bold;
+}
+.display_time {
+    background: #f1f1f1;
+    clear: both;
+    padding: 15px;
+    font-size: 25px;
+    text-align: center;
+    margin: 8px 0;
+    letter-spacing: 1px;
+    box-shadow: inset 0 1px 2px rgba(0,0,0,.07);
+    -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,.07);
+    font-family: "Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+}
+
+.column-call_type .CallType,
+.column-call_duration .Duration {
+	display: block;
+    height: 1em;
+    margin: 0 auto;
+    position: relative;
+    text-indent: -9999px;
+    width: 1em;
+}
+.column-call_type .CallType:before,
+.column-call_duration .Duration:before {
+	font-family: aecrm;
+
+    font-variant: normal;
+    font-weight: 400;
+    height: 100%;
+    left: 0;
+    line-height: 1;
+    margin: 0;
+    position: absolute;
+    text-align: center;
+    text-indent: 0;
+    text-transform: none;
+    top: 0;
+    width: 100%;
+    -webkit-font-smoothing: antialiased;
+    speak: none;
+}
+.column-call_type .CallType:before {
+    content: "\e907";
+}
+.column-call_duration .Duration:before {
+	content: "\e904";
+}
+.Inbound, .Outbound {
+	font-family: aecrm;
+    font-variant: normal;
+    height: 100%;
+    margin: 0;
+    text-transform: none;
+    display: block;
+    float: none;
+    margin: auto;
+    text-align: center;
+    font-size: 12px;
+    -webkit-font-smoothing: antialiased;
+}
+.Inbound:after {
+	content: '\e906';
+    color: #999;
+}
+.Outbound:after {
+	content: '\e905';
+    color: #999;
+}
+.column-call_date,
+.column-call_duration {
+	width: 9%;
+}
+.column-call_type {
+	width: 55px;
+	text-align: center;
+}
+.column-call_duration {
+	text-align: center;
+}
+.column-customer {
+	width: 20%;
+}
+.column-activity_owner {
+	width: 15%;
+}
+
+#woocommerce-customer-calls .tablenav {display: none;}

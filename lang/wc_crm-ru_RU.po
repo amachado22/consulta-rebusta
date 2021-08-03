@@ -1,0 +1,5612 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Customer Relationship Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Tue Jul 19 2016 18:53:06 GMT+0300 (MSK)\n"
+"PO-Revision-Date: Fri Jul 22 2016 01:08:52 GMT+0300 (RTZ 2 (зима))\n"
+"Last-Translator: wp_shop <pavlas@yandex.ru>\n"
+"Language-Team: \n"
+"Language: Russian\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: ru_RU\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../../updater/github-checker.php:119
+msgid "There is no changelog available."
+msgstr "Отсутствуют доступные изменения."
+
+#: ../../updater/plugin-update-checker.php:637
+msgid "Check for updates"
+msgstr "Проверка обновлений"
+
+#: ../../updater/plugin-update-checker.php:681
+msgid "This plugin is up to date."
+msgstr "Установлена последняя версия плагина"
+
+#: ../../updater/plugin-update-checker.php:683
+msgid "A new version of this plugin is available."
+msgstr "Доступна новая версия плагина"
+
+#: ../../updater/plugin-update-checker.php:685
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "Неизвестный статус обновления"
+
+#. Name of the plugin
+msgid "WooCommerce Customer Relationship Manager"
+msgstr "Менеджер по работе с клиентами WooCommerce"
+
+#. URI of the plugin
+msgid ""
+"http://codecanyon.net/item/woocommerce-customer-relationship-"
+"manager/5712695&ref=actualityextensions"
+msgstr ""
+"http://codecanyon.net/item/woocommerce-customer-relationship-"
+"manager/5712695&ref=actualityextensions"
+
+#. Description of the plugin
+msgid ""
+"Allows for an overview management of customers and their related accounts as "
+"well as managing the communication between your store and them."
+msgstr ""
+"Позволяет осуществлять менеджмент клиентов и управление их аккаунтами, а "
+"также регулировать общение с ними в вашем магазине."
+
+#. Author of the plugin
+msgid "Actuality Extensions"
+msgstr "Actuality Extensions"
+
+#. Author URI of the plugin
+msgid "http://actualityextensions.com"
+msgstr ""
+"О WordPress\n"
+"Minime\n"
+"11 обновление плагина\n"
+"00 комментариев ожидают проверки\n"
+"Добавить\n"
+"Привет, wp_shop\n"
+"Выйти\n"
+"Пакеты переводов  Установки  WooCommerce Customer Relationship Manager "
+"Представляем Loco Translate, менеджер переводов\n"
+" Russian:   Обновлённый: 19.07.2016 19:43 — 1% переведено, 810 strings (799 "
+"не переведено)\n"
+"\n"
+"Сохранить PO MO Синхронизация Вернуться Неточный перевод \n"
+"Поиск по фразе\n"
+" Помощь\n"
+"Исходный текст\n"
+"Перевод\n"
+"WooCommerce Customer Relationship Manager\n"
+"http://codecanyon.net/item/woocommerce-customer-relationship-"
+"manager/5712695&ref=actualityextensions\n"
+"Allows for an overview management of customers and their related accounts as "
+"well as managing the communication between your store and them.\n"
+"Actuality Extensions\n"
+"http://actualityextensions.com\n"
+"Dear %s,\n"
+"A new task has been assigned to you:\n"
+"Subject: %s\n"
+"Due date: %s\n"
+"M j, Y @ H:i\n"
+"Customer: #%d - %s\n"
+"Account: #%d - %s\n"
+"Guest\n"
+"First Name\n"
+"Last Name\n"
+"Email Address\n"
+"Title\n"
+"Department\n"
+"Customer Status\n"
+"Account Name\n"
+"Select an account…\n"
+"Agent\n"
+"Select an Agent…\n"
+"Date of Birth\n"
+"Mobile\n"
+"Fax\n"
+"Website\n"
+"Twitter\n"
+"Skype\n"
+"Assistant\n"
+"Lead Source\n"
+"Select a Lead Source…\n"
+"Lead Status\n"
+"Select a Lead Status…\n"
+"Industry\n"
+"Select an Industry…\n"
+"Categories\n"
+"Search for a category…\n"
+"Brands\n"
+"Search for a brand…\n"
+"Company\n"
+"Address 1\n"
+"Address 2\n"
+"City\n"
+"Postcode\n"
+"Country\n"
+"Select a country…\n"
+"State/County\n"
+"Email\n"
+"Phone\n"
+"WC_CRM\n"
+"To go back to the previous page, click here.\n"
+"All done! %1$s customer(s) were successfully loaded in %2$s seconds and "
+"there were %3$s failure(s). To try reloading the failed customers again, "
+"click here. %5$s\n"
+"All done! %1$s customer(s) were successfully loaded in %2$s seconds and "
+"there were 0 failures. %3$s\n"
+"Reload customers\n"
+"Please be patient while the customers are reloaded. You will be notified via "
+"this page when the reloading is completed.\n"
+"You must enable Javascript in order to proceed!\n"
+"Process Information\n"
+"Total users\n"
+"Total guests\n"
+"Success\n"
+"Failure\n"
+"Stopping...\n"
+"What's New\n"
+"Speed Optimisation\n"
+"To cater for bigger databases, we've optimised the performance of the plugin "
+"when handling larger records and number of customers..\n"
+"Refactoring\n"
+"We have refactored the entire plugin to prepare for exciting changes coming "
+"towards the end of this year.\n"
+"Copy billing information to shipping information? This will remove any "
+"currently entered shipping information.\n"
+"Load the customer's billing information? This will remove any currently "
+"entered billing information.\n"
+"Load the customer's shipping information? This will remove any currently "
+"entered shipping information.\n"
+"Select an option…\n"
+"Call Date:\n"
+"Save Call\n"
+"Cheatin’ huh?\n"
+"View Settings\n"
+"Settings\n"
+"View Documentation\n"
+"Docs\n"
+"Visit Support\n"
+"Support\n"
+"%1$s %2$s [ full name ]\n"
+"Order %s by %s [ Order number by X ]\n"
+"Sorry, there has been an error.\n"
+"The file does not exist, please try again.\n"
+"Please select user email and please try again.\n"
+"Import complete.\n"
+"%d Customer has been successfully added.\n"
+"%d Group has been successfully added.\n"
+"%d Customer status has been successfully added.\n"
+"%d Customer was not added.\n"
+"The export file could not be found at %s. It is likely that this was caused "
+"by a permissions problem.\n"
+"Select fields to map\n"
+"Custom meta\n"
+"Role\n"
+"User Login\n"
+"Group\n"
+"Nicename\n"
+"Display name\n"
+"Import\n"
+"Default User Role\n"
+"Select what the default User Role for the imported customers should be upon "
+"import.\n"
+"Default Status\n"
+"Select what the default customer status for the imported customers should be "
+"upon import.\n"
+"Skip First Row\n"
+"Check this box to skip the addition of the first row of the CSV file. You "
+"can see the values of the first row below on the left.\n"
+"Field Mapping\n"
+"Import\n"
+"Enter user meta key.\n"
+"There was an error when reading this file\n"
+"Choose a CSV file to upload, then click Upload file and import.\n"
+"Failed: %d is an invalid user ID.\n"
+"\"%s\" (ID %s)\n"
+"Successfully updated in %s seconds\n"
+"Successfully added in %s seconds\n"
+"Failed: %s is an invalid user email.\n"
+"Guest \"%s\"\n"
+"Current Call [ Call status ]\n"
+"Completed Call [ Call status ]\n"
+"Schedule Call [ Call status ]\n"
+"Inbound [ Call type ]\n"
+"Outbound [ Call type ]\n"
+"None [ Call purpose ]\n"
+"Prospecting [ Call purpose ]\n"
+"Administrative [ Call purpose ]\n"
+"Negotiation [ Call purpose ]\n"
+"Demo [ Call purpose ]\n"
+"Project [ Call purpose ]\n"
+"Support [ Call purpose ]\n"
+"Unpublished\n"
+"Y/m/d g:i:s A\n"
+"%s ago\n"
+"Y/m/d\n"
+"Unable to load lists() from MailChimp: (%s) %s\n"
+"Select a list...\n"
+"Enter your key and save to see your lists\n"
+"Advertisement\n"
+"Cold Call\n"
+"Employee Referral\n"
+"External Referral\n"
+"Online Store\n"
+"Partner\n"
+"Public Relations\n"
+"Sales Mail Alias\n"
+"Seminar Partner\n"
+"Seminar Internal\n"
+"Trade Show\n"
+"Web Download\n"
+"Web Research\n"
+"Web Cases\n"
+"Web Mail\n"
+"Chat\n"
+"Attempted to Contact\n"
+"Contact in Future\n"
+"Contacted\n"
+"Junk Lead\n"
+"Lost Lead\n"
+"Not Contacted\n"
+"Pre Qualified\n"
+"Other\n"
+"Private\n"
+"Public\n"
+"Subsidiary\n"
+"Analyst\n"
+"Competitor\n"
+"Customer\n"
+"Distributor\n"
+"Integrator\n"
+"Investor\n"
+"Press\n"
+"Prospect\n"
+"Reseller\n"
+"Supplier\n"
+"Vendor\n"
+"Accounting\n"
+"Airlines/Aviation\n"
+"Alternative Dispute Resolution\n"
+"Alternative Medicine\n"
+"Animation\n"
+"Apparel & Fashion\n"
+"Architecture & Planning\n"
+"Arts and Crafts\n"
+"Automotive\n"
+"Aviation & Aerospace\n"
+"Banking\n"
+"Biotechnology\n"
+"Broadcast Media\n"
+"Building Materials\n"
+"Business Supplies and Equipment\n"
+"Capital Markets\n"
+"Chemicals\n"
+"Civic & Social Organization\n"
+"Civil Engineering\n"
+"Commercial Real Estate\n"
+"Computer & Network Security\n"
+"Computer Games\n"
+"Computer Hardware\n"
+"Computer Networking\n"
+"Computer Software\n"
+"Construction\n"
+"Consumer Electronics\n"
+"Consumer Goods\n"
+"Consumer Services\n"
+"Cosmetics\n"
+"Dairy\n"
+"Defense & Space\n"
+"Design\n"
+"Education Management\n"
+"E-Learning\n"
+"Electrical/Electronic Manufacturing\n"
+"Entertainment\n"
+"Environmental Services\n"
+"Events Services\n"
+"Executive Office\n"
+"Facilities Services\n"
+"Farming\n"
+"Financial Services\n"
+"Fine Art\n"
+"Fishery\n"
+"Food & Beverages\n"
+"Food Production\n"
+"Fund-Raising\n"
+"Furniture\n"
+"Gambling & Casinos\n"
+"Glass, Ceramics & Concrete\n"
+"Government Administration\n"
+"Government Relations\n"
+"Graphic Design\n"
+"Health, Wellness and Fitness\n"
+"Higher Education\n"
+"Hospital & Health Care\n"
+"Hospitality\n"
+"Human Resources\n"
+"Import and Export\n"
+"Individual & Family Services\n"
+"Industrial Automation\n"
+"Information Services\n"
+"Information Technology and Services\n"
+"Insurance\n"
+"International Affairs\n"
+"International Trade and Development\n"
+"Internet\n"
+"Investment Banking\n"
+"Investment Management\n"
+"Judiciary\n"
+"Law Enforcement\n"
+"Law Practice\n"
+"Legal Services\n"
+"Legislative Office\n"
+"Leisure, Travel & Tourism\n"
+"Libraries\n"
+"Logistics and Supply Chain\n"
+"Luxury Goods & Jewelry\n"
+"Machinery\n"
+"Management Consulting\n"
+"Maritime\n"
+"Market Research\n"
+"Marketing and Advertising\n"
+"Mechanical or Industrial Engineering\n"
+"Media Production\n"
+"Medical Devices\n"
+"Medical Practice\n"
+"Mental Health Care\n"
+"Military\n"
+"Mining & Metals\n"
+"Motion Pictures and Film\n"
+"Museums and Institutions\n"
+"Music\n"
+"Nanotechnology\n"
+"Newspapers\n"
+"Non-Profit Organization Management\n"
+"Oil & Energy\n"
+"Online Media\n"
+"Outsourcing/Offshoring\n"
+"Package/Freight Delivery\n"
+"Packaging and Containers\n"
+"Paper & Forest Products\n"
+"Performing Arts\n"
+"Pharmaceuticals\n"
+"Philanthropy\n"
+"Photography\n"
+"Plastics\n"
+"Political Organization\n"
+"Primary/Secondary Education\n"
+"Printing\n"
+"Professional Training & Coaching\n"
+"Program Development\n"
+"Public Policy\n"
+"Public Relations and Communications\n"
+"Public Safety\n"
+"Publishing\n"
+"Railroad Manufacture\n"
+"Ranching\n"
+"Real Estate\n"
+"Recreational Facilities and Services\n"
+"Religious Institutions\n"
+"Renewables & Environment\n"
+"Research\n"
+"Restaurants\n"
+"Retail\n"
+"Security and Investigations\n"
+"Semiconductors\n"
+"Shipbuilding\n"
+"Sporting Goods\n"
+"Sports\n"
+"Staffing and Recruiting\n"
+"Supermarkets\n"
+"Telecommunications\n"
+"Textiles\n"
+"Think Tanks\n"
+"Tobacco\n"
+"Translation and Localization\n"
+"Transportation/Trucking/Railroad\n"
+"Utilities\n"
+"Venture Capital & Private Equity\n"
+"Veterinary\n"
+"Warehousing\n"
+"Wholesale\n"
+"Wine and Spirits\n"
+"Wireless\n"
+"Writing and Editing\n"
+"This function should not be called before woocommerce_init.\n"
+"Undo\n"
+"You can’t edit this item because it is in the Trash. Please restore it and "
+"try again.\n"
+"Edit Customer\n"
+"Add New Customer\n"
+"Add Customer\n"
+"Please enter an e-mail address.\n"
+"The email address isn't correct.\n"
+"This email is already registered, please choose another one.\n"
+"Customer updated.\n"
+"Customer created.\n"
+"added %s ago\n"
+"WooCommerce\n"
+"by %s\n"
+"Delete note\n"
+"There are no notes for this customer yet.\n"
+"Show all customer statuses\n"
+"Show all countries\n"
+"Show all states\n"
+"Show all cities\n"
+"All time results\n"
+"Last 24 hours\n"
+"This month\n"
+"Last 30 days\n"
+"Last 6 months\n"
+"Last 12 months\n"
+"Show all user roles\n"
+"Show all statuses\n"
+"Customer Groups\n"
+"Search for a group…\n"
+"Start\n"
+"Stop\n"
+"Pause/Resume\n"
+"Reset\n"
+"Call Details:\n"
+"Edit\n"
+"Edit status\n"
+"Published\n"
+"OK\n"
+"Cancel\n"
+"Call Date: %1$s\n"
+"Schedule for: %1$s\n"
+"Edit date and time\n"
+"Date and time\n"
+"Call Duration:\n"
+"h\n"
+"m\n"
+"s\n"
+"Save\n"
+"Place Call\n"
+"View Customer\n"
+"View Order\n"
+"View Product\n"
+"Delete Permanently\n"
+"Move to Trash\n"
+"Publish\n"
+"Create Call\n"
+"Update\n"
+"Products Purchased\n"
+"Close\n"
+"Customer Orders\n"
+"Retain orders and convert customer to Guest\n"
+"Delete related orders and WP user profile\n"
+"Delete\n"
+"Calls\n"
+"details\n"
+"1 order\n"
+"General Details\n"
+"Billing Details\n"
+"Load billing address\n"
+"Address\n"
+"No billing address set.\n"
+"Preferred Payment Method\n"
+"Payment Method:\n"
+"N/A\n"
+"Shipping Details\n"
+"Copy from billing\n"
+"Load shipping address\n"
+"No shipping address set.\n"
+"Tasks\n"
+"Status:\n"
+"Due Date: %1$s\n"
+"Priority:\n"
+"Edit priority\n"
+"Create Task\n"
+"Save Task\n"
+"Activity\n"
+"Every day\n"
+"Repeat for every %s days\n"
+"Repeat for every %s weeks\n"
+"On day %s Of every %s months\n"
+"First\n"
+"Second\n"
+"Third\n"
+"Fourth\n"
+"Last\n"
+"On %s %s Of every %s months\n"
+"Of every %s %s\n"
+"On %s %s of %s\n"
+"Customer Notes\n"
+"There are no notes yet.\n"
+"Add note\n"
+"Add\n"
+"Activity #\n"
+"  details\n"
+"Email sent on\n"
+"at\n"
+"From\n"
+"To\n"
+"Subject\n"
+"Message\n"
+"Word count: %s\n"
+"Last edited by %1$s on %2$s at %3$s\n"
+"Last edited on %1$s at %2$s\n"
+"Customer Actions\n"
+"Actions\n"
+"New order\n"
+"Send email\n"
+"Add a new call\n"
+"Add a new task\n"
+"Apply\n"
+"Are you sure you want to delete the customer?\n"
+"Send Email\n"
+"Compose a new email to the customer.\n"
+"From Name\n"
+"From Email Address\n"
+"Recipients\n"
+"Body\n"
+"Subject:\n"
+"Phone Number:\n"
+"Call Owner:\n"
+"Type:\n"
+"Purpose:\n"
+"Customer:\n"
+"Select a Customer…\n"
+"Product:\n"
+"Search for a product…\n"
+"Order:\n"
+"Search for an order…\n"
+"Call Results:\n"
+"Empty Trash\n"
+"Show all dates\n"
+"%1$s %2$d\n"
+"Show all authors\n"
+"Task Owner:\n"
+"Account:\n"
+"Send Notification Email:\n"
+"Repeat:\n"
+"Start Date:\n"
+"End Date:\n"
+"Repeat Type:\n"
+"None\n"
+"Daily\n"
+"Weekly\n"
+"Monthly\n"
+"Yearly\n"
+"Whoops, the provided date is invalid.\n"
+"Month\n"
+"%1$s-%2$s\n"
+"Day\n"
+"Year\n"
+"Hour\n"
+"Minute\n"
+"%1$s %2$s, %3$s @ %4$s:%5$s\n"
+"Email Details\n"
+"Email sent.\n"
+"Please, provide a group name, slug and type.\n"
+"Slug “%s” is too long (28 characters max). Shorten it, please.\n"
+"Slug “%s” is not allowed because it is a reserved term. Change it, please.\n"
+"Slug “%s” is already in use. Change it, please.\n"
+"Group successfully added.\n"
+"Group successfully updated.\n"
+"Group deleted\n"
+"%d Groups deleted.\n"
+"Edit group\n"
+"Groups are used to organise your customers.\n"
+"Name\n"
+"Type\n"
+"Dynamic\n"
+"Static\n"
+"Determines how you select group for customers.\n"
+"Total Spent\n"
+"=\n"
+">\n"
+"<\n"
+"≥\n"
+"≤\n"
+"User Role\n"
+"Any\n"
+"Choose a Customer Status...\n"
+"Product Category\n"
+"Choose a Product Category...\n"
+"Order Status\n"
+"Last Order\n"
+"Between\n"
+"Before\n"
+"After\n"
+"Add New group\n"
+"Groups are used to organise your customers. Please Note: you cannot rename a "
+"group later.\n"
+"Name for the group.\n"
+"Slug\n"
+"Unique slug/reference for the group; must be shorter than 28 characters.\n"
+"Add group\n"
+"Are you sure you want to delete this group?\n"
+"log\n"
+"logs\n"
+"Date\n"
+"Author\n"
+"No found.\n"
+"View\n"
+"Trash\n"
+"customer\n"
+"Customers not found.\n"
+"Customers not found. Try to adjust the filter.\n"
+"Contact Details\n"
+"Value\n"
+"Newsletter\n"
+"Subscribed\n"
+"Restore\n"
+"Export Contacts\n"
+"Mark as %s\n"
+"Add to %s\n"
+"Move to trash\n"
+"Select %s\n"
+"Restore “%s” from the Trash\n"
+"Delete “%s” permanently\n"
+"Email: %s\n"
+"%d order\n"
+"-\n"
+"Edit Customer\n"
+"View Orders\n"
+"product\n"
+"products\n"
+"No products data found.\n"
+"Image\n"
+"SKU\n"
+"Stock\n"
+"Price\n"
+"Number Purchased\n"
+"Value of Purchases\n"
+"Select\n"
+"status\n"
+"statuses\n"
+"No custom statuses have been found. Try to adjust the filter.\n"
+"Icon\n"
+"order\n"
+"orders\n"
+"No orders data found.\n"
+"Status\n"
+"Order\n"
+"Purchased\n"
+"Ship to\n"
+"Customer Message\n"
+"Total\n"
+"groups_table\n"
+"groups_tables\n"
+"Groups not found. Try to adjust the filter.\n"
+"Terms\n"
+"View Customers in Group\n"
+"Customer status is %s\n"
+"Product category is %s\n"
+"Order status is %s\n"
+"Edit “%s”\n"
+"Search\n"
+"Search Customers\n"
+"Customers group\n"
+"Update Customers\n"
+"(ID %s)%s\n"
+"%s by %s [ Order number by X ]\n"
+"Not Started [ Task status ]\n"
+"Deferred [ Task status ]\n"
+"In Progress [ Task status ]\n"
+"Completed [ Task status ]\n"
+"Waiting [ Task status ]\n"
+"Normal [ Task priority ]\n"
+"Highest [ Task priority ]\n"
+"High [ Task priority ]\n"
+"Low [ Task priority ]\n"
+"Lowest [ Task priority ]\n"
+"Ticker symbol\n"
+"Account Type\n"
+"Ownership\n"
+"Select an Industry\n"
+"Employees\n"
+"Annual Revenue\n"
+"SIC code\n"
+"Account Details\n"
+"Account number\n"
+"Account owner\n"
+"Save Account\n"
+"added on %1$s at %2$s\n"
+"Private note\n"
+"Action failed. Please refresh the page and retry.\n"
+"WooCommerce CRM Data Update Required – We just need to update your install "
+"to the latest version\n"
+"Run the updater\n"
+"It is strongly recommended that you backup your database before proceeding. "
+"Are you sure you wish to run the updater now?\n"
+"Save changes\n"
+"To cater for bigger databases, we've optimised the performance of the plugin "
+"when handling larger records and number of customers.\n"
+"Guest Customers\n"
+"You can now edit Guest customers and add more information to their records, "
+"including information entered from Advanced Custom Fields.\n"
+"Redesigned Logging\n"
+"We have redesigned the logging pages for email and phone calls, following "
+"the standard ecosystem which WooCommerce uses.\n"
+"Welcome to WooCommerce Customer Relationship Manager – You‘re almost ready "
+"to start\n"
+"Run the Setup Wizard\n"
+"This is where Accounts are stored.\n"
+"Account\n"
+"Accounts\n"
+"Task\n"
+"Call\n"
+"Add New\n"
+"Add New %s\n"
+"Edit %s\n"
+"New %s\n"
+"All %s\n"
+"View %s\n"
+"Search %s\n"
+"No %s Found\n"
+"No %s Found In Trash\n"
+"Parent %s\n"
+"Account updated.\n"
+"Custom field updated.\n"
+"Custom field deleted.\n"
+"Account restored to revision from %s\n"
+"Account published.\n"
+"Account saved.\n"
+"Account submitted.\n"
+"Task updated.\n"
+"Task restored to revision from %s\n"
+"Task created.\n"
+"Task saved.\n"
+"Task submitted.\n"
+"Call updated.\n"
+"Call restored to revision from %s\n"
+"Call created.\n"
+"Call saved.\n"
+"Call submitted.\n"
+"Account Data\n"
+"Account Actions\n"
+"Account Notes\n"
+"Task Data\n"
+"Task Description\n"
+"Task Actions\n"
+"Call Actions\n"
+"Call Data\n"
+"Enter subject here\n"
+"Account Owner\n"
+"Due Date\n"
+"Priority\n"
+"Owner\n"
+"Duration\n"
+"Related To\n"
+"Y/m/d g:i:s a\n"
+"This is a recurring task that repeats every days from %s to %s.\n"
+"This is a recurring task that repeats every %s day(s) from %s to %s.\n"
+"This is a recurring task that repeats on %s from %s to %s for every %s "
+"week(s).\n"
+"This is a recurring task that repeats on day %s of every %s month(s) from %s "
+"to %s.\n"
+"This is a recurring task that repeats on the %s %s of every %s months(s) "
+"from %s to %s.\n"
+"This is a recurring task that repeats every year on %d %s from %s to %s.\n"
+"This is a recurring task that repeats every year on the %s %s of %s from %s "
+"to %s\n"
+"Groups\n"
+"Log Records\n"
+"Show more details\n"
+"Your settings have been saved.\n"
+"The changes you made will be lost if you navigate away from this page.\n"
+"About WooCommerce Customer Relationship Manager\n"
+"Welcome to WooCommerce Customer Relationship Manager\n"
+"Welcome to WooCommerce CRM %s\n"
+"Thanks, all done!\n"
+"Thank you for updating to the latest version!\n"
+"Thanks for installing!\n"
+"%s WooCommerce Customer Relationship Manager %s is more powerful, stable and "
+"secure than ever before. We hope you enjoy using it.\n"
+"Version %s\n"
+"Go to WooCommerce Customer Relationship Manager Settings\n"
+"Introduction\n"
+"General Options\n"
+"Fetch Customers\n"
+"Load Customers\n"
+"Finished!\n"
+"One result is available, press enter to select it. [ enhanced select ]\n"
+"%qty% results are available, use up and down arrow keys to navigate. [ "
+"enhanced select ]\n"
+"No matches found [ enhanced select ]\n"
+"Loading failed [ enhanced select ]\n"
+"Please enter 1 or more characters [ enhanced select ]\n"
+"Please enter %qty% or more characters [ enhanced select ]\n"
+"Please delete 1 character [ enhanced select ]\n"
+"Please delete %qty% characters [ enhanced select ]\n"
+"You can only select 1 item [ enhanced select ]\n"
+"You can only select %qty% items [ enhanced select ]\n"
+"Loading more results… [ enhanced select ]\n"
+"Searching… [ enhanced select ]\n"
+"WooCommerce › Setup Wizard\n"
+"Return to the WordPress Dashboard\n"
+"Welcome to WooCommerce Customer Relationship Manager!\n"
+"Thank you for choosing WooCommerce Customer Relationship Manager to manage "
+"your customers! This quick setup wizard will help you configure the basic "
+"settings.\n"
+"No time right now? If you don’t want to go through the wizard, you can skip "
+"and return to the WordPress dashboard. Come back anytime if you change your "
+"mind!\n"
+"Let's Go!\n"
+"Not right now\n"
+"Username\n"
+"First & last name e.g. johnsmith\n"
+"Hyphen separated e.g. john-smith\n"
+"Email address\n"
+"Choose what the username is when customers are added.\n"
+"Choose a statuses…\n"
+"Choose a status…\n"
+"Choose which statuses the customer orders must be before appearing in the "
+"Value column.\n"
+"Automatic Emails\n"
+"Check this box to send an email with username and password when creating a "
+"new customer.\n"
+"Continue\n"
+"The following options affects how the customers in the customers table "
+"should be fetched.\n"
+"User Roles\n"
+"Choose a roles…\n"
+"Choose a role…\n"
+"Choose which User Roles of the customers/users that will be shown in the "
+"customers table.\n"
+"Select whether Guest customers appear on the customers table.\n"
+"Customer Name Format\n"
+"First Last\n"
+"Last, First\n"
+"Choose the format of the names displayed on the Customers page.\n"
+"Please be patient while the customers are loaded. You will be notified via "
+"this page when the loading is completed.\n"
+"Advanced Options\n"
+"Offset\n"
+"Limit\n"
+"Start load\n"
+"Return to the customers list\n"
+"WooCommerce CRM is Ready!\n"
+"Next Steps\n"
+"View your customers!\n"
+"Learn More\n"
+"Subscribe to our newlsetter\n"
+"Read more about getting started\n"
+"Explore our other powerful extensions\n"
+"All\n"
+"%s customer moved to the Trash.\n"
+"%s customer restored from the Trash.\n"
+"%s customer permanently deleted.\n"
+"Customer status updated.\n"
+"%d customer added to the group.\n"
+"%d post permanently deleted.\n"
+"%d post restored from the Trash.\n"
+"%d post moved to the Trash.\n"
+"Task notification\n"
+"This is an task notification sent to task owner.\n"
+"Task assignment\n"
+"You have a new task {task_subject}\n"
+"Task owner\n"
+"MailChimp Integration\n"
+"Integrate with MailChimp\n"
+"Specify whether to integrate Customer Relationship Manager with MailChimp to "
+"see which customers signed to the newsletter.\n"
+"MailChimp API Key\n"
+"You can obtain your API key by logging in to your MailChimp account.\n"
+"MailChimp List\n"
+"Choose a list customers can subscribe to (you must save your API key first).\n"
+"General\n"
+"Filters\n"
+"State\n"
+"Customer Name\n"
+"Products\n"
+"Products Variations\n"
+"Product Categories\n"
+"Product Brands\n"
+"Customer Link\n"
+"Choose what the link of the customer is on the Orders page, customer or user "
+"profile.\n"
+"Customer\n"
+"User profile\n"
+"Subscribers\n"
+"Check this box to show column indicating whether customer is an active "
+"subscriber.\n"
+"Groups Integration\n"
+"Check this box to show column indicating which group is the customer a "
+"member of.\n"
+"Default Status\n"
+"The following options determine the default status for the customers when "
+"added to this site.\n"
+"Manually Added\n"
+"Added manually via this plugin.\n"
+"Purchased Customers\n"
+"Added automatically via purchases made.\n"
+"Registration Page\n"
+"Added via the account registration page.\n"
+"Edit Status\n"
+"Colour\n"
+"Back to statuses list\n"
+"Customer Status\n"
+"Current call\n"
+"Call:\n"
+"customers\n"
+"Customers\n"
+"There is no changelog available.\n"
+"Check for updates\n"
+"This plugin is up to date.\n"
+"A new version of this plugin is available.\n"
+"Unknown update checker status \"%s\"\n"
+"Менеджер по работе с клиентами WooCommerce\n"
+"http://codecanyon.net/item/woocommerce-customer-relationship-"
+"manager/5712695&ref=actualityextensions\n"
+"Позволяет осуществлять менеджмент клиентов и управление их аккаунтами, а "
+"также регулировать общение с ними в вашем магазине.\n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+"Менеджер по работе с клиентами\n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" http://actualityextensions.com\n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+" \n"
+
+#: ../../templates/emails/wc-crm-task-notification.php:14 ../..
+#: /templates/emails/plain/wc-crm-task-notification.php:14
+#, php-format
+msgid "Dear %s,"
+msgstr "Уважаемый(ая) %s,"
+
+#: ../../templates/emails/wc-crm-task-notification.php:15 ../..
+#: /templates/emails/plain/wc-crm-task-notification.php:15
+msgid "A new task has been assigned to you:"
+msgstr "У вас новая задача:"
+
+#: ../../templates/emails/wc-crm-task-notification.php:17 ../..
+#: /templates/emails/plain/wc-crm-task-notification.php:20
+#, php-format
+msgid "Subject: %s"
+msgstr "Тема: %s"
+
+#: ../../templates/emails/wc-crm-task-notification.php:20 ../..
+#: /templates/emails/plain/wc-crm-task-notification.php:23
+#, php-format
+msgid "Due date: %s"
+msgstr "Выполнить до: %s"
+
+#. translators: Publish box date format, see http://php.net/date
+#. translators: Publish box date format, see http://php.net/date
+#: ../../templates/emails/wc-crm-task-notification.php:20 ../..
+#: /templates/emails/plain/wc-crm-task-notification.php:23 ../..
+#: /includes/screen/views/html-call-actions.php:48 ../..
+#: /includes/screen/views/html-task-actions.php:49
+msgid "M j, Y @ H:i"
+msgstr "M j, Y @ H:i"
+
+#: ../../templates/emails/wc-crm-task-notification.php:23 ../..
+#: /templates/emails/plain/wc-crm-task-notification.php:26
+#, php-format
+msgid "Customer: #%d - %s"
+msgstr "Клиент: #%d - %s"
+
+#: ../../templates/emails/wc-crm-task-notification.php:26 ../..
+#: /templates/emails/plain/wc-crm-task-notification.php:29
+#, php-format
+msgid "Account: #%d - %s"
+msgstr "Аккаунт: #%d - %s"
+
+#: ../../includes/class-wc-crm-customer.php:250 ../../includes/class-wc-crm-call.
+#: php:182 ../../includes/screen/class-wc-crm-screen-customers-edit.php:39 ../..
+#: /includes/screen/class-wc-crm-screen-customer-filters.php:255 ../..
+#: /includes/screen/class-wc-crm-screen-groups.php:287 ../..
+#: /includes/screen/class-wc-crm-screen-groups.php:489 ../../includes/class-wc-
+#: crm-ajax.php:348 ../../includes/admin/class-wc-crm-admin-orders-page.php:157 ..
+#: /../includes/class-wc-crm-export.php:17
+msgid "Guest"
+msgstr "Гость"
+
+#: ../../includes/class-wc-crm-customer.php:447 ../../includes/class-wc-crm-
+#: customer.php:610 ../../includes/class-wc-crm-customer.php:662 ../..
+#: /includes/class-wc-crm-accounts.php:42 ../../includes/class-wc-crm-accounts.
+#: php:85
+msgid "First Name"
+msgstr "Имя"
+
+#: ../../includes/class-wc-crm-customer.php:452 ../../includes/class-wc-crm-
+#: customer.php:614 ../../includes/class-wc-crm-customer.php:666 ../..
+#: /includes/class-wc-crm-accounts.php:46 ../../includes/class-wc-crm-accounts.
+#: php:89
+msgid "Last Name"
+msgstr "Фамилия"
+
+#: ../../includes/class-wc-crm-customer.php:457
+msgid "Email Address"
+msgstr "Элекстронный адрес"
+
+#: ../../includes/class-wc-crm-customer.php:465
+msgid "Title"
+msgstr "Название"
+
+#: ../../includes/class-wc-crm-customer.php:470
+msgid "Department"
+msgstr "Отдел"
+
+#: ../../includes/class-wc-crm-customer.php:475 ../../includes/screen/class-wc-
+#: crm-screen-groups.php:303 ../../includes/screen/class-wc-crm-screen-groups.php:
+#: 503 ../../includes/screen/tables/class-wc-crm-table-customers.php:116 ../..
+#: /includes/screen/tables/class-wc-crm-table-customers.php:116 ../..
+#: /includes/admin/settings/wc-crm-settings-general.php:60 ../..
+#: /includes/admin/settings/wc-crm-settings-statuses.php:27
+msgid "Customer Status"
+msgstr "Статус клиента"
+
+#: ../../includes/class-wc-crm-customer.php:483 ../../includes/class-wc-crm-
+#: accounts.php:241 ../../includes/admin/class-wc-crm-admin-post-types.php:319
+msgid "Account Name"
+msgstr "Название аккаунта"
+
+#: ../../includes/class-wc-crm-customer.php:489 ../../includes/screen/class-wc-
+#: crm-screen-task.php:112
+msgid "Select an account&hellip;"
+msgstr "Выбрать аккаунт..."
+
+#: ../../includes/class-wc-crm-customer.php:495
+msgid "Agent"
+msgstr "Агент"
+
+#: ../../includes/class-wc-crm-customer.php:501
+msgid "Select an Agent&hellip;"
+msgstr "Выбрать агента..."
+
+#: ../../includes/class-wc-crm-customer.php:507
+msgid "Date of Birth"
+msgstr "Дата рождения"
+
+#: ../../includes/class-wc-crm-customer.php:516
+msgid "Mobile"
+msgstr "Мобильный телефон"
+
+#: ../../includes/class-wc-crm-customer.php:521 ../../includes/class-wc-crm-
+#: accounts.php:132
+msgid "Fax"
+msgstr "Факс"
+
+#: ../../includes/class-wc-crm-customer.php:526 ../../includes/class-wc-crm-
+#: accounts.php:136
+msgid "Website"
+msgstr "Веб-сайт"
+
+#: ../../includes/class-wc-crm-customer.php:531
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../../includes/class-wc-crm-customer.php:536
+msgid "Skype"
+msgstr "Skype"
+
+#: ../../includes/class-wc-crm-customer.php:541
+msgid "Assistant"
+msgstr "Ассистент"
+
+#: ../../includes/class-wc-crm-customer.php:546
+msgid "Lead Source"
+msgstr "Источник лида"
+
+#: ../../includes/class-wc-crm-customer.php:552
+msgid "Select a Lead Source&hellip;"
+msgstr "Выбрать источник лида"
+
+#: ../../includes/class-wc-crm-customer.php:558
+msgid "Lead Status"
+msgstr "Статус лида"
+
+#: ../../includes/class-wc-crm-customer.php:564
+msgid "Select a Lead Status&hellip;"
+msgstr "Выбрать статус лида"
+
+#: ../../includes/class-wc-crm-customer.php:570 ../../includes/class-wc-crm-
+#: accounts.php:158 ../../includes/admin/class-wc-crm-admin-post-types.php:323
+msgid "Industry"
+msgstr "Сфера деятельности"
+
+#: ../../includes/class-wc-crm-customer.php:576
+msgid "Select an Industry&hellip;"
+msgstr "Выбрать сферу деятельности"
+
+#: ../../includes/class-wc-crm-customer.php:582 ../..
+#: /includes/screen/tables/class-wc-crm-table-customer-products-purchased.php:104
+msgid "Categories"
+msgstr "Категории"
+
+#: ../../includes/class-wc-crm-customer.php:587 ../../includes/screen/class-wc-
+#: crm-screen-customer-filters.php:300
+msgid "Search for a category&hellip;"
+msgstr "Поиск категории..."
+
+#: ../../includes/class-wc-crm-customer.php:593
+msgid "Brands"
+msgstr "Бренды"
+
+#: ../../includes/class-wc-crm-customer.php:598 ../../includes/screen/class-wc-
+#: crm-screen-customer-filters.php:320
+msgid "Search for a brand&hellip;"
+msgstr "Поиск бренда..."
+
+#: ../../includes/class-wc-crm-customer.php:618 ../../includes/class-wc-crm-
+#: customer.php:670 ../../includes/class-wc-crm-accounts.php:50 ../..
+#: /includes/class-wc-crm-accounts.php:93
+msgid "Company"
+msgstr "Компания"
+
+#: ../../includes/class-wc-crm-customer.php:622 ../../includes/class-wc-crm-
+#: customer.php:674 ../../includes/class-wc-crm-accounts.php:54 ../..
+#: /includes/class-wc-crm-accounts.php:97
+msgid "Address 1"
+msgstr "Адрес 1"
+
+#: ../../includes/class-wc-crm-customer.php:626 ../../includes/class-wc-crm-
+#: customer.php:678 ../../includes/class-wc-crm-accounts.php:58 ../..
+#: /includes/class-wc-crm-accounts.php:101
+msgid "Address 2"
+msgstr "Адрес 2"
+
+#: ../../includes/class-wc-crm-customer.php:630 ../../includes/class-wc-crm-
+#: customer.php:682 ../../includes/class-wc-crm-accounts.php:62 ../..
+#: /includes/class-wc-crm-accounts.php:105 ../../includes/admin/settings/wc-crm-
+#: settings-general.php:54
+msgid "City"
+msgstr "Город"
+
+#: ../../includes/class-wc-crm-customer.php:634 ../../includes/class-wc-crm-
+#: customer.php:686 ../../includes/class-wc-crm-accounts.php:66 ../..
+#: /includes/class-wc-crm-accounts.php:109
+msgid "Postcode"
+msgstr "Почтовый индекс"
+
+#: ../../includes/class-wc-crm-customer.php:638 ../../includes/class-wc-crm-
+#: customer.php:690 ../../includes/class-wc-crm-accounts.php:70 ../..
+#: /includes/class-wc-crm-accounts.php:113 ../../includes/admin/settings/wc-crm-
+#: settings-general.php:55
+msgid "Country"
+msgstr "Страна"
+
+#: ../../includes/class-wc-crm-customer.php:642 ../../includes/class-wc-crm-
+#: customer.php:694 ../../includes/class-wc-crm-accounts.php:74 ../..
+#: /includes/class-wc-crm-accounts.php:117
+msgid "Select a country&hellip;"
+msgstr "Выбрать страну..."
+
+#: ../../includes/class-wc-crm-customer.php:645 ../../includes/class-wc-crm-
+#: customer.php:697 ../../includes/class-wc-crm-accounts.php:77 ../..
+#: /includes/class-wc-crm-accounts.php:120
+msgid "State/County"
+msgstr "Штат/Страна"
+
+#: ../../includes/class-wc-crm-customer.php:650 ../..
+#: /includes/screen/tables/class-wc-crm-table-customer-activity.php:127 ../..
+#: /includes/screen/tables/class-wc-crm-table-activity.php:150
+msgid "Email"
+msgstr "Email"
+
+#: ../../includes/class-wc-crm-customer.php:653 ../..
+#: /includes/screen/tables/class-wc-crm-table-customer-activity.php:129 ../..
+#: /includes/screen/tables/class-wc-crm-table-activity.php:152 ../..
+#: /includes/class-wc-crm-accounts.php:128
+msgid "Phone"
+msgstr "Телефон"
+
+#: ../../includes/class-wc-crm-customer.php:891 ../../includes/class-wc-crm-
+#: customer.php:892 ../../includes/class-wc-crm-ajax.php:220 ../../includes/class-
+#: wc-crm-ajax.php:221
+msgid "WC_CRM"
+msgstr "WC_CRM"
+
+#: ../../includes/views/html-reload-customers.php:40 ../..
+#: /includes/admin/views/html-reload-customers.php:40
+#, php-format
+msgid "To go back to the previous page, <a href=\"%s\">click here</a>."
+msgstr "Для возврата на предыдущую страницу нажмите здесь."
+
+#: ../../includes/views/html-reload-customers.php:43 ../..
+#: /includes/admin/views/html-reload-customers.php:43
+#, php-format
+msgid ""
+"All done! %1$s customer(s) were successfully loaded in %2$s seconds and "
+"there were %3$s failure(s). To try reloading the failed customers again, <a "
+"href=\"%4$s\">click here</a>. %5$s"
+msgstr ""
+"Готово! Данные %1$s клиента(ов) были загружены за %2$s  секунд(ы), возникло "
+"%3$s ошибок. Для повторной попытки загрузки не загруженных данных клиентов, "
+"<a href=\"%4$s\">нажмите здесь</a>. %5$s\n"
+
+#: ../../includes/views/html-reload-customers.php:44 ../..
+#: /includes/admin/views/html-reload-customers.php:44
+#, php-format
+msgid ""
+"All done! %1$s customer(s) were successfully loaded in %2$s seconds and "
+"there were 0 failures. %3$s"
+msgstr ""
+"Готово! Данные %1$s клиента(ов) были загружены за %2$s  секунд(ы), ошибок не "
+"возникло. %3$s"
+
+#: ../../includes/views/html-reload-customers.php:46
+msgid "Reload customers"
+msgstr "Повторная загрузка данных"
+
+#: ../../includes/views/html-reload-customers.php:49
+msgid ""
+"Please be patient while the customers are reloaded. You will be notified via "
+"this page when the reloading is completed."
+msgstr ""
+"Пожалуйста, подождите, пока загрузятся данные клиентов. Вам придет "
+"уведомление на этой странице, когда загрузка будет завершена."
+
+#: ../../includes/views/html-reload-customers.php:50 ../../includes/admin/class-
+#: wc-crm-admin-setup-wizard.php:373 ../../includes/admin/class-wc-crm-admin-
+#: setup-wizard.php:408
+msgid "You must enable Javascript in order to proceed!"
+msgstr "Для продолжения активируйте Javascript !"
+
+#: ../../includes/views/html-reload-customers.php:58 ../..
+#: /includes/admin/views/html-reload-customers.php:52
+msgid "Process Information"
+msgstr "Обработка информации"
+
+#: ../../includes/views/html-reload-customers.php:60 ../..
+#: /includes/admin/views/html-reload-customers.php:54
+msgid "Total users"
+msgstr "Всего пользователей"
+
+#: ../../includes/views/html-reload-customers.php:61 ../..
+#: /includes/admin/views/html-reload-customers.php:55
+msgid "Total guests"
+msgstr "Всего гостей"
+
+#: ../../includes/views/html-reload-customers.php:62 ../..
+#: /includes/admin/views/html-reload-customers.php:56
+msgid "Success"
+msgstr "Успешно выполнено"
+
+#: ../../includes/views/html-reload-customers.php:63 ../..
+#: /includes/admin/views/html-reload-customers.php:57
+msgid "Failure"
+msgstr "Ошибка"
+
+#: ../../includes/views/html-reload-customers.php:101 ../..
+#: /includes/admin/views/html-reload-customers.php:161
+msgid "Stopping..."
+msgstr "Остановка процесса..."
+
+#: ../../includes/views/html-about-news.php:11 ../../includes/admin/views/html-
+#: about-news.php:11
+msgid "What's New"
+msgstr "Что нового"
+
+#: ../../includes/views/html-about-news.php:16 ../../includes/admin/views/html-
+#: about-news.php:16
+msgid "Speed Optimisation"
+msgstr "Оптимизация скорости"
+
+#: ../../includes/views/html-about-news.php:17
+msgid ""
+"To cater for bigger databases, we've optimised the performance of the plugin "
+"when handling larger records and number of customers.."
+msgstr ""
+"Для работы с большими базами данных мы оптимизировали обработку плагином "
+"больших объемов данных и большого числа клиентов.."
+
+#: ../../includes/views/html-about-news.php:20 ../../includes/admin/views/html-
+#: about-news.php:28
+msgid "Refactoring"
+msgstr "Рефакторинг"
+
+#: ../../includes/views/html-about-news.php:21 ../../includes/admin/views/html-
+#: about-news.php:29
+msgid ""
+"We have refactored the entire plugin to prepare for exciting changes coming "
+"towards the end of this year."
+msgstr ""
+"Мы отрефакторили весь плагин и подготовили его к невероятным модификациям, "
+"ожидаемым в конце этого года."
+
+#: ../../includes/class-wc-crm.php:275
+msgid ""
+"Copy billing information to shipping information? This will remove any "
+"currently entered shipping information."
+msgstr ""
+"Скопировать платежные реквизиты в данные о доставке? Прежде введенные данные "
+"о доставке будут удалены."
+
+#: ../../includes/class-wc-crm.php:276
+msgid ""
+"Load the customer's billing information? This will remove any currently "
+"entered billing information."
+msgstr ""
+"Загрузить платежные реквизиты клиента? Прежде введенные реквизиты будут "
+"удалены."
+
+#: ../../includes/class-wc-crm.php:277
+msgid ""
+"Load the customer's shipping information? This will remove any currently "
+"entered shipping information."
+msgstr ""
+"Загрузить данные клиента о доставке? Прежде введенные данные о доставке "
+"будут удалены."
+
+#: ../../includes/class-wc-crm.php:285
+msgid "Select an option&hellip;"
+msgstr "Выбрать опцию..."
+
+#: ../../includes/class-wc-crm.php:374
+msgid "Call Date:"
+msgstr "Дата звонка:"
+
+#: ../../includes/class-wc-crm.php:375 ../../includes/screen/views/html-call-
+#: actions.php:149
+msgid "Save Call"
+msgstr "Сохранить звонок"
+
+#: ../../includes/class-wc-crm.php:427 ../../includes/class-wc-crm.php:436 ../..
+#: /includes/admin/class-wc-crm-admin-notices-v-2.5.5.php:81 ../..
+#: /includes/admin/class-wc-crm-admin-acf.php:35 ../../includes/admin/class-wc-
+#: crm-admin-acf.php:43 ../../includes/admin/class-wc-crm-admin-notices.php:81
+msgid "Cheatin&#8217; huh?"
+msgstr "Обманываете, да?"
+
+#: ../../includes/class-wc-crm-install.php:335
+msgid "View Settings"
+msgstr "Просмотр настроек"
+
+#: ../../includes/class-wc-crm-install.php:335 ../../includes/admin/class-wc-crm-
+#: admin-menus.php:105 ../../includes/admin/class-wc-crm-admin-menus.php:106 ../..
+#: /includes/admin/class-wc-crm-admin-welcome.php:81
+msgid "Settings"
+msgstr "Настройки"
+
+#: ../../includes/class-wc-crm-install.php:350
+msgid "View Documentation"
+msgstr "Просмотр документации"
+
+#: ../../includes/class-wc-crm-install.php:350 ../../includes/admin/class-wc-crm-
+#: admin-welcome.php:82
+msgid "Docs"
+msgstr "Документы"
+
+#: ../../includes/class-wc-crm-install.php:351
+msgid "Visit Support"
+msgstr "Обратиться к службе поддержки"
+
+#: ../../includes/class-wc-crm-install.php:351
+msgid "Support"
+msgstr "Служба поддержки"
+
+#: ../../includes/class-wc-crm-call.php:173 ../../includes/class-wc-crm-call.php:
+#: 180 ../../includes/class-wc-crm-ajax.php:339 ../../includes/class-wc-crm-ajax.
+#: php:346 ../../includes/admin/class-wc-crm-admin-orders-page.php:147 ../..
+#: /includes/admin/class-wc-crm-admin-orders-page.php:155
+#, php-format
+msgctxt "full name"
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: ../../includes/class-wc-crm-call.php:186
+#, php-format
+msgctxt "Order number by X"
+msgid "Order %s by %s"
+msgstr "Заказать %s к %s"
+
+#: ../../includes/class-wc-crm-importer.php:90 ../../includes/class-wc-crm-
+#: importer.php:102 ../../includes/class-wc-crm-importer.php:112 ../..
+#: /includes/class-wc-crm-importer.php:311 ../../includes/class-wc-crm-importer.
+#: php:315 ../../includes/class-wc-crm-importer.php:324
+msgid "Sorry, there has been an error."
+msgstr "Возникла ошибка."
+
+#: ../../includes/class-wc-crm-importer.php:91
+msgid "The file does not exist, please try again."
+msgstr "Такого файла не существует, повторите попытку."
+
+#: ../../includes/class-wc-crm-importer.php:103
+msgid "Please select user email and please try again."
+msgstr "Выберите электронный адрес пользователя и повторите попытку."
+
+#: ../../includes/class-wc-crm-importer.php:278
+msgid "Import complete."
+msgstr "Импортирование завершено."
+
+#: ../../includes/class-wc-crm-importer.php:280
+#, php-format
+msgid "%d Customer has been successfully added."
+msgid_plural "%d Customers has been successfully added."
+msgstr[0] "%d Клиент успешно добавлен."
+msgstr[1] "%d Клиенты успешно добавлены."
+
+#: ../../includes/class-wc-crm-importer.php:283
+#, php-format
+msgid "%d Group has been successfully added."
+msgid_plural "%d Groups has been successfully added."
+msgstr[0] "%d Группа успешно добавлена."
+msgstr[1] "%d Группы успешно добавлены."
+
+#: ../../includes/class-wc-crm-importer.php:286
+#, php-format
+msgid "%d Customer status has been successfully added."
+msgid_plural "%d Customer statuses has been successfully added."
+msgstr[0] "%d Статус клиента успешно добавлен."
+msgstr[1] "%d Статусы клиента успешно добавлены."
+
+#: ../../includes/class-wc-crm-importer.php:290
+#, php-format
+msgid "%d Customer  was not added."
+msgid_plural "%d Customers  was not added."
+msgstr[0] "%d Клиент не был добавлен."
+msgstr[1] "%d Клиенты не были добавлены."
+
+#: ../../includes/class-wc-crm-importer.php:316
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+"Файл экспорта не был найден в <code>%s</code>. Вероятно, это вызвано "
+"отсутствием прав доступа."
+
+#: ../../includes/class-wc-crm-importer.php:391
+msgid "Select fields to map"
+msgstr "Выберите поля, которые хотите изменить"
+
+#: ../../includes/class-wc-crm-importer.php:392
+msgid "Custom meta"
+msgstr "Специфические метаданные"
+
+#: ../../includes/class-wc-crm-importer.php:393
+msgid "Role"
+msgstr "Роль"
+
+#: ../../includes/class-wc-crm-importer.php:394
+msgid "User Login"
+msgstr "Логин пользователя"
+
+#: ../../includes/class-wc-crm-importer.php:395 ../..
+#: /includes/screen/tables/class-wc-crm-table-customers.php:134
+msgid "Group"
+msgstr "Группа"
+
+#: ../../includes/class-wc-crm-importer.php:396
+msgid "Nicename"
+msgstr "Ник"
+
+#: ../../includes/class-wc-crm-importer.php:397
+msgid "Display name"
+msgstr "Отображать имя"
+
+#: ../../includes/class-wc-crm-importer.php:425 ../../includes/class-wc-crm-
+#: importer.php:563
+msgid "Import "
+msgstr "Импорт"
+
+#: ../../includes/class-wc-crm-importer.php:433
+msgid "Default User Role "
+msgstr "Роль пользователя по умолчанию"
+
+#: ../../includes/class-wc-crm-importer.php:443
+msgid ""
+"Select what the default User Role for the imported customers should be upon "
+"import."
+msgstr "Выберите, какой будет роль пользователя по умолчанию при его импорте."
+
+#: ../../includes/class-wc-crm-importer.php:448
+msgid "Default Status "
+msgstr "Статус по умолчанию"
+
+#: ../../includes/class-wc-crm-importer.php:460
+msgid ""
+"Select what the default customer status for the imported customers should be "
+"upon import."
+msgstr "Выберите, каким будет статус пользователя по умолчанию при его импорте."
+
+#: ../../includes/class-wc-crm-importer.php:465
+msgid "Skip First Row"
+msgstr "Пропустить первую строку"
+
+#: ../../includes/class-wc-crm-importer.php:469
+msgid ""
+"Check this box to skip the addition of the first row of the CSV file. You "
+"can see the values of the first row below on the left."
+msgstr ""
+"Поставьте галочку, чтобы не добавлять первую строку файла резюме. Вы можете "
+"видеть содержимое первой строки снизу слева."
+
+#: ../../includes/class-wc-crm-importer.php:474
+msgid "Field Mapping"
+msgstr "Преобразование полей"
+
+#: ../../includes/class-wc-crm-importer.php:504 ../../includes/admin/class-wc-crm-
+#: admin-import.php:19 ../../includes/admin/class-wc-crm-admin-import.php:20
+msgid "Import"
+msgstr "Импорт"
+
+#: ../../includes/class-wc-crm-importer.php:540
+msgid "Enter user meta key."
+msgstr "Введите мета-тег пользователя."
+
+#: ../../includes/class-wc-crm-importer.php:554
+msgid "There was an error when reading this file"
+msgstr "При чтении этого файла возникла ошибка"
+
+#: ../../includes/class-wc-crm-importer.php:565
+msgid "Choose a CSV file to upload, then click Upload file and import."
+msgstr ""
+"Выберите файл резюме для загрузки, затем нажмите Загрузить и импортировать "
+"файл."
+
+#: ../../includes/customer-functions.php:25
+#, php-format
+msgid "Failed: %d is an invalid user ID."
+msgstr "Ошибка: %d некорректный ID пользователя."
+
+#: ../../includes/customer-functions.php:108
+#, php-format
+msgid "<b>&quot;%s&quot; (ID %s)</b>"
+msgstr "<b>&quot;%s&quot; (ID %s)</b>"
+
+#: ../../includes/customer-functions.php:121 ../../includes/customer-functions.
+#: php:243
+#, php-format
+msgid "<br />Successfully updated in %s seconds"
+msgstr "Успешно обновлено за %s секунд."
+
+#: ../../includes/customer-functions.php:144 ../../includes/customer-functions.
+#: php:249
+#, php-format
+msgid "<br />Successfully added in %s seconds"
+msgstr "Успешно добавлено за %s секунд."
+
+#: ../../includes/customer-functions.php:157
+#, php-format
+msgid "Failed: %s is an invalid user email."
+msgstr "Ошибка: %s некорректный электронный адрес пользователя."
+
+#: ../../includes/customer-functions.php:231
+#, php-format
+msgid "<b>Guest &quot;%s&quot; </b>"
+msgstr "<b>Гость &quot;%s&quot; </b>"
+
+#: ../../includes/call-functions.php:13
+msgctxt "Call status"
+msgid "Current Call"
+msgstr "Текущий звонок"
+
+#: ../../includes/call-functions.php:14
+msgctxt "Call status"
+msgid "Completed Call"
+msgstr "Завершенный звонок"
+
+#: ../../includes/call-functions.php:15
+msgctxt "Call status"
+msgid "Schedule Call"
+msgstr "Звонок по расписанию"
+
+#: ../../includes/call-functions.php:28
+msgctxt "Call type"
+msgid "Inbound"
+msgstr "Входящий"
+
+#: ../../includes/call-functions.php:29
+msgctxt "Call type"
+msgid "Outbound"
+msgstr "Исходящий"
+
+#: ../../includes/call-functions.php:40
+msgctxt "Call purpose"
+msgid "None"
+msgstr "Не указано"
+
+#: ../../includes/call-functions.php:41
+msgctxt "Call purpose"
+msgid "Prospecting"
+msgstr "Поиск"
+
+#: ../../includes/call-functions.php:42
+msgctxt "Call purpose"
+msgid "Administrative"
+msgstr "Администрирование"
+
+#: ../../includes/call-functions.php:43
+msgctxt "Call purpose"
+msgid "Negotiation"
+msgstr "Переговоры"
+
+#: ../../includes/call-functions.php:44
+msgctxt "Call purpose"
+msgid "Demo"
+msgstr "Демо"
+
+#: ../../includes/call-functions.php:45
+msgctxt "Call purpose"
+msgid "Project"
+msgstr "Проект"
+
+#: ../../includes/call-functions.php:46
+msgctxt "Call purpose"
+msgid "Support"
+msgstr "Служба поддержки"
+
+#: ../../includes/core-functions.php:90 ../../includes/admin/class-wc-crm-admin-
+#: post-types.php:481
+msgid "Unpublished"
+msgstr "Не опубликовано"
+
+#: ../../includes/core-functions.php:92 ../../includes/core-functions.php:111
+msgid "Y/m/d g:i:s A"
+msgstr "Y/m/d g:i:s A"
+
+#: ../../includes/core-functions.php:98 ../../includes/core-functions.php:117 ../.
+#: ./includes/screen/tables/class-wc-crm-table-customer-activity.php:144 ../..
+#: /includes/screen/tables/class-wc-crm-table-activity.php:167 ../..
+#: /includes/admin/class-wc-crm-admin-post-types.php:491
+#, php-format
+msgid "%s ago"
+msgstr "%s назад"
+
+#: ../../includes/core-functions.php:100 ../../includes/core-functions.php:119 ..
+#: /../includes/admin/class-wc-crm-admin-post-types.php:399 ../..
+#: /includes/admin/class-wc-crm-admin-post-types.php:493
+msgid "Y/m/d"
+msgstr "Г/м/д"
+
+#: ../../includes/core-functions.php:139
+#, php-format
+msgid "Unable to load lists() from MailChimp: (%s) %s"
+msgstr "Не удается загрузить список(ки) из MailChimp: (%s) %s"
+
+#: ../../includes/core-functions.php:155
+msgid "Select a list..."
+msgstr "Выберите список..."
+
+#: ../../includes/core-functions.php:155
+msgid "Enter your key and save to see your lists"
+msgstr "Введите свой ключ и сохраните, чтобы увидеть списки"
+
+#: ../../includes/core-functions.php:384
+msgid "Advertisement"
+msgstr "Реклама"
+
+#: ../../includes/core-functions.php:385
+msgid "Cold Call"
+msgstr "Холодный звонок"
+
+#: ../../includes/core-functions.php:386
+msgid "Employee Referral"
+msgstr "Реферал работника"
+
+#: ../../includes/core-functions.php:387
+msgid "External Referral"
+msgstr "Внешний реферал"
+
+#: ../../includes/core-functions.php:388
+msgid "Online Store"
+msgstr "Онлайн-магазин"
+
+#: ../../includes/core-functions.php:389 ../../includes/core-functions.php:433
+msgid "Partner"
+msgstr "Партнер"
+
+#: ../../includes/core-functions.php:390
+msgid "Public Relations"
+msgstr "Связи с общественностью"
+
+#: ../../includes/core-functions.php:391
+msgid "Sales Mail Alias"
+msgstr "Псевдоним в почтовой переписке"
+
+#: ../../includes/core-functions.php:392
+msgid "Seminar Partner"
+msgstr "Партнер по семинару"
+
+#: ../../includes/core-functions.php:393
+msgid "Seminar Internal"
+msgstr "Участник семинара"
+
+#: ../../includes/core-functions.php:394
+msgid "Trade Show"
+msgstr "Торговая ярмарка"
+
+#: ../../includes/core-functions.php:395
+msgid "Web Download"
+msgstr "Веб-загрузка"
+
+#: ../../includes/core-functions.php:396
+msgid "Web Research"
+msgstr "Онлайн-исследование"
+
+#: ../../includes/core-functions.php:397
+msgid "Web Cases"
+msgstr "Общение в интернете"
+
+#: ../../includes/core-functions.php:398
+msgid "Web Mail"
+msgstr "Email"
+
+#: ../../includes/core-functions.php:399
+msgid "Chat"
+msgstr "Чат"
+
+#: ../../includes/core-functions.php:405
+msgid "Attempted to Contact"
+msgstr "Попытка связи"
+
+#: ../../includes/core-functions.php:406
+msgid "Contact in Future"
+msgstr "Потенциальный контакт"
+
+#: ../../includes/core-functions.php:407
+msgid "Contacted"
+msgstr "Контакт налажен"
+
+#: ../../includes/core-functions.php:408
+msgid "Junk Lead"
+msgstr "Спам-лид"
+
+#: ../../includes/core-functions.php:409
+msgid "Lost Lead"
+msgstr "Потерянный лид"
+
+#: ../../includes/core-functions.php:410
+msgid "Not Contacted"
+msgstr "Не связывались"
+
+#: ../../includes/core-functions.php:411
+msgid "Pre Qualified"
+msgstr "Предварительный отбор"
+
+#: ../../includes/core-functions.php:417 ../../includes/core-functions.php:432 ..
+#: /../includes/screen/views/html-customer-details.php:151 ../..
+#: /includes/screen/views/html-customer-details.php:153 ../..
+#: /includes/admin/class-wc-crm-admin-acf.php:132
+msgid "Other"
+msgstr "Другое"
+
+#: ../../includes/core-functions.php:418
+msgid "Private"
+msgstr "Личный"
+
+#: ../../includes/core-functions.php:419
+msgid "Public"
+msgstr "Публичный"
+
+#: ../../includes/core-functions.php:420
+msgid "Subsidiary"
+msgstr "Помощник"
+
+#: ../../includes/core-functions.php:426
+msgid "Analyst"
+msgstr "Ааналитик"
+
+#: ../../includes/core-functions.php:427
+msgid "Competitor"
+msgstr "Конкурент"
+
+#: ../../includes/core-functions.php:428 ../../includes/screen/views/html-
+#: customer-details.php:16 ../../includes/screen/tables/class-wc-crm-table-
+#: customers.php:117 ../../includes/admin/class-wc-crm-admin-post-types.php:334 ..
+#: /../includes/admin/class-wc-crm-admin-post-types.php:346 ../..
+#: /includes/admin/class-wc-crm-admin-acf.php:132
+msgid "Customer"
+msgstr "Клиент"
+
+#: ../../includes/core-functions.php:429
+msgid "Distributor"
+msgstr "Дистрибьютор"
+
+#: ../../includes/core-functions.php:430
+msgid "Integrator"
+msgstr "Субподрядчик"
+
+#: ../../includes/core-functions.php:431
+msgid "Investor"
+msgstr "Инвестор"
+
+#: ../../includes/core-functions.php:434
+msgid "Press"
+msgstr "Пресса"
+
+#: ../../includes/core-functions.php:435
+msgid "Prospect"
+msgstr "Перспективы"
+
+#: ../../includes/core-functions.php:436
+msgid "Reseller"
+msgstr "Торговый посредник"
+
+#: ../../includes/core-functions.php:437
+msgid "Supplier"
+msgstr "Поставщик"
+
+#: ../../includes/core-functions.php:438
+msgid "Vendor"
+msgstr "Оптовая фирма"
+
+#: ../../includes/core-functions.php:444
+msgid "Accounting"
+msgstr "Бухгалтерия"
+
+#: ../../includes/core-functions.php:445
+msgid "Airlines/Aviation"
+msgstr "Авиакомпания/Авиация"
+
+#: ../../includes/core-functions.php:446
+msgid "Alternative Dispute Resolution"
+msgstr "Альтернативное решение дискуссии"
+
+#: ../../includes/core-functions.php:447
+msgid "Alternative Medicine"
+msgstr "Альтернативная медицина"
+
+#: ../../includes/core-functions.php:448
+msgid "Animation"
+msgstr "Анимация"
+
+#: ../../includes/core-functions.php:449
+msgid "Apparel & Fashion"
+msgstr "Мода"
+
+#: ../../includes/core-functions.php:450
+msgid "Architecture & Planning"
+msgstr "Архитектура"
+
+#: ../../includes/core-functions.php:451
+msgid "Arts and Crafts"
+msgstr "Прикладное искусство"
+
+#: ../../includes/core-functions.php:452
+msgid "Automotive"
+msgstr "Автомобильный"
+
+#: ../../includes/core-functions.php:453
+msgid "Aviation & Aerospace"
+msgstr "Авиация и космические аппараты"
+
+#: ../../includes/core-functions.php:454
+msgid "Banking"
+msgstr "Банковские услуги"
+
+#: ../../includes/core-functions.php:455
+msgid "Biotechnology"
+msgstr "Биотехнологии"
+
+#: ../../includes/core-functions.php:456
+msgid "Broadcast Media"
+msgstr "Радио и телевидение"
+
+#: ../../includes/core-functions.php:457
+msgid "Building Materials"
+msgstr "Строительные материалы"
+
+#: ../../includes/core-functions.php:458
+msgid "Business Supplies and Equipment"
+msgstr "Бизнес-поставки и оборудование"
+
+#: ../../includes/core-functions.php:459
+msgid "Capital Markets"
+msgstr "Рынок капиталов"
+
+#: ../../includes/core-functions.php:460
+msgid "Chemicals"
+msgstr "Химическая промышленность"
+
+#: ../../includes/core-functions.php:461
+msgid "Civic & Social Organization"
+msgstr "Социальные и общественные организации"
+
+#: ../../includes/core-functions.php:462
+msgid "Civil Engineering"
+msgstr "Строительная инженерия"
+
+#: ../../includes/core-functions.php:463
+msgid "Commercial Real Estate"
+msgstr "Коммерческая недвижимость"
+
+#: ../../includes/core-functions.php:464
+msgid "Computer & Network Security"
+msgstr "Компьютерная и сетевая безопасность"
+
+#: ../../includes/core-functions.php:465
+msgid "Computer Games"
+msgstr "Компьютерные игры"
+
+#: ../../includes/core-functions.php:466
+msgid "Computer Hardware"
+msgstr "Компьютерное аппаратное обеспечение"
+
+#: ../../includes/core-functions.php:467
+msgid "Computer Networking"
+msgstr "Компьютерные сети"
+
+#: ../../includes/core-functions.php:468
+msgid "Computer Software"
+msgstr "Компьютерное ПО"
+
+#: ../../includes/core-functions.php:469
+msgid "Construction"
+msgstr "Строительство"
+
+#: ../../includes/core-functions.php:470
+msgid "Consumer Electronics"
+msgstr "Бытовая техника"
+
+#: ../../includes/core-functions.php:471
+msgid "Consumer Goods"
+msgstr "Товары широкого потребления"
+
+#: ../../includes/core-functions.php:472
+msgid "Consumer Services"
+msgstr "Бытовые услуги"
+
+#: ../../includes/core-functions.php:473
+msgid "Cosmetics"
+msgstr "Косметика"
+
+#: ../../includes/core-functions.php:474
+msgid "Dairy"
+msgstr "Дневник"
+
+#: ../../includes/core-functions.php:475
+msgid "Defense & Space"
+msgstr "Оборона и космос"
+
+#: ../../includes/core-functions.php:476
+msgid "Design"
+msgstr "Дизайн"
+
+#: ../../includes/core-functions.php:477
+msgid "Education Management"
+msgstr "Управление образованием"
+
+#: ../../includes/core-functions.php:478
+msgid "E-Learning"
+msgstr "Дистанционное обучение"
+
+#: ../../includes/core-functions.php:479
+msgid "Electrical/Electronic Manufacturing"
+msgstr "Производство электротехники/электроники"
+
+#: ../../includes/core-functions.php:480
+msgid "Entertainment"
+msgstr "Развлечения"
+
+#: ../../includes/core-functions.php:481
+msgid "Environmental Services"
+msgstr "Экологические сервисы"
+
+#: ../../includes/core-functions.php:482
+msgid "Events Services"
+msgstr "Сервис событий"
+
+#: ../../includes/core-functions.php:483
+msgid "Executive Office"
+msgstr "Офис генерального директора"
+
+#: ../../includes/core-functions.php:484
+msgid "Facilities Services"
+msgstr "Услуги менеджмента контрактов"
+
+#: ../../includes/core-functions.php:485
+msgid "Farming"
+msgstr "Сельскохозяйственное производство"
+
+#: ../../includes/core-functions.php:486
+msgid "Financial Services"
+msgstr "Финансовые услуги"
+
+#: ../../includes/core-functions.php:487
+msgid "Fine Art"
+msgstr "Изобразительное искусство"
+
+#: ../../includes/core-functions.php:488
+msgid "Fishery"
+msgstr "Рыбная промышленность"
+
+#: ../../includes/core-functions.php:489
+msgid "Food & Beverages"
+msgstr "Предприятия питания"
+
+#: ../../includes/core-functions.php:490
+msgid "Food Production"
+msgstr "Производство продовольствия"
+
+#: ../../includes/core-functions.php:491
+msgid "Fund-Raising"
+msgstr "Привлечение капитала"
+
+#: ../../includes/core-functions.php:492
+msgid "Furniture"
+msgstr "Мебель"
+
+#: ../../includes/core-functions.php:493
+msgid "Gambling & Casinos"
+msgstr "Казино и азартные игры"
+
+#: ../../includes/core-functions.php:494
+msgid "Glass, Ceramics & Concrete"
+msgstr "Стекло, керамика, бетон"
+
+#: ../../includes/core-functions.php:495
+msgid "Government Administration"
+msgstr "Администрация правительства"
+
+#: ../../includes/core-functions.php:496
+msgid "Government Relations"
+msgstr "Работа с государственными органами"
+
+#: ../../includes/core-functions.php:497
+msgid "Graphic Design"
+msgstr "Графический дизайн"
+
+#: ../../includes/core-functions.php:498
+msgid "Health, Wellness and Fitness"
+msgstr "Здоровье и фитнес"
+
+#: ../../includes/core-functions.php:499
+msgid "Higher Education"
+msgstr "Высшее образование"
+
+#: ../../includes/core-functions.php:500
+msgid "Hospital & Health Care"
+msgstr "Здравоохранение"
+
+#: ../../includes/core-functions.php:501
+msgid "Hospitality"
+msgstr "Гостиничный бизнес"
+
+#: ../../includes/core-functions.php:502
+msgid "Human Resources"
+msgstr "Кадровая служба"
+
+#: ../../includes/core-functions.php:503
+msgid "Import and Export"
+msgstr "Импорт и экспорт"
+
+#: ../../includes/core-functions.php:504
+msgid "Individual & Family Services"
+msgstr "Индивидуальные и семейные услуги"
+
+#: ../../includes/core-functions.php:505
+msgid "Industrial Automation"
+msgstr "Автоматизация промышленного производства"
+
+#: ../../includes/core-functions.php:506
+msgid "Information Services"
+msgstr "Служба информации"
+
+#: ../../includes/core-functions.php:507
+msgid "Information Technology and Services"
+msgstr "Информационные технологии и услуги"
+
+#: ../../includes/core-functions.php:508
+msgid "Insurance"
+msgstr "Страхование"
+
+#: ../../includes/core-functions.php:509
+msgid "International Affairs"
+msgstr "Международные дела"
+
+#: ../../includes/core-functions.php:510
+msgid "International Trade and Development"
+msgstr "Международная торговля и развитие"
+
+#: ../../includes/core-functions.php:511
+msgid "Internet"
+msgstr "Интернет"
+
+#: ../../includes/core-functions.php:512
+msgid "Investment Banking"
+msgstr "Инвестиционно-банковские услуги "
+
+#: ../../includes/core-functions.php:513
+msgid "Investment Management"
+msgstr "Инвестиционный менеджмент"
+
+#: ../../includes/core-functions.php:514
+msgid "Judiciary"
+msgstr "Органы юстиции"
+
+#: ../../includes/core-functions.php:515
+msgid "Law Enforcement"
+msgstr "Правоохранительные органы "
+
+#: ../../includes/core-functions.php:516
+msgid "Law Practice"
+msgstr "Юридическая практика"
+
+#: ../../includes/core-functions.php:517
+msgid "Legal Services"
+msgstr "Юридические услуги"
+
+#: ../../includes/core-functions.php:518
+msgid "Legislative Office"
+msgstr "Законодательные органы;"
+
+#: ../../includes/core-functions.php:519
+msgid "Leisure, Travel & Tourism"
+msgstr "Досуг, путешествия и туризм"
+
+#: ../../includes/core-functions.php:520
+msgid "Libraries"
+msgstr "Библиотеки"
+
+#: ../../includes/core-functions.php:521
+msgid "Logistics and Supply Chain"
+msgstr "Логистика и каналы поставок"
+
+#: ../../includes/core-functions.php:522
+msgid "Luxury Goods & Jewelry"
+msgstr "Предметы роскоши и ювелирные изделия"
+
+#: ../../includes/core-functions.php:523
+msgid "Machinery"
+msgstr "Механическое оборудование"
+
+#: ../../includes/core-functions.php:524
+msgid "Management Consulting"
+msgstr "Управленческое консультирование"
+
+#: ../../includes/core-functions.php:525
+msgid "Maritime"
+msgstr "Судоходство"
+
+#: ../../includes/core-functions.php:526
+msgid "Market Research"
+msgstr "Изучение рынка"
+
+#: ../../includes/core-functions.php:527
+msgid "Marketing and Advertising"
+msgstr "Реклама и маркетинг"
+
+#: ../../includes/core-functions.php:528
+msgid "Mechanical or Industrial Engineering"
+msgstr "Машиностроение и промышленная техника"
+
+#: ../../includes/core-functions.php:529
+msgid "Media Production"
+msgstr "Производство медиа"
+
+#: ../../includes/core-functions.php:530
+msgid "Medical Devices"
+msgstr "Медицинское оборудование"
+
+#: ../../includes/core-functions.php:531
+msgid "Medical Practice"
+msgstr "Медицинская практика"
+
+#: ../../includes/core-functions.php:532
+msgid "Mental Health Care"
+msgstr "Охрана психического здоровья"
+
+#: ../../includes/core-functions.php:533
+msgid "Military"
+msgstr "Вооруженные силы"
+
+#: ../../includes/core-functions.php:534
+msgid "Mining & Metals"
+msgstr "Горная промышленность и металлургия "
+
+#: ../../includes/core-functions.php:535
+msgid "Motion Pictures and Film"
+msgstr "Кинематограф"
+
+#: ../../includes/core-functions.php:536
+msgid "Museums and Institutions"
+msgstr "Музеи"
+
+#: ../../includes/core-functions.php:537
+msgid "Music"
+msgstr "Музыка"
+
+#: ../../includes/core-functions.php:538
+msgid "Nanotechnology"
+msgstr "Нанотехнологии"
+
+#: ../../includes/core-functions.php:539
+msgid "Newspapers"
+msgstr "Газеты"
+
+#: ../../includes/core-functions.php:540
+msgid "Non-Profit Organization Management"
+msgstr "Управление некоммерческими организациями"
+
+#: ../../includes/core-functions.php:541
+msgid "Oil & Energy"
+msgstr "Нефть и электроэнергия"
+
+#: ../../includes/core-functions.php:542
+msgid "Online Media"
+msgstr "Онлайн медиа"
+
+#: ../../includes/core-functions.php:543
+msgid "Outsourcing/Offshoring"
+msgstr "Аутсорсинг/Офшоринг"
+
+#: ../../includes/core-functions.php:544
+msgid "Package/Freight Delivery"
+msgstr "Упаковка/Перевозка грузов"
+
+#: ../../includes/core-functions.php:545
+msgid "Packaging and Containers"
+msgstr "Упаковки и контейнеры"
+
+#: ../../includes/core-functions.php:546
+msgid "Paper & Forest Products"
+msgstr "Изделия из бумаги и древесины"
+
+#: ../../includes/core-functions.php:547
+msgid "Performing Arts"
+msgstr "Исполнительские виды искусства "
+
+#: ../../includes/core-functions.php:548
+msgid "Pharmaceuticals"
+msgstr "Фармацевтическая продукция"
+
+#: ../../includes/core-functions.php:549
+msgid "Philanthropy"
+msgstr "Благотворительность"
+
+#: ../../includes/core-functions.php:550
+msgid "Photography"
+msgstr "Фотография"
+
+#: ../../includes/core-functions.php:551
+msgid "Plastics"
+msgstr "Синтетические материалы"
+
+#: ../../includes/core-functions.php:552
+msgid "Political Organization"
+msgstr "Политическая организация"
+
+#: ../../includes/core-functions.php:553
+msgid "Primary/Secondary Education"
+msgstr "Начальное/Среднее образование"
+
+#: ../../includes/core-functions.php:554
+msgid "Printing"
+msgstr "Полиграфия"
+
+#: ../../includes/core-functions.php:555
+msgid "Professional Training & Coaching"
+msgstr "Профессиональная подготовка и коучинг"
+
+#: ../../includes/core-functions.php:556
+msgid "Program Development"
+msgstr "Разработка ПО"
+
+#: ../../includes/core-functions.php:557
+msgid "Public Policy"
+msgstr "Общественно-государственная политика"
+
+#: ../../includes/core-functions.php:558
+msgid "Public Relations and Communications"
+msgstr "Коммуникации и связи с общественностью"
+
+#: ../../includes/core-functions.php:559
+msgid "Public Safety"
+msgstr "Общественная безопасность"
+
+#: ../../includes/core-functions.php:560
+msgid "Publishing"
+msgstr "Издательское дело"
+
+#: ../../includes/core-functions.php:561
+msgid "Railroad Manufacture"
+msgstr "Строительство железных дорог"
+
+#: ../../includes/core-functions.php:562
+msgid "Ranching"
+msgstr "Животноводство"
+
+#: ../../includes/core-functions.php:563
+msgid "Real Estate"
+msgstr "Недвижимость"
+
+#: ../../includes/core-functions.php:564
+msgid "Recreational Facilities and Services"
+msgstr "Центры отдыха и развлечений"
+
+#: ../../includes/core-functions.php:565
+msgid "Religious Institutions"
+msgstr "Религиозные организации"
+
+#: ../../includes/core-functions.php:566
+msgid "Renewables & Environment"
+msgstr "Возобновляемые энергоресурсы и охрана окружающей среды"
+
+#: ../../includes/core-functions.php:567
+msgid "Research"
+msgstr "Исследования"
+
+#: ../../includes/core-functions.php:568
+msgid "Restaurants"
+msgstr "Рестораны"
+
+#: ../../includes/core-functions.php:569
+msgid "Retail"
+msgstr "Розничная торговля"
+
+#: ../../includes/core-functions.php:570
+msgid "Security and Investigations"
+msgstr "Органы безопасности и расследований"
+
+#: ../../includes/core-functions.php:571
+msgid "Semiconductors"
+msgstr "Полупроводники"
+
+#: ../../includes/core-functions.php:572
+msgid "Shipbuilding"
+msgstr "Кораблестроение"
+
+#: ../../includes/core-functions.php:573
+msgid "Sporting Goods"
+msgstr "Спортивные товары"
+
+#: ../../includes/core-functions.php:574
+msgid "Sports"
+msgstr "Виды спорта"
+
+#: ../../includes/core-functions.php:575
+msgid "Staffing and Recruiting"
+msgstr "Стаффинг и рекрутинг"
+
+#: ../../includes/core-functions.php:576
+msgid "Supermarkets"
+msgstr "Супермаркеты"
+
+#: ../../includes/core-functions.php:577
+msgid "Telecommunications"
+msgstr "Телекоммуникации"
+
+#: ../../includes/core-functions.php:578
+msgid "Textiles"
+msgstr "Текстильная промышленность"
+
+#: ../../includes/core-functions.php:579
+msgid "Think Tanks"
+msgstr "Научно-исследовательские центры"
+
+#: ../../includes/core-functions.php:580
+msgid "Tobacco"
+msgstr "Табак"
+
+#: ../../includes/core-functions.php:581
+msgid "Translation and Localization"
+msgstr "Переводы и локализация"
+
+#: ../../includes/core-functions.php:582
+msgid "Transportation/Trucking/Railroad"
+msgstr "Транспортировка/Грузоперевозки/Железные дороги"
+
+#: ../../includes/core-functions.php:583
+msgid "Utilities"
+msgstr "Коммунальные услуги"
+
+#: ../../includes/core-functions.php:584
+msgid "Venture Capital & Private Equity"
+msgstr "Предпринимательский капитал и прямое инвестирование"
+
+#: ../../includes/core-functions.php:585
+msgid "Veterinary"
+msgstr "Ветеринария"
+
+#: ../../includes/core-functions.php:586
+msgid "Warehousing"
+msgstr "Складское хранение"
+
+#: ../../includes/core-functions.php:587
+msgid "Wholesale"
+msgstr "Оптовая торговля"
+
+#: ../../includes/core-functions.php:588
+msgid "Wine and Spirits"
+msgstr "Вино и спиртные напитки"
+
+#: ../../includes/core-functions.php:589
+msgid "Wireless"
+msgstr "Радиосвязь"
+
+#: ../../includes/core-functions.php:590
+msgid "Writing and Editing"
+msgstr "Письмо и редактура"
+
+#: ../../includes/notice-functions.php:18 ../../includes/notice-functions.php:50 .
+#: ./../includes/notice-functions.php:68 ../../includes/notice-functions.php:86 ..
+#: /../includes/notice-functions.php:101 ../../includes/notice-functions.php:151
+msgid "This function should not be called before woocommerce_init."
+msgstr "Эту функцию не следует вызывать до инициализации woocommerce_init."
+
+#: ../../includes/notice-functions.php:135 ../../includes/admin/class-wc-crm-
+#: admin-post-actions.php:524
+msgid "Undo"
+msgstr "Вернуть"
+
+#: ../../includes/screen/class-wc-crm-screen-customers-edit.php:24 ../..
+#: /includes/admin/class-wc-crm-admin-post-actions.php:58
+msgid ""
+"You can&#8217;t edit this item because it is in the Trash. Please restore it "
+"and try again."
+msgstr ""
+"Этот пункт нельзя отредактировать, потому что он находится в корзине. "
+"Восстановите его и повторите попытку. "
+
+#: ../../includes/screen/class-wc-crm-screen-customers-edit.php:37
+msgid "Edit Customer "
+msgstr "Редактирование клиента"
+
+#: ../../includes/screen/class-wc-crm-screen-customers-edit.php:42 ../..
+#: /includes/admin/class-wc-crm-admin-menus.php:54
+msgid "Add New Customer"
+msgstr "Добавить нового клиента"
+
+#: ../../includes/screen/class-wc-crm-screen-customers-edit.php:47 ../..
+#: /includes/screen/class-wc-crm-screen-customers-list.php:85 ../..
+#: /includes/class-wc-crm-accounts.php:440
+msgid "Add Customer"
+msgstr "Добавить клиента"
+
+#: ../../includes/screen/class-wc-crm-screen-customers-edit.php:107 ../..
+#: /includes/screen/class-wc-crm-screen-customers-edit.php:280
+msgid "Please enter an e-mail address."
+msgstr "Введите электронный адрес."
+
+#: ../../includes/screen/class-wc-crm-screen-customers-edit.php:111 ../..
+#: /includes/screen/class-wc-crm-screen-customers-edit.php:284
+msgid "The email address isn't correct."
+msgstr "Некорректный электронный адрес."
+
+#: ../../includes/screen/class-wc-crm-screen-customers-edit.php:115 ../..
+#: /includes/screen/class-wc-crm-screen-customers-edit.php:288
+msgid "This email is already registered, please choose another one."
+msgstr "Этот электронный адрес уже зарегистрирован, выберите другой."
+
+#: ../../includes/screen/class-wc-crm-screen-customers-edit.php:273
+msgid "Customer updated."
+msgstr "Информация о клиенте обновлена."
+
+#: ../../includes/screen/class-wc-crm-screen-customers-edit.php:341
+msgid "Customer created."
+msgstr "Клиент создан."
+
+#: ../../includes/screen/class-wc-crm-screen-customers-edit.php:479 ../..
+#: /includes/screen/views/html-customer-notes.php:23
+#, php-format
+msgid "added %s ago"
+msgstr "добавлено %s назад"
+
+#: ../../includes/screen/class-wc-crm-screen-customers-edit.php:480 ../..
+#: /includes/screen/views/html-customer-notes.php:24 ../../includes/class-wc-crm-
+#: accounts.php:403
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: ../../includes/screen/class-wc-crm-screen-customers-edit.php:480 ../..
+#: /includes/screen/views/html-customer-notes.php:24 ../../includes/class-wc-crm-
+#: accounts.php:403
+#, php-format
+msgid "by %s"
+msgstr "%s"
+
+#: ../../includes/screen/class-wc-crm-screen-customers-edit.php:481 ../..
+#: /includes/screen/views/html-customer-notes.php:25 ../../includes/class-wc-crm-
+#: ajax.php:167 ../../includes/class-wc-crm-ajax.php:245 ../../includes/class-wc-
+#: crm-accounts.php:404
+msgid "Delete note"
+msgstr "Удалить заметку"
+
+#: ../../includes/screen/class-wc-crm-screen-customers-edit.php:487
+msgid "There are no notes for this customer yet."
+msgstr "У этого клиента еще нет заметок."
+
+#: ../../includes/screen/class-wc-crm-screen-customer-filters.php:109
+msgid "Show all customer statuses"
+msgstr "Показать все статусы клиента"
+
+#: ../../includes/screen/class-wc-crm-screen-customer-filters.php:137
+msgid "Show all countries"
+msgstr "Показать все страны"
+
+#: ../../includes/screen/class-wc-crm-screen-customer-filters.php:163
+msgid "Show all states"
+msgstr "Показать все штаты"
+
+#: ../../includes/screen/class-wc-crm-screen-customer-filters.php:186
+msgid "Show all cities"
+msgstr "Показать все города"
+
+#: ../../includes/screen/class-wc-crm-screen-customer-filters.php:204
+msgid "All time results"
+msgstr "Результаты за все время"
+
+#: ../../includes/screen/class-wc-crm-screen-customer-filters.php:209
+msgid "Last 24 hours"
+msgstr "За последние 24 часа"
+
+#: ../../includes/screen/class-wc-crm-screen-customer-filters.php:214
+msgid "This month"
+msgstr "За этот месяц"
+
+#: ../../includes/screen/class-wc-crm-screen-customer-filters.php:218
+msgid "Last 30 days"
+msgstr "За последние 30 дней"
+
+#: ../../includes/screen/class-wc-crm-screen-customer-filters.php:222
+msgid "Last 6 months"
+msgstr "За последние 6 месяцев"
+
+#: ../../includes/screen/class-wc-crm-screen-customer-filters.php:226
+msgid "Last 12 months"
+msgstr "За последние 12 месяцев"
+
+#: ../../includes/screen/class-wc-crm-screen-customer-filters.php:234
+msgid "Show all user roles"
+msgstr "Показать все роли пользователя"
+
+#: ../../includes/screen/class-wc-crm-screen-customer-filters.php:276
+msgid "Show all statuses"
+msgstr "Показать все статусы"
+
+#: ../../includes/screen/views/html-customer-groups.php:11 ../..
+#: /includes/screen/class-wc-crm-screen-groups.php:421
+msgid "Customer Groups"
+msgstr "Группы клиентов"
+
+#: ../../includes/screen/views/html-customer-groups.php:21
+msgid "Search for a group…"
+msgstr "Поиск группы..."
+
+#: ../../includes/screen/views/html-call-current_call.php:12 ../..
+#: /includes/screen/views/html-call-actions.php:95
+msgid "Start"
+msgstr "Начать"
+
+#: ../../includes/screen/views/html-call-current_call.php:13 ../..
+#: /includes/screen/views/html-call-actions.php:96
+msgid "Stop"
+msgstr "Стоп"
+
+#: ../../includes/screen/views/html-call-current_call.php:14 ../..
+#: /includes/screen/views/html-call-actions.php:97
+msgid "Pause/Resume"
+msgstr "Пауза/Возобновить"
+
+#: ../../includes/screen/views/html-call-current_call.php:15 ../..
+#: /includes/screen/views/html-call-actions.php:99
+msgid "Reset"
+msgstr "Сбросить"
+
+#: ../../includes/screen/views/html-call-actions.php:11
+msgid "Call Details:"
+msgstr "Детали звонка:"
+
+#: ../../includes/screen/views/html-call-actions.php:23 ../..
+#: /includes/screen/views/html-call-actions.php:62 ../..
+#: /includes/screen/views/html-call-actions.php:75 ../..
+#: /includes/screen/views/html-customer-details.php:77 ../..
+#: /includes/screen/views/html-customer-details.php:165 ../..
+#: /includes/screen/views/html-task-actions.php:24 ../..
+#: /includes/screen/views/html-task-actions.php:64 ../..
+#: /includes/screen/views/html-task-actions.php:83 ../../includes/class-wc-crm-
+#: accounts.php:270 ../../includes/class-wc-crm-accounts.php:311
+msgid "Edit"
+msgstr "Редактировать"
+
+#: ../../includes/screen/views/html-call-actions.php:24 ../..
+#: /includes/screen/views/html-task-actions.php:25
+msgid "Edit status"
+msgstr "Редактировать статус"
+
+#: ../../includes/screen/views/html-call-actions.php:35 ../..
+#: /includes/screen/views/html-task-actions.php:36
+msgid "Published"
+msgstr "Опубликовано"
+
+#: ../../includes/screen/views/html-call-actions.php:38 ../..
+#: /includes/screen/views/html-call-actions.php:86 ../..
+#: /includes/screen/views/html-task-actions.php:39 ../..
+#: /includes/screen/views/html-task-actions.php:96 ../../includes/screen/class-wc-
+#: crm-screen-task.php:369
+msgid "OK"
+msgstr "OK"
+
+#: ../../includes/screen/views/html-call-actions.php:39 ../..
+#: /includes/screen/views/html-call-actions.php:87 ../..
+#: /includes/screen/views/html-task-actions.php:40 ../..
+#: /includes/screen/views/html-task-actions.php:97 ../../includes/screen/class-wc-
+#: crm-screen-task.php:370
+msgid "Cancel"
+msgstr "Отмена"
+
+#: ../../includes/screen/views/html-call-actions.php:49
+#, php-format
+msgid "Call Date: <b>%1$s</b>"
+msgstr "Дата звонка: <b>%1$s</b>"
+
+#: ../../includes/screen/views/html-call-actions.php:52
+#, php-format
+msgid "Schedule for: <b>%1$s</b>"
+msgstr "Назначить на: <b>%1$s</b>"
+
+#: ../../includes/screen/views/html-call-actions.php:62 ../..
+#: /includes/screen/views/html-task-actions.php:64
+msgid "Edit date and time"
+msgstr "Редактировать дату и время"
+
+#: ../../includes/screen/views/html-call-actions.php:64 ../..
+#: /includes/screen/views/html-task-actions.php:66
+msgid "Date and time"
+msgstr "Дата и время"
+
+#: ../../includes/screen/views/html-call-actions.php:72
+msgid "Call Duration:"
+msgstr "Продолжительность звонка"
+
+#: ../../includes/screen/views/html-call-actions.php:78
+msgid "h"
+msgstr "ч"
+
+#: ../../includes/screen/views/html-call-actions.php:79
+msgid "m"
+msgstr "мин"
+
+#: ../../includes/screen/views/html-call-actions.php:80
+msgid "s"
+msgstr "сек"
+
+#: ../../includes/screen/views/html-call-actions.php:98 ../..
+#: /includes/screen/views/html-customer-actions.php:47
+msgid "Save"
+msgstr "Сохранить"
+
+#: ../../includes/screen/views/html-call-actions.php:116 ../..
+#: /includes/screen/tables/class-wc-crm-table-customers.php:387
+msgid "Place Call"
+msgstr "Разместить звонок"
+
+#: ../../includes/screen/views/html-call-actions.php:118 ../..
+#: /includes/admin/class-wc-crm-admin-orders-page.php:63
+msgid "View Customer"
+msgstr "Просмотр клиента"
+
+#: ../../includes/screen/views/html-call-actions.php:120 ../..
+#: /includes/screen/tables/class-wc-crm-table-customer-orders.php:110
+msgid "View Order"
+msgstr "Просмотреть заказа"
+
+#: ../../includes/screen/views/html-call-actions.php:122
+msgid "View Product"
+msgstr "Просмотреть продукт"
+
+#: ../../includes/screen/views/html-call-actions.php:131 ../..
+#: /includes/screen/views/html-task-actions.php:118 ../..
+#: /includes/screen/tables/class-wc-crm-table-customers.php:174 ../..
+#: /includes/screen/tables/class-wc-crm-table-customers.php:247
+msgid "Delete Permanently"
+msgstr "Удалить навсегда"
+
+#: ../../includes/screen/views/html-call-actions.php:133 ../..
+#: /includes/screen/views/html-task-actions.php:120 ../..
+#: /includes/screen/views/html-customer-actions.php:41
+msgid "Move to Trash"
+msgstr "Переместить в корзину"
+
+#: ../../includes/screen/views/html-call-actions.php:143 ../..
+#: /includes/screen/views/html-task-actions.php:130
+msgid "Publish"
+msgstr "Опубликовать"
+
+#: ../../includes/screen/views/html-call-actions.php:144
+msgid "Create Call"
+msgstr "Создать звонок"
+
+#: ../../includes/screen/views/html-call-actions.php:148 ../..
+#: /includes/screen/views/html-task-actions.php:135 ../../includes/screen/class-
+#: wc-crm-screen-groups.php:388
+msgid "Update"
+msgstr "Обновить"
+
+#: ../../includes/screen/views/html-customer-products-purchased.php:11
+msgid "Products Purchased"
+msgstr "Купленные продукты"
+
+#: ../../includes/screen/views/html-customer-delete-form.php:3
+msgid "Close"
+msgstr "Закрыть"
+
+#: ../../includes/screen/views/html-customer-delete-form.php:6 ../..
+#: /includes/screen/views/html-customer-orders.php:11
+msgid "Customer Orders"
+msgstr "Заказы клиента"
+
+#: ../../includes/screen/views/html-customer-delete-form.php:11
+msgid "Retain orders and convert customer to Guest"
+msgstr "Сохранить заказы и сделать клиента Гостем"
+
+#: ../../includes/screen/views/html-customer-delete-form.php:15
+msgid "Delete related orders and WP user profile"
+msgstr "Удалить связанные заказы и профиль пользователя WP"
+
+#: ../../includes/screen/views/html-customer-delete-form.php:25 ../..
+#: /includes/screen/tables/class-wc-crm-table-customer-status.php:76 ../..
+#: /includes/screen/tables/class-wc-crm-table-groups.php:95
+msgid "Delete"
+msgstr "Удалить"
+
+#: ../../includes/screen/views/html-customer-calls.php:11 ../..
+#: /includes/admin/class-wc-crm-admin-post-types.php:92 ../..
+#: /includes/admin/class-wc-crm-admin-menus.php:88 ../../includes/admin/class-wc-
+#: crm-admin-menus.php:89
+msgid "Calls"
+msgstr "Звонки"
+
+#: ../../includes/screen/views/html-customer-details.php:16
+msgid "details"
+msgstr "детали"
+
+#: ../../includes/screen/views/html-customer-details.php:23
+#, php-format
+msgid "1 order"
+msgid_plural "%s orders"
+msgstr[0] "1 заказ"
+msgstr[1] "%s заказов"
+
+#: ../../includes/screen/views/html-customer-details.php:39 ../../includes/class-
+#: wc-crm-accounts.php:239
+msgid "General Details"
+msgstr "Общие детали"
+
+#: ../../includes/screen/views/html-customer-details.php:75 ../../includes/class-
+#: wc-crm-accounts.php:269 ../../includes/class-wc-crm-accounts.php:283
+msgid "Billing Details"
+msgstr "Информация для выставления счета"
+
+#: ../../includes/screen/views/html-customer-details.php:78 ../..
+#: /includes/screen/views/html-customer-details.php:78
+msgid "Load billing address"
+msgstr "Загрузить расчетный адрес"
+
+#: ../../includes/screen/views/html-customer-details.php:84 ../..
+#: /includes/screen/views/html-customer-details.php:86 ../..
+#: /includes/screen/views/html-customer-details.php:173 ../..
+#: /includes/screen/views/html-customer-details.php:176 ../../includes/class-wc-
+#: crm-accounts.php:275 ../../includes/class-wc-crm-accounts.php:277 ../..
+#: /includes/class-wc-crm-accounts.php:316 ../../includes/class-wc-crm-accounts.
+#: php:318 ../../includes/admin/class-wc-crm-admin-post-actions.php:348 ../..
+#: /includes/admin/class-wc-crm-admin-post-actions.php:351
+msgid "Address"
+msgstr "Адрес"
+
+#: ../../includes/screen/views/html-customer-details.php:86 ../../includes/class-
+#: wc-crm-accounts.php:277
+msgid "No billing address set."
+msgstr "Расчетный адрес не установлен."
+
+#: ../../includes/screen/views/html-customer-details.php:104
+msgid "Preferred Payment Method"
+msgstr "Предпочитаемый способ оплаты"
+
+#: ../../includes/screen/views/html-customer-details.php:137
+msgid "Payment Method:"
+msgstr "Способ оплаты:"
+
+#: ../../includes/screen/views/html-customer-details.php:139
+msgid "N/A"
+msgstr "Н/А"
+
+#: ../../includes/screen/views/html-customer-details.php:163 ../../includes/class-
+#: wc-crm-accounts.php:310 ../../includes/class-wc-crm-accounts.php:324
+msgid "Shipping Details"
+msgstr "Реквизиты для отгрузки"
+
+#: ../../includes/screen/views/html-customer-details.php:166 ../..
+#: /includes/screen/views/html-customer-details.php:166
+msgid "Copy from billing"
+msgstr "Копировать из платежных реквизитов"
+
+#: ../../includes/screen/views/html-customer-details.php:167 ../..
+#: /includes/screen/views/html-customer-details.php:167
+msgid "Load shipping address"
+msgstr "Загрузить адрес доставки"
+
+#: ../../includes/screen/views/html-customer-details.php:176 ../../includes/class-
+#: wc-crm-accounts.php:318
+msgid "No shipping address set."
+msgstr "Адрес доставки не установлен"
+
+#: ../../includes/screen/views/html-customer-tasks.php:11 ../..
+#: /includes/admin/class-wc-crm-admin-post-types.php:85 ../..
+#: /includes/admin/class-wc-crm-admin-menus.php:80 ../../includes/admin/class-wc-
+#: crm-admin-menus.php:81
+msgid "Tasks"
+msgstr "Задачи"
+
+#: ../../includes/screen/views/html-task-actions.php:12
+msgid "Status:"
+msgstr "Статус:"
+
+#: ../../includes/screen/views/html-task-actions.php:50
+#, php-format
+msgid "Due Date: <b>%1$s</b>"
+msgstr "Выполнить до: <b>%1$s</b>"
+
+#: ../../includes/screen/views/html-task-actions.php:71
+msgid "Priority:"
+msgstr "Приоритет:"
+
+#: ../../includes/screen/views/html-task-actions.php:84
+msgid "Edit priority"
+msgstr "Редактировать приоритет"
+
+#: ../../includes/screen/views/html-task-actions.php:131
+msgid "Create Task"
+msgstr "Создать задачу"
+
+#: ../../includes/screen/views/html-task-actions.php:136
+msgid "Save Task"
+msgstr "Сохранить задачу"
+
+#: ../../includes/screen/views/html-customer-activity.php:11 ../..
+#: /includes/screen/class-wc-crm-screen-activity.php:19 ../..
+#: /includes/admin/class-wc-crm-admin-menus.php:63 ../../includes/admin/class-wc-
+#: crm-admin-menus.php:64
+msgid "Activity"
+msgstr "Действия"
+
+#: ../../includes/screen/views/html-task-info.php:38
+msgid "Every day"
+msgstr "Каждый день"
+
+#: ../../includes/screen/views/html-task-info.php:45
+#, php-format
+msgid "Repeat for every %s days"
+msgstr "Повторять каждые %s дней"
+
+#: ../../includes/screen/views/html-task-info.php:56
+#, php-format
+msgid "Repeat for every %s weeks"
+msgstr "Повторять каждые %s недель"
+
+#: ../../includes/screen/views/html-task-info.php:89
+#, php-format
+msgid "On day %s Of every %s months"
+msgstr "На день  %s каждые %s месяцев"
+
+#: ../../includes/screen/views/html-task-info.php:95 ../../includes/admin/class-
+#: wc-crm-admin-post-types.php:553
+msgid "First"
+msgstr "Первый"
+
+#: ../../includes/screen/views/html-task-info.php:96 ../../includes/admin/class-
+#: wc-crm-admin-post-types.php:554
+msgid "Second"
+msgstr "Второй"
+
+#: ../../includes/screen/views/html-task-info.php:97 ../../includes/admin/class-
+#: wc-crm-admin-post-types.php:555
+msgid "Third"
+msgstr "Третий"
+
+#: ../../includes/screen/views/html-task-info.php:98 ../../includes/admin/class-
+#: wc-crm-admin-post-types.php:556
+msgid "Fourth"
+msgstr "Четвертый"
+
+#: ../../includes/screen/views/html-task-info.php:99 ../../includes/admin/class-
+#: wc-crm-admin-post-types.php:557
+msgid "Last"
+msgstr "Последний"
+
+#: ../../includes/screen/views/html-task-info.php:112
+#, php-format
+msgid "On %s %s Of every %s months"
+msgstr "%s %s  каждые %s месяцев"
+
+#: ../../includes/screen/views/html-task-info.php:131
+#, php-format
+msgid "Of every %s %s"
+msgstr "Каждого %s %s"
+
+#: ../../includes/screen/views/html-task-info.php:153
+#, php-format
+msgid "On %s %s of %s"
+msgstr "%s %s %s"
+
+#: ../../includes/screen/views/html-customer-notes.php:11 ../..
+#: /includes/screen/tables/class-wc-crm-table-customers.php:119 ../..
+#: /includes/screen/tables/class-wc-crm-table-customers.php:119
+msgid "Customer Notes"
+msgstr "Заметки клиента"
+
+#: ../../includes/screen/views/html-customer-notes.php:31 ../../includes/class-wc-
+#: crm-accounts.php:411
+msgid "There are no notes yet."
+msgstr "Еще нет создано ни одной заметки."
+
+#: ../../includes/screen/views/html-customer-notes.php:35 ../../includes/class-wc-
+#: crm-accounts.php:417
+msgid "Add note"
+msgstr "Добавить заметку"
+
+#: ../../includes/screen/views/html-customer-notes.php:40 ../../includes/class-wc-
+#: crm-accounts.php:425
+msgid "Add"
+msgstr "Добавить"
+
+#: ../../includes/screen/views/html-activity-email.php:9
+msgid "Activity #"
+msgstr "Действия #"
+
+#: ../../includes/screen/views/html-activity-email.php:9
+msgid " details"
+msgstr "детали"
+
+#: ../../includes/screen/views/html-activity-email.php:10
+msgid "Email sent on "
+msgstr "Электронное письмо отправлено"
+
+#: ../../includes/screen/views/html-activity-email.php:10
+msgid "at"
+msgstr "@"
+
+#: ../../includes/screen/views/html-activity-email.php:13
+msgid "From"
+msgstr "От"
+
+#: ../../includes/screen/views/html-activity-email.php:22
+msgid "To"
+msgstr "Получатель"
+
+#: ../../includes/screen/views/html-activity-email.php:37 ../..
+#: /includes/screen/views/html-email-form.php:39 ../..
+#: /includes/screen/tables/class-wc-crm-table-customer-activity.php:53 ../..
+#: /includes/screen/tables/class-wc-crm-table-activity.php:68 ../..
+#: /includes/admin/class-wc-crm-admin-post-types.php:330 ../..
+#: /includes/admin/class-wc-crm-admin-post-types.php:342
+msgid "Subject"
+msgstr "Тема"
+
+#: ../../includes/screen/views/html-activity-email.php:41
+msgid "Message"
+msgstr "Сообщение"
+
+#: ../../includes/screen/views/html-task-description.php:15
+#, php-format
+msgid "Word count: %s"
+msgstr "Число слов: %s"
+
+#: ../../includes/screen/views/html-task-description.php:22
+#, php-format
+msgid "Last edited by %1$s on %2$s at %3$s"
+msgstr "В последний раз отредактировано %1$s %2$s %3$s"
+
+#: ../../includes/screen/views/html-task-description.php:24
+#, php-format
+msgid "Last edited on %1$s at %2$s"
+msgstr "В последний раз отредактировано %1$s в %2$s"
+
+#: ../../includes/screen/views/html-customer-actions.php:11
+msgid "Customer Actions"
+msgstr "Действия клиента"
+
+#: ../../includes/screen/views/html-customer-actions.php:18 ../..
+#: /includes/screen/tables/class-wc-crm-table-customer-activity.php:57 ../..
+#: /includes/screen/tables/class-wc-crm-table-customers.php:137 ../..
+#: /includes/screen/tables/class-wc-crm-table-customer-products-purchased.php:108 
+#: ../../includes/screen/tables/class-wc-crm-table-customer-orders.php:82 ../..
+#: /includes/screen/tables/class-wc-crm-table-activity.php:74
+msgid "Actions"
+msgstr "Действия"
+
+#: ../../includes/screen/views/html-customer-actions.php:25
+msgid "New order"
+msgstr "Новый заказ"
+
+#: ../../includes/screen/views/html-customer-actions.php:26 ../..
+#: /includes/screen/views/html-email-form.php:60
+msgid "Send email"
+msgstr "Отправить электронное письмо"
+
+#: ../../includes/screen/views/html-customer-actions.php:27
+msgid "Add a new call"
+msgstr "Добавить новый звонок"
+
+#: ../../includes/screen/views/html-customer-actions.php:28
+msgid "Add a new task"
+msgstr "Добавить новую задачу"
+
+#: ../../includes/screen/views/html-customer-actions.php:30 ../../includes/class-
+#: wc-crm-accounts.php:366 ../../includes/class-wc-crm-accounts.php:368
+msgid "Apply"
+msgstr "Применить"
+
+#: ../../includes/screen/views/html-customer-actions.php:40
+msgid "Are you sure you want to delete the customer?"
+msgstr "Уверены, что хотите удалить клиента?"
+
+#: ../../includes/screen/views/html-email-form.php:8 ../..
+#: /includes/screen/tables/class-wc-crm-table-customers.php:177 ../..
+#: /includes/screen/tables/class-wc-crm-table-customers.php:380
+msgid "Send Email"
+msgstr "Отправить электронное письмо"
+
+#: ../../includes/screen/views/html-email-form.php:9
+msgid "Compose a new email to the customer."
+msgstr "Создать новое электронное письмо для клиента."
+
+#: ../../includes/screen/views/html-email-form.php:15
+msgid "From Name"
+msgstr "От имени"
+
+#: ../../includes/screen/views/html-email-form.php:23
+msgid "From Email Address"
+msgstr "С электронного адреса"
+
+#: ../../includes/screen/views/html-email-form.php:31
+msgid "Recipients"
+msgstr "Получатели"
+
+#: ../../includes/screen/views/html-email-form.php:47
+msgid "Body"
+msgstr "Тело текста"
+
+#: ../../includes/screen/class-wc-crm-screen-call.php:84 ../..
+#: /includes/screen/class-wc-crm-screen-task.php:76
+msgid "Subject:"
+msgstr "Тема"
+
+#: ../../includes/screen/class-wc-crm-screen-call.php:93
+msgid "Phone Number:"
+msgstr "Номер телефона:"
+
+#: ../../includes/screen/class-wc-crm-screen-call.php:101
+msgid "Call Owner:"
+msgstr "Звонок от:"
+
+#: ../../includes/screen/class-wc-crm-screen-call.php:110
+msgid "Type:"
+msgstr "Тип:"
+
+#: ../../includes/screen/class-wc-crm-screen-call.php:120
+msgid "Purpose:"
+msgstr "Цель:"
+
+#: ../../includes/screen/class-wc-crm-screen-call.php:130 ../..
+#: /includes/screen/class-wc-crm-screen-task.php:94
+msgid "Customer:"
+msgstr "Клиент:"
+
+#: ../../includes/screen/class-wc-crm-screen-call.php:138 ../..
+#: /includes/screen/class-wc-crm-screen-task.php:101
+msgid "Select a Customer&hellip;"
+msgstr "Выберите клиента..."
+
+#: ../../includes/screen/class-wc-crm-screen-call.php:143
+msgid "Product:"
+msgstr "Продукт:"
+
+#: ../../includes/screen/class-wc-crm-screen-call.php:151
+msgid "Search for a product&hellip;"
+msgstr "Поиск продукта..."
+
+#: ../../includes/screen/class-wc-crm-screen-call.php:156
+msgid "Order:"
+msgstr "Заказ:"
+
+#: ../../includes/screen/class-wc-crm-screen-call.php:164
+msgid "Search for an order&hellip;"
+msgstr "Поиск заказа..."
+
+#: ../../includes/screen/class-wc-crm-screen-call.php:169
+msgid "Call Results:"
+msgstr "Результаты звонка:"
+
+#: ../../includes/screen/class-wc-crm-screen-activity-filters.php:34
+msgid "Empty Trash"
+msgstr "Очистить корзину"
+
+#: ../../includes/screen/class-wc-crm-screen-activity-filters.php:60
+msgid "Show all dates"
+msgstr "Показать все даты"
+
+#. translators: 1: month name, 2: 4-digit year
+#: ../../includes/screen/class-wc-crm-screen-activity-filters.php:73
+#, php-format
+msgid "%1$s %2$d"
+msgstr "%1$s %2$d"
+
+#: ../../includes/screen/class-wc-crm-screen-activity-filters.php:89
+msgid "Show all authors"
+msgstr "Показать всех авторов"
+
+#: ../../includes/screen/class-wc-crm-screen-task.php:85
+msgid "Task Owner:"
+msgstr "Задача направлена:"
+
+#: ../../includes/screen/class-wc-crm-screen-task.php:106
+msgid "Account:"
+msgstr "Аккаунт:"
+
+#: ../../includes/screen/class-wc-crm-screen-task.php:118
+msgid "Send Notification Email: "
+msgstr "Отправить письмо с уведомлением:"
+
+#: ../../includes/screen/class-wc-crm-screen-task.php:123
+msgid "Repeat: "
+msgstr "Повторить:"
+
+#: ../../includes/screen/class-wc-crm-screen-task.php:128
+msgid "Start Date:"
+msgstr "Дата начала:"
+
+#: ../../includes/screen/class-wc-crm-screen-task.php:139
+msgid "End Date:"
+msgstr "Дата окончания:"
+
+#: ../../includes/screen/class-wc-crm-screen-task.php:150
+msgid "Repeat Type:"
+msgstr "Тип повторения:"
+
+#: ../../includes/screen/class-wc-crm-screen-task.php:156
+msgid "None"
+msgstr "Не установлено"
+
+#: ../../includes/screen/class-wc-crm-screen-task.php:157
+msgid "Daily"
+msgstr "Ежедневно"
+
+#: ../../includes/screen/class-wc-crm-screen-task.php:158
+msgid "Weekly"
+msgstr "Еженедельно"
+
+#: ../../includes/screen/class-wc-crm-screen-task.php:159
+msgid "Monthly"
+msgstr "Каждый месяц"
+
+#: ../../includes/screen/class-wc-crm-screen-task.php:160
+msgid "Yearly"
+msgstr "Каждый год"
+
+#: ../../includes/screen/class-wc-crm-screen-task.php:229
+msgid "Whoops, the provided date is invalid."
+msgstr "Упс, введена некорректная дата."
+
+#: ../../includes/screen/class-wc-crm-screen-task.php:331
+msgid "Month"
+msgstr "Месяц"
+
+#. translators: 1: month number (01, 02, etc.), 2: month abbreviation
+#: ../../includes/screen/class-wc-crm-screen-task.php:337
+#, php-format
+msgid "%1$s-%2$s"
+msgstr "%1$s-%2$s"
+
+#: ../../includes/screen/class-wc-crm-screen-task.php:341
+msgid "Day"
+msgstr "День"
+
+#: ../../includes/screen/class-wc-crm-screen-task.php:342
+msgid "Year"
+msgstr "Год"
+
+#: ../../includes/screen/class-wc-crm-screen-task.php:343
+msgid "Hour"
+msgstr "Час"
+
+#: ../../includes/screen/class-wc-crm-screen-task.php:344
+msgid "Minute"
+msgstr "Минута"
+
+#. translators: 1: month, 2: day, 3: year, 4: hour, 5: minute
+#: ../../includes/screen/class-wc-crm-screen-task.php:348
+#, php-format
+msgid "%1$s %2$s, %3$s @ %4$s:%5$s"
+msgstr "%1$s %2$s, %3$s @ %4$s:%5$s"
+
+#: ../../includes/screen/class-wc-crm-screen-activity.php:41
+msgid "Email Details"
+msgstr "Детали электронного письма"
+
+#: ../../includes/screen/class-wc-crm-screen-activity.php:136
+msgid "Email sent."
+msgstr "Письмо отправлено."
+
+#: ../../includes/screen/class-wc-crm-screen-groups.php:87
+msgid "Please, provide a group name, slug and type."
+msgstr "Введите название, электронный адрес и типа группы."
+
+#: ../../includes/screen/class-wc-crm-screen-groups.php:89
+#, php-format
+msgid "Slug “%s” is too long (28 characters max). Shorten it, please."
+msgstr "Электронный адрес “%s” слишком длинный (максимум 28 символов). Сократите его."
+
+#: ../../includes/screen/class-wc-crm-screen-groups.php:91 ../..
+#: /includes/screen/class-wc-crm-screen-groups.php:93
+#, php-format
+msgid "Slug “%s” is not allowed because it is a reserved term. Change it, please."
+msgstr ""
+"Электронный адрес “%s”  нельзя использовать, потому что это "
+"зарезервированное имя. Измените его."
+
+#: ../../includes/screen/class-wc-crm-screen-groups.php:98
+#, php-format
+msgid "Slug “%s” is already in use. Change it, please."
+msgstr "Электронный адрес “%s” уже используется. Измените его."
+
+#: ../../includes/screen/class-wc-crm-screen-groups.php:139
+msgid "Group successfully added."
+msgstr "Группа успешно добавлена."
+
+#: ../../includes/screen/class-wc-crm-screen-groups.php:149
+msgid "Group successfully updated."
+msgstr "Группа успешно обновлена."
+
+#: ../../includes/screen/class-wc-crm-screen-groups.php:164
+msgid "Group deleted"
+msgstr "Группа удалена"
+
+#: ../../includes/screen/class-wc-crm-screen-groups.php:177
+#, php-format
+msgid "%d Groups deleted."
+msgid_plural "%d Groups deleted."
+msgstr[0] "Группы %d удалены."
+msgstr[1] "Группы %d удалены."
+
+#: ../../includes/screen/class-wc-crm-screen-groups.php:219
+msgid "Edit group"
+msgstr "Редактировать группу"
+
+#: ../../includes/screen/class-wc-crm-screen-groups.php:221
+msgid "Groups are used to organise your customers."
+msgstr "Группы используются для группировки клиентов."
+
+#: ../../includes/screen/class-wc-crm-screen-groups.php:228 ../..
+#: /includes/screen/class-wc-crm-screen-groups.php:442 ../..
+#: /includes/screen/tables/class-wc-crm-table-customer-products-purchased.php:100 
+#: ../../includes/screen/tables/class-wc-crm-table-customer-status.php:53 ../..
+#: /includes/screen/tables/class-wc-crm-table-groups.php:70 ../..
+#: /includes/admin/settings/wc-crm-settings-statuses.php:54 ../..
+#: /includes/admin/settings/wc-crm-settings-statuses.php:115
+msgid "Name"
+msgstr "Имя"
+
+#: ../../includes/screen/class-wc-crm-screen-groups.php:237 ../..
+#: /includes/screen/class-wc-crm-screen-groups.php:454 ../..
+#: /includes/screen/tables/class-wc-crm-table-customer-activity.php:54 ../..
+#: /includes/screen/tables/class-wc-crm-table-customer-products-purchased.php:105 
+#: ../../includes/screen/tables/class-wc-crm-table-groups.php:72 ../..
+#: /includes/screen/tables/class-wc-crm-table-activity.php:69 ../..
+#: /includes/admin/class-wc-crm-admin-post-types.php:343 ../..
+#: /includes/admin/class-wc-crm-admin-post-types.php:343
+msgid "Type"
+msgstr "Тип"
+
+#: ../../includes/screen/class-wc-crm-screen-groups.php:241 ../..
+#: /includes/screen/class-wc-crm-screen-groups.php:456
+msgid "Dynamic"
+msgstr "Динамическая"
+
+#: ../../includes/screen/class-wc-crm-screen-groups.php:242 ../..
+#: /includes/screen/class-wc-crm-screen-groups.php:457
+msgid "Static"
+msgstr "Статическая"
+
+#: ../../includes/screen/class-wc-crm-screen-groups.php:245 ../..
+#: /includes/screen/class-wc-crm-screen-groups.php:460
+msgid "Determines how you select group for customers."
+msgstr "Определяет то, как вы будете выбирать группу для клиентов."
+
+#: ../../includes/screen/class-wc-crm-screen-groups.php:263 ../..
+#: /includes/screen/class-wc-crm-screen-groups.php:472
+msgid "Total Spent"
+msgstr "Всего потрачено"
+
+#: ../../includes/screen/class-wc-crm-screen-groups.php:267 ../..
+#: /includes/screen/class-wc-crm-screen-groups.php:474
+msgid "="
+msgstr "="
+
+#: ../../includes/screen/class-wc-crm-screen-groups.php:268 ../..
+#: /includes/screen/class-wc-crm-screen-groups.php:475
+msgid "&gt;"
+msgstr "&gt;"
+
+#: ../../includes/screen/class-wc-crm-screen-groups.php:269 ../..
+#: /includes/screen/class-wc-crm-screen-groups.php:476
+msgid "&lt;"
+msgstr "&lt;"
+
+#: ../../includes/screen/class-wc-crm-screen-groups.php:270 ../..
+#: /includes/screen/class-wc-crm-screen-groups.php:477
+msgid "&ge;"
+msgstr "&ge;"
+
+#: ../../includes/screen/class-wc-crm-screen-groups.php:271 ../..
+#: /includes/screen/class-wc-crm-screen-groups.php:478
+msgid "&le;"
+msgstr "&le;"
+
+#: ../../includes/screen/class-wc-crm-screen-groups.php:279 ../..
+#: /includes/screen/class-wc-crm-screen-groups.php:483
+msgid "User Role"
+msgstr "Роль пользователя"
+
+#: ../../includes/screen/class-wc-crm-screen-groups.php:284 ../..
+#: /includes/screen/class-wc-crm-screen-groups.php:486
+msgid "Any"
+msgstr "Любая"
+
+#: ../../includes/screen/class-wc-crm-screen-groups.php:306 ../..
+#: /includes/screen/class-wc-crm-screen-groups.php:504
+msgid "Choose a Customer Status..."
+msgstr "Выберите статус клиента..."
+
+#: ../../includes/screen/class-wc-crm-screen-groups.php:321 ../..
+#: /includes/screen/class-wc-crm-screen-groups.php:517
+msgid "Product Category"
+msgstr "Категория продуктов"
+
+#: ../../includes/screen/class-wc-crm-screen-groups.php:324 ../..
+#: /includes/screen/class-wc-crm-screen-groups.php:344 ../..
+#: /includes/screen/class-wc-crm-screen-groups.php:518 ../..
+#: /includes/screen/class-wc-crm-screen-groups.php:534
+msgid "Choose a Product Category..."
+msgstr "Выберите категорию продуктов..."
+
+#: ../../includes/screen/class-wc-crm-screen-groups.php:341 ../..
+#: /includes/screen/class-wc-crm-screen-groups.php:533 ../..
+#: /includes/admin/settings/wc-crm-settings-general.php:59
+msgid "Order Status"
+msgstr "Статус заказа"
+
+#: ../../includes/screen/class-wc-crm-screen-groups.php:361 ../..
+#: /includes/screen/class-wc-crm-screen-groups.php:549 ../..
+#: /includes/screen/tables/class-wc-crm-table-customers.php:120 ../..
+#: /includes/admin/settings/wc-crm-settings-general.php:52
+msgid "Last Order"
+msgstr "Последний заказ"
+
+#: ../../includes/screen/class-wc-crm-screen-groups.php:366 ../..
+#: /includes/screen/class-wc-crm-screen-groups.php:552
+msgid "Between"
+msgstr "Между"
+
+#: ../../includes/screen/class-wc-crm-screen-groups.php:367 ../..
+#: /includes/screen/class-wc-crm-screen-groups.php:553
+msgid "Before"
+msgstr "До"
+
+#: ../../includes/screen/class-wc-crm-screen-groups.php:368 ../..
+#: /includes/screen/class-wc-crm-screen-groups.php:554
+msgid "After"
+msgstr "После"
+
+#: ../../includes/screen/class-wc-crm-screen-groups.php:438
+msgid "Add New group"
+msgstr "Добавить новую группу"
+
+#: ../../includes/screen/class-wc-crm-screen-groups.php:439
+msgid ""
+"Groups are used to organise your customers. Please Note: you cannot rename a "
+"group later."
+msgstr ""
+"Группы используются для группировки клиентов. Обратите внимание, вы не "
+"сможете переименовать группу позднее."
+
+#: ../../includes/screen/class-wc-crm-screen-groups.php:444
+msgid "Name for the group."
+msgstr "Название для группы."
+
+#: ../../includes/screen/class-wc-crm-screen-groups.php:448 ../..
+#: /includes/screen/tables/class-wc-crm-table-customer-status.php:54 ../..
+#: /includes/screen/tables/class-wc-crm-table-groups.php:71 ../..
+#: /includes/admin/settings/wc-crm-settings-statuses.php:62 ../..
+#: /includes/admin/settings/wc-crm-settings-statuses.php:119
+msgid "Slug"
+msgstr "Электронный адрес"
+
+#: ../../includes/screen/class-wc-crm-screen-groups.php:450
+msgid "Unique slug/reference for the group; must be shorter than 28 characters."
+msgstr "Уникальный электронный адрес для группы; должен включать менее 28 символов."
+
+#: ../../includes/screen/class-wc-crm-screen-groups.php:571
+msgid "Add group"
+msgstr "Добавить группу"
+
+#: ../../includes/screen/class-wc-crm-screen-groups.php:582
+msgid "Are you sure you want to delete this group?"
+msgstr "Вы уверены, что хотите удалить эту группу?"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customer-activity.php:22 ../..
+#: /includes/screen/tables/class-wc-crm-table-activity.php:21
+msgid "log"
+msgstr "лог"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customer-activity.php:23 ../..
+#: /includes/screen/tables/class-wc-crm-table-activity.php:22
+msgid "logs"
+msgstr "логи"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customer-activity.php:55 ../..
+#: /includes/screen/tables/class-wc-crm-table-customer-orders.php:80 ../..
+#: /includes/screen/tables/class-wc-crm-table-activity.php:70 ../..
+#: /includes/admin/class-wc-crm-admin-post-types.php:344
+msgid "Date"
+msgstr "Дата"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customer-activity.php:56 ../..
+#: /includes/screen/tables/class-wc-crm-table-activity.php:71
+msgid "Author"
+msgstr "Автор"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customer-activity.php:71 ../..
+#: /includes/screen/tables/class-wc-crm-table-customer-tasks.php:58 ../..
+#: /includes/screen/tables/class-wc-crm-table-activity.php:28 ../..
+#: /includes/screen/tables/class-wc-crm-table-customer-calls.php:58
+msgid "No found."
+msgstr "Ничего не найдено."
+
+#: ../../includes/screen/tables/class-wc-crm-table-customer-activity.php:93 ../..
+#: /includes/screen/tables/class-wc-crm-table-activity.php:86
+msgid "View"
+msgstr "Просмотреть"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customer-activity.php:98 ../..
+#: /includes/screen/tables/class-wc-crm-table-customers.php:498 ../..
+#: /includes/screen/tables/class-wc-crm-table-activity.php:91
+msgid "Trash"
+msgstr "Корзина"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customers.php:25
+msgid "customer"
+msgstr "клиент"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customers.php:26
+msgid "customers"
+msgstr "Клиенты"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customers.php:76
+msgid "Customers not found."
+msgstr "Клиенты не найдены."
+
+#: ../../includes/screen/tables/class-wc-crm-table-customers.php:78
+msgid "Customers not found. Try to adjust the filter."
+msgstr "Клиенты не найдены. Попробуйте настроить фильтр."
+
+#: ../../includes/screen/tables/class-wc-crm-table-customers.php:118
+msgid "Contact Details"
+msgstr "Детали контакта"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customers.php:121 ../..
+#: /includes/admin/class-wc-crm-admin-setup-wizard.php:242 ../..
+#: /includes/admin/settings/wc-crm-settings-general.php:86
+msgid "Value"
+msgstr "Стоимость"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customers.php:124 ../..
+#: /includes/admin/settings/wc-crm-settings-newsletter.php:27
+msgid "Newsletter"
+msgstr "Рассылка"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customers.php:129
+msgid "Subscribed"
+msgstr "Подписались"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customers.php:173 ../..
+#: /includes/screen/tables/class-wc-crm-table-customers.php:239
+msgid "Restore"
+msgstr "Восстановить"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customers.php:178
+msgid "Export Contacts"
+msgstr "Экспортировать контакты"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customers.php:182
+#, php-format
+msgid "Mark as %s"
+msgstr "Пометить как %s"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customers.php:187
+#, php-format
+msgid "Add to %s"
+msgstr "Добавить к %s"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customers.php:189
+msgid "Move to trash"
+msgstr "Переместить в корзину"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customers.php:197
+#, php-format
+msgid "Select %s"
+msgstr "Выбрать %s"
+
+#. translators: %s: post title
+#: ../../includes/screen/tables/class-wc-crm-table-customers.php:238
+#, php-format
+msgid "Restore &#8220;%s&#8221; from the Trash"
+msgstr "Переместить &#8220;%s&#8221 из корзины"
+
+#. translators: %s: post title
+#: ../../includes/screen/tables/class-wc-crm-table-customers.php:245
+#, php-format
+msgid "Delete &#8220;%s&#8221; permanently"
+msgstr "Удалить &#8220;%s&#8221; навсегда"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customers.php:266
+#, php-format
+msgid "Email: %s"
+msgstr "Email: %s"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customers.php:289
+#, php-format
+msgid "%d order"
+msgid_plural "%d orders"
+msgstr[0] "%d заказ"
+msgstr[1] "%d заказы"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customers.php:344 ../..
+#: /includes/screen/tables/class-wc-crm-table-customers.php:348
+msgid "-"
+msgstr "-"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customers.php:361
+msgid "Edit Customer"
+msgstr "Редактировать клиента"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customers.php:369
+msgid "View Orders"
+msgstr "Просмотреть заказы"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customer-products-purchased.
+#: php:32
+msgid "product"
+msgstr "продукт"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customer-products-purchased.
+#: php:33
+msgid "products"
+msgstr "продукты"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customer-products-purchased.
+#: php:40
+msgid "No products data found."
+msgstr "Не найдено данных о продуктах."
+
+#: ../../includes/screen/tables/class-wc-crm-table-customer-products-purchased.
+#: php:99
+msgid "Image"
+msgstr "Изображение"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customer-products-purchased.
+#: php:101
+msgid "SKU"
+msgstr "артикул"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customer-products-purchased.
+#: php:102
+msgid "Stock"
+msgstr "Склад"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customer-products-purchased.
+#: php:103
+msgid "Price"
+msgstr "Цена"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customer-products-purchased.
+#: php:106
+msgid "Number Purchased"
+msgstr "Куплено"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customer-products-purchased.
+#: php:107
+msgid "Value of Purchases"
+msgstr "Число покупок"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customer-products-purchased.
+#: php:127 ../../includes/screen/tables/class-wc-crm-table-customer-orders.php:115
+msgid "Select"
+msgstr "Выбрать"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customer-status.php:24
+msgid "status"
+msgstr "статус"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customer-status.php:25
+msgid "statuses"
+msgstr "статусы"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customer-status.php:31
+msgid "No custom statuses have been found. Try to adjust the filter."
+msgstr "Не найдено пользовательских статусов. Попробуйте настроить фильтр."
+
+#: ../../includes/screen/tables/class-wc-crm-table-customer-status.php:55 ../..
+#: /includes/admin/settings/wc-crm-settings-statuses.php:70 ../..
+#: /includes/admin/settings/wc-crm-settings-statuses.php:123
+msgid "Icon"
+msgstr "Иконка"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customer-orders.php:31
+msgid "order"
+msgstr "заказ"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customer-orders.php:32
+msgid "orders"
+msgstr "заказы"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customer-orders.php:41
+msgid "No orders data found."
+msgstr "Не найдено данных о заказах."
+
+#: ../../includes/screen/tables/class-wc-crm-table-customer-orders.php:75 ../..
+#: /includes/screen/tables/class-wc-crm-table-customer-orders.php:75 ../..
+#: /includes/admin/class-wc-crm-admin-post-types.php:332 ../..
+#: /includes/admin/class-wc-crm-admin-post-types.php:332
+msgid "Status"
+msgstr "Статус"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customer-orders.php:76
+msgid "Order"
+msgstr "Заказ"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customer-orders.php:77
+msgid "Purchased"
+msgstr "Куплено"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customer-orders.php:78
+msgid "Ship to"
+msgstr "Доставка"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customer-orders.php:79
+msgid "Customer Message"
+msgstr "Сообщение клиента"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customer-orders.php:81
+msgid "Total"
+msgstr "Итого"
+
+#: ../../includes/screen/tables/class-wc-crm-table-groups.php:22
+msgid "groups_table"
+msgstr "таблица групп"
+
+#: ../../includes/screen/tables/class-wc-crm-table-groups.php:23
+msgid "groups_tables"
+msgstr "таблицы групп"
+
+#: ../../includes/screen/tables/class-wc-crm-table-groups.php:46
+msgid "Groups not found. Try to adjust the filter."
+msgstr "Группы не найдены. Попробуйте настроить фильтр."
+
+#: ../../includes/screen/tables/class-wc-crm-table-groups.php:73
+msgid "Terms"
+msgstr "Условия"
+
+#: ../../includes/screen/tables/class-wc-crm-table-groups.php:107 ../..
+#: /includes/screen/tables/class-wc-crm-table-groups.php:107
+msgid "View Customers in Group"
+msgstr "Просмотреть клиентов в группе"
+
+#: ../../includes/screen/tables/class-wc-crm-table-groups.php:130
+#, php-format
+msgid "Customer status is %s"
+msgstr "Статус клиента %s"
+
+#: ../../includes/screen/tables/class-wc-crm-table-groups.php:142
+#, php-format
+msgid "Product category is %s"
+msgstr "Категория продукта %s"
+
+#: ../../includes/screen/tables/class-wc-crm-table-groups.php:155
+#, php-format
+msgid "Order status is %s"
+msgstr "Статус заказа %s"
+
+#: ../../includes/screen/tables/class-wc-crm-table-customer-tasks.php:38 ../..
+#: /includes/screen/tables/class-wc-crm-table-customer-calls.php:38
+#, php-format
+msgid "Edit &#8220;%s&#8221;"
+msgstr "Редактировать &#8220;%s&#8221;"
+
+#: ../../includes/screen/class-wc-crm-screen-customers-list.php:39
+msgid "Search"
+msgstr "Поиск"
+
+#: ../../includes/screen/class-wc-crm-screen-customers-list.php:41
+msgid "Search Customers"
+msgstr "Поиск клиентов"
+
+#. page title
+#: ../../includes/screen/class-wc-crm-screen-customers-list.php:68 ../..
+#: /includes/admin/class-wc-crm-admin-post-types.php:222 ../..
+#: /includes/admin/class-wc-crm-admin-menus.php:43 ../../includes/admin/class-wc-
+#: crm-admin-menus.php:44 ../../includes/admin/class-wc-crm-admin-menus.php:123
+msgid "Customers"
+msgstr "Клиенты"
+
+#: ../../includes/screen/class-wc-crm-screen-customers-list.php:80
+msgid "Customers group "
+msgstr "Группа клиентов"
+
+#: ../../includes/screen/class-wc-crm-screen-customers-list.php:86 ../..
+#: /includes/admin/class-wc-crm-admin-setup-wizard.php:406
+msgid "Update Customers"
+msgstr "Обновить данные клиентов"
+
+#: ../../includes/class-wc-crm-ajax.php:98
+#, php-format
+msgid "(ID %s)<br />%s"
+msgstr "(ID %s)<br />%s"
+
+#: ../../includes/class-wc-crm-ajax.php:352 ../../includes/admin/class-wc-crm-
+#: admin-orders-page.php:164
+#, php-format
+msgctxt "Order number by X"
+msgid "%s by %s"
+msgstr "%s %s"
+
+#: ../../includes/task-functions.php:13
+msgctxt "Task status"
+msgid "Not Started"
+msgstr "Не начата"
+
+#: ../../includes/task-functions.php:14
+msgctxt "Task status"
+msgid "Deferred"
+msgstr "Отложена"
+
+#: ../../includes/task-functions.php:15
+msgctxt "Task status"
+msgid "In Progress"
+msgstr "Выполняется"
+
+#: ../../includes/task-functions.php:16
+msgctxt "Task status"
+msgid "Completed"
+msgstr "Завершена"
+
+#: ../../includes/task-functions.php:17
+msgctxt "Task status"
+msgid "Waiting"
+msgstr "Ожидание"
+
+#: ../../includes/task-functions.php:31
+msgctxt "Task priority"
+msgid "Normal"
+msgstr "Нормальный"
+
+#: ../../includes/task-functions.php:32
+msgctxt "Task priority"
+msgid "Highest"
+msgstr "Самый высокий"
+
+#: ../../includes/task-functions.php:33
+msgctxt "Task priority"
+msgid "High"
+msgstr "Высокий"
+
+#: ../../includes/task-functions.php:34
+msgctxt "Task priority"
+msgid "Low"
+msgstr "Низкий"
+
+#: ../../includes/task-functions.php:35
+msgctxt "Task priority"
+msgid "Lowest"
+msgstr "Самый низкий"
+
+#: ../../includes/class-wc-crm-accounts.php:140
+msgid "Ticker symbol"
+msgstr "Символ маятника"
+
+#: ../../includes/class-wc-crm-accounts.php:144 ../../includes/admin/class-wc-crm-
+#: admin-post-types.php:321
+msgid "Account Type"
+msgstr "Тип аккаунта"
+
+#: ../../includes/class-wc-crm-accounts.php:151 ../../includes/admin/class-wc-crm-
+#: admin-post-types.php:322
+msgid "Ownership"
+msgstr "Владение"
+
+#: ../../includes/class-wc-crm-accounts.php:164
+msgid "Select an Industry"
+msgstr "Выбрать сферу деятельности"
+
+#: ../../includes/class-wc-crm-accounts.php:169
+msgid "Employees"
+msgstr "Сотрудники"
+
+#: ../../includes/class-wc-crm-accounts.php:178
+msgid "Annual Revenue"
+msgstr "Ежегодный доход"
+
+#: ../../includes/class-wc-crm-accounts.php:187
+msgid "SIC code"
+msgstr "Код отрасли"
+
+#: ../../includes/class-wc-crm-accounts.php:210
+msgid "Account Details"
+msgstr "Детали аккаунта"
+
+#: ../../includes/class-wc-crm-accounts.php:213
+msgid "Account number"
+msgstr "Номер аккаунта"
+
+#: ../../includes/class-wc-crm-accounts.php:230
+msgid "Account owner"
+msgstr "Владелец аккаунта"
+
+#: ../../includes/class-wc-crm-accounts.php:373
+msgid "Save Account"
+msgstr "Сохранить аккаунт"
+
+#: ../../includes/class-wc-crm-accounts.php:402
+#, php-format
+msgid "added on %1$s at %2$s"
+msgstr "добавлен %1$s в %2$s"
+
+#: ../../includes/class-wc-crm-accounts.php:423
+msgid "Private note"
+msgstr "Приватная заметка"
+
+#: ../../includes/admin/class-wc-crm-admin-notices-v-2.5.5.php:77 ../..
+#: /includes/admin/class-wc-crm-admin-settings.php:49 ../../includes/admin/class-
+#: wc-crm-admin-notices.php:77
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Действие не было выполнено. Обновите страницу и повторите попытку."
+
+#: ../../includes/admin/views/html-notice-update.php:12
+msgid ""
+"<strong>WooCommerce CRM Data Update Required</strong> &#8211; We just need "
+"to update your install to the latest version"
+msgstr ""
+"<strong>Необходимо обновление WooCommerce CRM</strong> &#8211; Нам нужно "
+"обновить вашу версию до последней"
+
+#: ../../includes/admin/views/html-notice-update.php:13
+msgid "Run the updater"
+msgstr "Запустить обновление"
+
+#: ../../includes/admin/views/html-notice-update.php:17
+msgid ""
+"It is strongly recommended that you backup your database before proceeding. "
+"Are you sure you wish to run the updater now?"
+msgstr ""
+"Прежде чем продолжить, настоятельно рекомендуем сделать резервную копию "
+"вашей базы данных. Вы уверены, что хотите запустить обновление сейчас?"
+
+#: ../../includes/admin/views/html-admin-settings.php:22
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+#: ../../includes/admin/views/html-about-news.php:17
+msgid ""
+"To cater for bigger databases, we've optimised the performance of the plugin "
+"when handling larger records and number of customers."
+msgstr ""
+"Для работы с большими базами данных мы оптимизировали обработку плагином "
+"больших объемов данных и большого числа клиентов.."
+
+#: ../../includes/admin/views/html-about-news.php:20 ../../includes/admin/class-
+#: wc-crm-admin-setup-wizard.php:322 ../../includes/admin/settings/wc-crm-
+#: settings-general.php:147
+msgid "Guest Customers"
+msgstr "клиенты-Гости"
+
+#: ../../includes/admin/views/html-about-news.php:21
+msgid ""
+"You can now edit Guest customers and add more information to their records, "
+"including information entered from Advanced Custom Fields."
+msgstr ""
+"Вы можете отредактировать информацию о клиентах-Гостях и добавить больше "
+"информации в их профили, включая информацию, введенную в Расширенные "
+"пользовательские поля."
+
+#: ../../includes/admin/views/html-about-news.php:24
+msgid "Redesigned Logging"
+msgstr "Редизайн страниц для записей"
+
+#: ../../includes/admin/views/html-about-news.php:25
+msgid ""
+"We have redesigned the logging pages for email and phone calls, following "
+"the standard ecosystem which WooCommerce uses."
+msgstr ""
+"Мы сделали редизайн страниц для записей email-адресов и телефонных звонков "
+"вслед за обновлением стандартной платформы WooCommerce."
+
+#: ../../includes/admin/views/html-notice-install.php:11
+msgid ""
+"<strong>Welcome to WooCommerce Customer Relationship Manager</strong> &#8211;"
+" You&lsquo;re almost ready to start"
+msgstr ""
+"<strong>Добро пожаловать в менджер по работе с клиентами "
+"WooCommerce</strong> &#8211; Вы&lsquo; почти готовы начать"
+
+#: ../../includes/admin/views/html-notice-install.php:12
+msgid "Run the Setup Wizard"
+msgstr "Запустить мастер установки"
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:74
+msgid "This is where Accounts are stored."
+msgstr "Здесь хранятся аккаунты."
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:77
+msgid "Account"
+msgstr "Аккаунт"
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:78 ../..
+#: /includes/admin/class-wc-crm-admin-menus.php:72 ../../includes/admin/class-wc-
+#: crm-admin-menus.php:73
+msgid "Accounts"
+msgstr "Акккаунты"
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:84
+msgid "Task"
+msgstr "Задача"
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:91
+msgid "Call"
+msgstr "Звонок"
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:113 ../..
+#: /includes/admin/class-wc-crm-admin-menus.php:55
+msgid "Add New"
+msgstr "Добавить нового"
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:114
+#, php-format
+msgid "Add New %s"
+msgstr "Добавить новый %s"
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:115
+#, php-format
+msgid "Edit %s"
+msgstr "Редактировать %s"
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:116
+#, php-format
+msgid "New %s"
+msgstr "Новый %s"
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:117
+#, php-format
+msgid "All %s"
+msgstr "Все %s"
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:118
+#, php-format
+msgid "View %s"
+msgstr "Просмотреть %s"
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:119
+#, php-format
+msgid "Search %s"
+msgstr "Поиск %s"
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:120
+#, php-format
+msgid "No %s Found"
+msgstr "%s не найдены"
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:121
+#, php-format
+msgid "No %s Found In Trash"
+msgstr "%s не найдены в корзине"
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:122
+#, php-format
+msgid "Parent %s"
+msgstr "Родительский %s"
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:160 ../..
+#: /includes/admin/class-wc-crm-admin-post-types.php:163
+msgid "Account updated."
+msgstr "Аккаунт обновлен."
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:161 ../..
+#: /includes/admin/class-wc-crm-admin-post-types.php:175 ../..
+#: /includes/admin/class-wc-crm-admin-post-types.php:189
+msgid "Custom field updated."
+msgstr "Пользовательское поле обновлено."
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:162 ../..
+#: /includes/admin/class-wc-crm-admin-post-types.php:176 ../..
+#: /includes/admin/class-wc-crm-admin-post-types.php:190
+msgid "Custom field deleted."
+msgstr "Пользовательское поле удалено."
+
+#. translators: %s: date and time of the revision
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:165
+#, php-format
+msgid "Account restored to revision from %s"
+msgstr "Аккаунт восстановлен для пересмотра %s"
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:166
+msgid "Account published."
+msgstr "Аккаунт размещен."
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:167
+msgid "Account saved."
+msgstr "Аккаунт сохранен."
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:168
+msgid "Account submitted."
+msgstr "Аккаунт отправлен."
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:174 ../..
+#: /includes/admin/class-wc-crm-admin-post-types.php:177
+msgid "Task updated."
+msgstr "Задача обновлена."
+
+#. translators: %s: date and time of the revision
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:179
+#, php-format
+msgid "Task restored to revision from %s"
+msgstr "Задача восстановлена для пересмотра %s"
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:180
+msgid "Task created."
+msgstr "Задача создана."
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:181
+msgid "Task saved."
+msgstr "Задача сохранена."
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:182
+msgid "Task submitted."
+msgstr "Задача отправлена."
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:188 ../..
+#: /includes/admin/class-wc-crm-admin-post-types.php:191
+msgid "Call updated."
+msgstr "Звонок обновлен."
+
+#. translators: %s: date and time of the revision
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:193
+#, php-format
+msgid "Call restored to revision from %s"
+msgstr "Звонок сохранен для пересмотра %s"
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:194
+msgid "Call created."
+msgstr "Звонок создан."
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:195
+msgid "Call saved."
+msgstr "Звонов сохранен."
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:196
+msgid "Call submitted."
+msgstr "Звонок отправлен."
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:221
+msgid "Account Data"
+msgstr "Данные аккаунта"
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:223
+msgid "Account Actions"
+msgstr "Действия в аккаунте"
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:224
+msgid "Account Notes"
+msgstr "Заметки аккаунта"
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:226
+msgid "Task Data"
+msgstr "Данные задачи"
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:227
+msgid "Task Description"
+msgstr "Описание задачи"
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:228
+msgid "Task Actions"
+msgstr "Действия в задаче"
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:230
+msgid "Call Actions"
+msgstr "Действия в звонке"
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:231
+msgid "Call Data"
+msgstr "Данные звонка"
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:239
+msgid "Enter subject here"
+msgstr "Введите тему здесь"
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:320
+msgid "Account Owner"
+msgstr "Владелец аккаунта"
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:331
+msgid "Due Date"
+msgstr "Выполнить до"
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:333 ../..
+#: /includes/admin/class-wc-crm-admin-post-types.php:333
+msgid "Priority"
+msgstr "Приоритет"
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:335 ../..
+#: /includes/admin/class-wc-crm-admin-post-types.php:348
+msgid "Owner"
+msgstr "Владелец"
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:345 ../..
+#: /includes/admin/class-wc-crm-admin-post-types.php:345
+msgid "Duration"
+msgstr "Продолжительность"
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:347
+msgid "Related To"
+msgstr "Относится к"
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:484
+msgid "Y/m/d g:i:s a"
+msgstr "Y/m/d g:i:s a"
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:569
+#, php-format
+msgid "This is a recurring task that repeats every days from %s to %s."
+msgstr "Это повторяющаяся задача, которая повторяется каждые от %s до %s дней"
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:571
+#, php-format
+msgid "This is a recurring task that repeats every %s day(s) from %s to %s."
+msgstr "Это повторяющаяся задача, которая повторяется каждые %s дней с %s до %s."
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:584
+#, php-format
+msgid ""
+"This is a recurring task that repeats on %s from %s to %s for every %s "
+"week(s)."
+msgstr "Это повторяющаяся задача, которая повторяется %s с %s до %s каждые %s недель."
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:592
+#, php-format
+msgid ""
+"This is a recurring task that repeats on day %s of every %s month(s) from %s "
+"to %s."
+msgstr ""
+"Это повторяющаяся задача, которая повторяется на %s день каждого %s месяца с "
+"%s по %s ."
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:598
+#, php-format
+msgid ""
+"This is a recurring task that repeats on the %s %s of every %s months(s) "
+"from %s to %s."
+msgstr ""
+"Это повторяющаяся задача, которая повторяется %s %s каждого %s месяца с %s "
+"по %s ."
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:607
+#, php-format
+msgid "This is a recurring task that repeats every year on %d %s from %s to %s."
+msgstr "Это повторяющаяся задача, которая повторяется ежегодно %d %s с %s по %s ."
+
+#: ../../includes/admin/class-wc-crm-admin-post-types.php:613
+#, php-format
+msgid ""
+"This is a recurring task that repeats every year on the %s %s of %s from %s "
+"to %s"
+msgstr "Это повторяющаяся задача, которая повторяется ежегодно %s %s  %s с %s по %s "
+
+#: ../../includes/admin/class-wc-crm-admin-menus.php:96 ../..
+#: /includes/admin/class-wc-crm-admin-menus.php:97 ../../includes/admin/class-wc-
+#: crm-admin-menus.php:150
+msgid "Groups"
+msgstr "Группы"
+
+#: ../../includes/admin/class-wc-crm-admin-menus.php:136
+msgid "Log Records"
+msgstr "Записи логов"
+
+#: ../../includes/admin/class-wc-crm-admin-orders-page.php:170
+msgid "Show more details"
+msgstr "Показать больше деталей"
+
+#: ../../includes/admin/class-wc-crm-admin-settings.php:56
+msgid "Your settings have been saved."
+msgstr "Ваши настройки сохранены."
+
+#: ../../includes/admin/class-wc-crm-admin-settings.php:112
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr "Внесенные изменения будут потеряны, если вы покинете страницу."
+
+#: ../../includes/admin/class-wc-crm-admin-welcome.php:35
+msgid "About WooCommerce Customer Relationship Manager"
+msgstr "О менеджере по работе с клиентами WooCommerce"
+
+#: ../../includes/admin/class-wc-crm-admin-welcome.php:36
+msgid "Welcome to WooCommerce Customer Relationship Manager"
+msgstr "Добро пожаловать в менеджер по работе с клиентами WooCommerce"
+
+#: ../../includes/admin/class-wc-crm-admin-welcome.php:63
+#, php-format
+msgid "Welcome to WooCommerce CRM %s"
+msgstr " %s, добро пожаловать в менеджер по работе с клиентами WooCommerce"
+
+#: ../../includes/admin/class-wc-crm-admin-welcome.php:68
+msgid "Thanks, all done!"
+msgstr "Благодарим, все готово!"
+
+#: ../../includes/admin/class-wc-crm-admin-welcome.php:70
+msgid "Thank you for updating to the latest version!"
+msgstr "Благодарим за обновление до последней версии!"
+
+#: ../../includes/admin/class-wc-crm-admin-welcome.php:72
+msgid "Thanks for installing!"
+msgstr "Благодарим за установку!"
+
+#: ../../includes/admin/class-wc-crm-admin-welcome.php:75
+#, php-format
+msgid ""
+"%s WooCommerce Customer Relationship Manager %s is more powerful, stable and "
+"secure than ever before. We hope you enjoy using it."
+msgstr ""
+"%s, менеджер по работе с клиентами WooCommerce теперь еще мощнее, стабильнее "
+"и надежнее, чем когда либо. Надеемся, вам он понравится."
+
+#: ../../includes/admin/class-wc-crm-admin-welcome.php:79
+#, php-format
+msgid "Version %s"
+msgstr "Версия %s"
+
+#: ../../includes/admin/class-wc-crm-admin-welcome.php:98
+msgid "Go to WooCommerce Customer Relationship Manager Settings"
+msgstr "Перейдите в настройки менеджера по работе с клиентами WooCommerce"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:55
+msgid "Introduction"
+msgstr "Введение"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:60 ../..
+#: /includes/admin/class-wc-crm-admin-setup-wizard.php:225 ../..
+#: /includes/admin/settings/wc-crm-settings-general.php:70
+msgid "General Options"
+msgstr "Общие настройки"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:65 ../..
+#: /includes/admin/class-wc-crm-admin-setup-wizard.php:300 ../..
+#: /includes/admin/settings/wc-crm-settings-general.php:137
+msgid "Fetch Customers"
+msgstr "Найти клиентов"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:70 ../..
+#: /includes/admin/class-wc-crm-admin-setup-wizard.php:371
+msgid "Load Customers"
+msgstr "Загрузить клиентов"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:75
+msgid "Finished!"
+msgstr "Готово!"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:87
+msgctxt "enhanced select"
+msgid "One result is available, press enter to select it."
+msgstr "Доступен один результат, нажмите enter для его выбора."
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:88
+msgctxt "enhanced select"
+msgid "%qty% results are available, use up and down arrow keys to navigate."
+msgstr "Доступно %qty% результатов, используйте кнопки Вверх и Вниз для навигации."
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:89
+msgctxt "enhanced select"
+msgid "No matches found"
+msgstr "Совпадения не найдены."
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:90
+msgctxt "enhanced select"
+msgid "Loading failed"
+msgstr "Загрузка не удалась"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:91
+msgctxt "enhanced select"
+msgid "Please enter 1 or more characters"
+msgstr "Введите 1 или более символов"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:92
+#, php-format
+msgctxt "enhanced select"
+msgid "Please enter %qty% or more characters"
+msgstr "Введите %qty% или более символов"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:93
+msgctxt "enhanced select"
+msgid "Please delete 1 character"
+msgstr "Удалите 1 символ"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:94
+#, php-format
+msgctxt "enhanced select"
+msgid "Please delete %qty% characters"
+msgstr "Удалите %qty% символов"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:95
+msgctxt "enhanced select"
+msgid "You can only select 1 item"
+msgstr "Вы можете выбрать только один пункт"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:96
+#, php-format
+msgctxt "enhanced select"
+msgid "You can only select %qty% items"
+msgstr "Вы можете выбрать только %qty% пунктов"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:97
+msgctxt "enhanced select"
+msgid "Loading more results&hellip;"
+msgstr "Загрузка результатов&hellip;"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:98
+msgctxt "enhanced select"
+msgid "Searching&hellip;"
+msgstr "Поиск&hellip;"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:145
+msgid "WooCommerce &rsaquo; Setup Wizard"
+msgstr "WooCommerce &rsaquo; Мастер установки"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:163
+msgid "Return to the WordPress Dashboard"
+msgstr "Вернуться в личный кабинет WordPress"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:205
+msgid "Welcome to WooCommerce Customer Relationship Manager!"
+msgstr "Добро пожаловать в менеджер по работе с клиентами WooCommerce!"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:206
+msgid ""
+"Thank you for choosing WooCommerce Customer Relationship Manager to manage "
+"your customers! This quick setup wizard will help you configure the basic "
+"settings."
+msgstr ""
+"Благодарим, что выбрали менеджер по работе с клиентами WooCommerce! Мастер "
+"установки поможет вам выполнить базовые настройки."
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:207
+msgid ""
+"No time right now? If you don’t want to go through the wizard, you can skip "
+"and return to the WordPress dashboard. Come back anytime if you change your "
+"mind!"
+msgstr ""
+"Сейчас нет времени? Если вы не хотите запускать мастер установки, можете "
+"вернуться в личный кабинет WordPress. Вы можете вернуться в любой момент!"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:209
+msgid "Let's Go!"
+msgstr "Поехали!"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:210
+msgid "Not right now"
+msgstr "Не сейчас"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:229 ../..
+#: /includes/admin/settings/wc-crm-settings-general.php:72
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:232 ../..
+#: /includes/admin/settings/wc-crm-settings-general.php:78
+msgid "First & last name e.g. johnsmith"
+msgstr "Имя и фамилия, например иваниванов"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:233 ../..
+#: /includes/admin/settings/wc-crm-settings-general.php:79
+msgid "Hyphen separated e.g. john-smith"
+msgstr "Через дефис, например, иван-иванов"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:234 ../..
+#: /includes/admin/settings/wc-crm-settings-general.php:80
+msgid "Email address"
+msgstr "Элекстронный адрес"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:237 ../..
+#: /includes/admin/settings/wc-crm-settings-general.php:73
+msgid "Choose what the username is when customers are added."
+msgstr "Выберите имя пользователя при добавлении клиентов."
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:244
+msgid "Choose a statuses&hellip;"
+msgstr "Выберите статусы..."
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:245
+msgid "Choose a status&hellip;"
+msgstr "Выберите статус..."
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:253 ../..
+#: /includes/admin/settings/wc-crm-settings-general.php:87
+msgid ""
+"Choose which statuses the customer orders must be before appearing in the "
+"Value column."
+msgstr ""
+"Выберите, какой статус должны иметь заказы перед появлением в колонке "
+"Стоимость."
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:258 ../..
+#: /includes/admin/settings/wc-crm-settings-general.php:107
+msgid "Automatic Emails"
+msgstr "Автоматические электронные письма"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:261 ../..
+#: /includes/admin/settings/wc-crm-settings-general.php:108
+msgid ""
+"Check this box to send an email with username and password when creating a "
+"new customer."
+msgstr ""
+"Отметьте галочкой для отправления электронного письма с именем пользователя "
+"и паролем при создании нового клиента."
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:266 ../..
+#: /includes/admin/class-wc-crm-admin-setup-wizard.php:344 ../..
+#: /includes/admin/class-wc-crm-admin-setup-wizard.php:396
+msgid "Continue"
+msgstr "Продолжить"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:302 ../..
+#: /includes/admin/settings/wc-crm-settings-general.php:137
+msgid ""
+"The following options affects how the customers in the customers table "
+"should be fetched."
+msgstr ""
+"Следующие настройки влияют на то, как происходит выбор клиентов из таблицы "
+"клиентов."
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:306 ../..
+#: /includes/admin/settings/wc-crm-settings-general.php:51 ../..
+#: /includes/admin/settings/wc-crm-settings-general.php:139
+msgid "User Roles"
+msgstr "Роли пользователя"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:308
+msgid "Choose a roles&hellip;"
+msgstr "Выберите роли..."
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:309
+msgid "Choose a role&hellip;"
+msgstr "Выберите роль..."
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:317
+msgid ""
+"Choose which User Roles of the customers/users that will be shown in the "
+"customers table."
+msgstr ""
+"Выберите, какие роли клиентов/пользователей будут показываться в таблице "
+"клиентов."
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:325
+msgid "Select whether Guest customers appear on the customers table."
+msgstr "Выберите, будут ли клиенты-Гости показываться в таблице клиентов."
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:329 ../..
+#: /includes/admin/settings/wc-crm-settings-general.php:155
+msgid "Customer Name Format"
+msgstr "Формат имени клиента"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:332 ../..
+#: /includes/admin/settings/wc-crm-settings-general.php:162
+msgid "First Last"
+msgstr "Имя Фамилия"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:333 ../..
+#: /includes/admin/settings/wc-crm-settings-general.php:163
+msgid "Last, First"
+msgstr "Фамилия, Имя"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:336 ../..
+#: /includes/admin/settings/wc-crm-settings-general.php:156
+msgid "Choose the format of the names displayed on the Customers page."
+msgstr "Выберите формат имен, отображаемый на странице с клиентами."
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:372 ../..
+#: /includes/admin/class-wc-crm-admin-setup-wizard.php:407
+msgid ""
+"Please be patient while the customers are loaded. You will be notified via "
+"this page when the loading is completed."
+msgstr ""
+"Подождите, пока не загрузятся данные о клиентах. На этой странице появится "
+"уведомление, когда загрузка будет завершена."
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:377 ../..
+#: /includes/admin/class-wc-crm-admin-setup-wizard.php:412
+msgid "Advanced Options"
+msgstr "Расширенные настройки"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:381 ../..
+#: /includes/admin/class-wc-crm-admin-setup-wizard.php:416
+msgid "Offset"
+msgstr "Начало"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:387 ../..
+#: /includes/admin/class-wc-crm-admin-setup-wizard.php:422
+msgid "Limit"
+msgstr "Лимит"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:395 ../..
+#: /includes/admin/class-wc-crm-admin-setup-wizard.php:431
+msgid "Start load"
+msgstr "Начать загрузку"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:432
+msgid "Return to the customers list"
+msgstr "Вернуться к списку клиентов"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:455
+msgid "WooCommerce CRM is Ready!"
+msgstr "Менеджер по работе с клиентами WooCommerce готов к работе!"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:459
+msgid "Next Steps"
+msgstr "Следующие шаги"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:461
+msgid "View your customers!"
+msgstr "Просмотрите ваших клиентов!"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:465
+msgid "Learn More"
+msgstr "Узнать больше"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:467
+msgid "Subscribe to our newlsetter"
+msgstr "Подпишитесь на нашу рассылку"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:468
+msgid "Read more about getting started"
+msgstr "Прочитайте больше о начале работы с менеджером"
+
+#: ../../includes/admin/class-wc-crm-admin-setup-wizard.php:469
+msgid "Explore our other powerful extensions"
+msgstr "Ознакомьтесь с нашими другими мощными расширегиями"
+
+#: ../../includes/admin/class-wc-crm-admin-acf.php:139
+msgid "All"
+msgstr "Все"
+
+#: ../../includes/admin/class-wc-crm-admin-post-actions.php:94
+#, php-format
+msgid "%s customer moved to the Trash."
+msgid_plural "%s customers moved to the Trash."
+msgstr[0] "Клиент %s перемещен в корзину"
+msgstr[1] "Клиенты %s перемещены в корзину"
+
+#: ../../includes/admin/class-wc-crm-admin-post-actions.php:98
+#, php-format
+msgid "%s customer restored from the Trash."
+msgid_plural "%s customers restored from the Trash."
+msgstr[0] "Клиент %s восстановлен из корзины"
+msgstr[1] "Клиенты %s восстановлены из корзины"
+
+#: ../../includes/admin/class-wc-crm-admin-post-actions.php:102
+#, php-format
+msgid "%s customer permanently deleted."
+msgid_plural "%s customers permanently deleted."
+msgstr[0] "Клиент %s удален навсегда"
+msgstr[1] "Клиенты %s удалены навсегда"
+
+#: ../../includes/admin/class-wc-crm-admin-post-actions.php:423
+msgid "Customer status updated."
+msgstr "Статус клиента обновлен."
+
+#: ../../includes/admin/class-wc-crm-admin-post-actions.php:433
+#, php-format
+msgid "%d customer added to the group."
+msgid_plural "%d customers added to the group."
+msgstr[0] "Клиент %d добавлен в группу"
+msgstr[1] "Клиенты %d добавлены в группу"
+
+#: ../../includes/admin/class-wc-crm-admin-post-actions.php:476 ../..
+#: /includes/admin/class-wc-crm-admin-post-actions.php:491
+#, php-format
+msgid "%d post permanently deleted."
+msgid_plural "%d posts permanently deleted."
+msgstr[0] "Пост %d удален навсегда."
+msgstr[1] "Посты %d удалены навсегда."
+
+#: ../../includes/admin/class-wc-crm-admin-post-actions.php:506
+#, php-format
+msgid "%d post restored from the Trash."
+msgid_plural "%d posts restored from the Trash."
+msgstr[0] "Пост %d восстановлен из корзины."
+msgstr[1] "Посты %d восстановлены из корзины."
+
+#: ../../includes/admin/class-wc-crm-admin-post-actions.php:525
+#, php-format
+msgid "%d post moved to the Trash."
+msgid_plural "%d posts moved to the Trash."
+msgstr[0] "Пост %d перемещен в корзину."
+msgstr[1] "Посты %d перемещены в корзину."
+
+#: ../../includes/admin/emails/class-wc-crm-email-task-notification.php:27
+msgid "Task notification"
+msgstr "Уведомление о задаче"
+
+#: ../../includes/admin/emails/class-wc-crm-email-task-notification.php:28
+msgid "This is an task notification sent to task owner."
+msgstr "Это уведомление о задаче, отправляемое получателю задачи."
+
+#: ../../includes/admin/emails/class-wc-crm-email-task-notification.php:29
+msgid "Task assignment"
+msgstr "Задача"
+
+#: ../../includes/admin/emails/class-wc-crm-email-task-notification.php:30
+msgid "You have a new task {task_subject}"
+msgstr "У вас новая задача"
+
+#: ../../includes/admin/emails/class-wc-crm-email-task-notification.php:102
+msgid "Task owner"
+msgstr "Получатель задачи"
+
+#: ../../includes/admin/settings/wc-crm-settings-newsletter.php:55
+msgid "MailChimp Integration"
+msgstr "Интеграция MailChimp"
+
+#: ../../includes/admin/settings/wc-crm-settings-newsletter.php:58
+msgid "Integrate with MailChimp"
+msgstr "Интегрировать MailChimp"
+
+#: ../../includes/admin/settings/wc-crm-settings-newsletter.php:59
+msgid ""
+"Specify whether to integrate Customer Relationship Manager with MailChimp to "
+"see which customers signed to the newsletter."
+msgstr ""
+"Укажите, нужно ли интегрировать MailChimp в менеджер по работе с клиентами, "
+"чтобы вы могли видеть, какие из клиентов подписались на рассылку."
+
+#: ../../includes/admin/settings/wc-crm-settings-newsletter.php:68
+msgid "MailChimp API Key"
+msgstr "API-ключ MailChimp"
+
+#: ../../includes/admin/settings/wc-crm-settings-newsletter.php:69
+msgid ""
+"You can obtain your API key by <a href=\"https://us2.admin.mailchimp."
+"com/account/api/\">logging in to your MailChimp account</a>."
+msgstr ""
+"Вы можете получить свой ключ API, <a href=\"https://us2.admin.mailchimp."
+"com/account/api/\">войдя в свой аккаунт MailChimp</a>."
+
+#: ../../includes/admin/settings/wc-crm-settings-newsletter.php:79
+msgid "MailChimp List"
+msgstr "Список MailChimp"
+
+#: ../../includes/admin/settings/wc-crm-settings-newsletter.php:80
+msgid "Choose a list customers can subscribe to (you must save your API key first)."
+msgstr ""
+"Выберите список, на который клиенты могут подписаться (сначала вам нужно "
+"сохранить ваш ключ API)."
+
+#: ../../includes/admin/settings/wc-crm-settings-general.php:27
+msgid "General"
+msgstr "Общие"
+
+#: ../../includes/admin/settings/wc-crm-settings-general.php:45
+msgid "Filters"
+msgstr "Фильтры"
+
+#: ../../includes/admin/settings/wc-crm-settings-general.php:53
+msgid "State"
+msgstr "Штат"
+
+#: ../../includes/admin/settings/wc-crm-settings-general.php:56
+msgid "Customer Name"
+msgstr "Имя клиента"
+
+#: ../../includes/admin/settings/wc-crm-settings-general.php:57
+msgid "Products"
+msgstr "Продукты"
+
+#: ../../includes/admin/settings/wc-crm-settings-general.php:58
+msgid "Products Variations"
+msgstr "Вариации продуктов"
+
+#: ../../includes/admin/settings/wc-crm-settings-general.php:61
+msgid "Product Categories"
+msgstr "Категории продуктов"
+
+#: ../../includes/admin/settings/wc-crm-settings-general.php:67
+msgid "Product Brands"
+msgstr "Бренды продуктов"
+
+#: ../../includes/admin/settings/wc-crm-settings-general.php:94
+msgid "Customer Link"
+msgstr "Ссылка на клиента"
+
+#: ../../includes/admin/settings/wc-crm-settings-general.php:95
+msgid ""
+"Choose what the link of the customer is on the Orders page, customer or user "
+"profile."
+msgstr ""
+"Выберите, какой будет ссылка клиента на странице Заказов, на страницу "
+"клиента или на страницу профиля пользователя."
+
+#: ../../includes/admin/settings/wc-crm-settings-general.php:102
+msgid "Customer "
+msgstr "Клиент"
+
+#: ../../includes/admin/settings/wc-crm-settings-general.php:103
+msgid "User profile"
+msgstr "Профиль пользователя"
+
+#: ../../includes/admin/settings/wc-crm-settings-general.php:117
+msgid "Subscribers"
+msgstr "Подписчики"
+
+#: ../../includes/admin/settings/wc-crm-settings-general.php:118
+msgid ""
+"Check this box to show column indicating whether customer is an active "
+"subscriber."
+msgstr ""
+"Отметьте галочкой, чтобы показывалась колонка, указывающая, является ли "
+"клиент активным подписчиком."
+
+#: ../../includes/admin/settings/wc-crm-settings-general.php:127
+msgid "Groups Integration"
+msgstr "Интеграция групп"
+
+#: ../../includes/admin/settings/wc-crm-settings-general.php:128
+msgid ""
+"Check this box to show column indicating which group is the customer a "
+"member of."
+msgstr ""
+"Отметьте галочкой, чтобы показывалась колонка, указывающая, к каким группам "
+"принадлежит клиент."
+
+#: ../../includes/admin/settings/wc-crm-settings-general.php:167
+msgid "Default Status"
+msgstr "Статус по умолчанию"
+
+#: ../../includes/admin/settings/wc-crm-settings-general.php:167
+msgid ""
+"The following options determine the default status for the customers when "
+"added to this site."
+msgstr ""
+"Следующие настройки определяют статус по умолчанию для клиентов при их "
+"добавлении на этот сайт."
+
+#: ../../includes/admin/settings/wc-crm-settings-general.php:169
+msgid "Manually Added"
+msgstr "Добавлять вручную"
+
+#: ../../includes/admin/settings/wc-crm-settings-general.php:170
+msgid "Added manually via this plugin."
+msgstr "Добавлять вручную через этот плагин."
+
+#: ../../includes/admin/settings/wc-crm-settings-general.php:178
+msgid "Purchased Customers"
+msgstr "Купленные клиенты"
+
+#: ../../includes/admin/settings/wc-crm-settings-general.php:179
+msgid "Added automatically via purchases made."
+msgstr "Добавлять автоматически через покупку клиентов"
+
+#: ../../includes/admin/settings/wc-crm-settings-general.php:188
+msgid "Registration Page"
+msgstr "Страница регистрации"
+
+#: ../../includes/admin/settings/wc-crm-settings-general.php:189
+msgid "Added via the account registration page."
+msgstr "Добавлять через страницу регистрации аккаунта."
+
+#: ../../includes/admin/settings/wc-crm-settings-statuses.php:46
+msgid "Edit Status "
+msgstr "Редактировать статус"
+
+#: ../../includes/admin/settings/wc-crm-settings-statuses.php:78 ../..
+#: /includes/admin/settings/wc-crm-settings-statuses.php:127
+msgid "Colour"
+msgstr "Цвет"
+
+#: ../../includes/admin/settings/wc-crm-settings-statuses.php:87
+msgid "Back to statuses list"
+msgstr "Вернуться к списку статусов"
+
+#: ../../includes/admin/settings/wc-crm-settings-statuses.php:95
+msgid "Customer Status "
+msgstr "Статус клиента"
+
+#: ../../includes/admin/class-wc-crm-admin.php:184
+msgid "Current call"
+msgstr "Текущий звонок"
+
+#: ../../includes/admin/class-wc-crm-admin.php:194
+msgid "Call:"
+msgstr "Звонок:"

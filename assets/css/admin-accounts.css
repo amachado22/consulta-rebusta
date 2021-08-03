@@ -1,0 +1,39 @@
+#wc_crm_account_data h2.hndle, #wc_crm_account_data .handlediv {
+    display: none;
+}
+
+#wc_crm_account_data .inside{
+    margin: 0;
+    padding: 0;
+    display: block !important;
+}
+#poststuff #wc_crm-account-actions .inside {
+    margin: 0;
+    padding: 0;
+}
+#wc_crm_account_data .order_data_column.account_data_column p.form-field{
+  width: 100%;
+}
+#order_data .order_data_column .form-field .select2-container {
+	max-width: 100% !important;
+}
+#wc_crm_account_data #order_data {
+	padding-bottom: 24px;
+}
+#wc_crm_account_data #order_data .account_icon_box {
+	background: #c5c5c5;
+	color: #fefefe;
+	float: left;
+    width: 60px;
+    height: 60px;
+    margin-right: 20px;
+    border: 1px solid #C5C5C5;
+    line-height: 60px;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 4px;
+}
+#wc_crm_account_data #order_data .account_icon_box .account_icon:before {
+	font-family: "Dashicons";
+	content: "\f512";
+}

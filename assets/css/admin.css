@@ -1,0 +1,1479 @@
+/* Call Icons */
+#wc-crm-page table.customers .crm_actions a.phone:after,
+#wc-crm-page .activity-phone-call:before,
+#wc-crm-page table.logs .activity_type i.phone:before,
+#woocommerce-customer-activity .activity_type i.phone:before,
+#place_new_call table.phone_call #call_number:before {
+    content: "\f525";
+    font-family: dashicons;
+    -moz-transform: scale(-1, 1);
+    -webkit-transform: scale(-1, 1);
+    -o-transform: scale(-1, 1);
+    -ms-transform: scale(-1, 1);
+    transform: scale(-1, 1);
+}
+
+#wc-crm-page table.customers .crm_actions a.email:after,
+#wc-crm-page .activity-email:before,
+#wc-crm-page table.logs .activity_type i.email:before,
+#woocommerce-customer-activity .activity_type i.email:before {
+    content: "\f465";
+    font-family: dashicons;
+}
+
+#wc-crm-page table.customers .crm_actions a.new_order:after {
+    content: "\f174";
+    font-family: dashicons;
+}
+
+#wc_crm_google_map_api_key {
+    width: 400px;
+}
+
+/* Customers Filters */
+#wc-crm-page #wc_crm_customers_form .tablenav .alignleft.actions select,
+#wc-crm-page #wc_crm_customers_form .tablenav .alignleft.actions .select2,
+#wc-crm-page #wc_crm_customers_form .tablenav .alignleft.actions input[type="submit"] {
+	line-height: 1;
+	height: 32px;
+}
+#wc-crm-page #wc_crm_customers_form .tablenav .alignleft.actions .select2-container {
+    width: 200px!important;
+    font-size: 14px;
+    height: 32px;
+}
+#wc-crm-page #wc_crm_customers_form .tablenav .alignleft.actions input[type="text"] {
+	line-height: 20px;
+    vertical-align: middle;
+    padding: 4px 8px;
+}
+#wc-crm-page #wc_crm_customers_form .tablenav .alignleft.actions .select2-container .select2-selection--multiple {
+	height: 32px;
+}
+#wc-crm-page #wc_crm_customers_form table.customers {
+	margin-top: 1em;
+}
+/* Buttons with Icons */
+#wc-crm-page table.customers .crm_actions a.new_order:after,
+#wc-crm-page table.customers .crm_actions a.phone:after,
+#wc-crm-page table.customers .crm_actions a.email:after,
+#place_new_call table.phone_call #call_number:before {
+    speak: none;
+    font-variant: normal;
+    text-transform: none;
+    -webkit-font-smoothing: antialiased;
+    top: 0;
+    left: 0;
+    line-height: 1.85;
+    margin: 0;
+    text-align: center;
+    font-weight: 400;
+}
+
+/* Acitivty Details Page */
+#wc-crm-page .activity-phone-call:before,
+#wc-crm-page .activity-email:before {
+    opacity: .1;
+    float: right;
+    font-size: 70px;
+    line-height: 1;
+}
+
+/* Activity Page Icons */
+#wc-crm-page table.logs .activity_type i.phone:before,
+#woocommerce-customer-activity .activity_type i.phone:before,
+#wc-crm-page table.logs .activity_type i.email:before,
+#woocommerce-customer-activity .activity_type i.email:before {
+    font-style: normal;
+    color: #737373;
+    font-size: 16px;
+    speak: none;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    margin: 0;
+    text-indent: 0;
+}
+
+#wc-crm-page table.customers th#enrolled,
+#wc-crm-page table.customers td.enrolled {
+    text-align: center;
+}
+
+label[for="woocommerce_crm_mailchimp"] {
+    width: auto;
+}
+
+.overlay_media_popup .media-modal-close {
+    text-decoration: none;
+    line-height: 50px;
+    text-align: center;
+}
+
+.overlay_media_popup {
+    display: none;
+}
+
+.overlay_media_popup iframe {
+    width: 100%;
+    height: 100%;
+}
+
+.overlay_media_popup .media-frame-content {
+    top: 58px;
+    overflow: hidden;
+}
+
+#delete_customer_popup .media-modal {
+    left: 50%;
+    top: 50%;
+    margin-left: -250px;
+    margin-top: -110px;
+    width: 500px;
+    height: 220px;
+}
+
+#delete_customer_popup .media-frame-content {
+    padding: 10px 20px;
+}
+
+#delete_customer_popup .media-modal-content {
+    min-height: 100px;
+}
+
+/* Email Handling */
+#wc-crm-page .textboxlist {
+    width: 95%;
+}
+
+i.dashicons {
+    font-family: dashicons;
+}
+
+/* MailChimp */
+#wc-crm-page .enrolled-yes:before, #wc-crm-page .enrolled-no:before {
+    font-family: WooCommerce;
+    speak: none;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    -webkit-font-smoothing: antialiased;
+    text-indent: 0;
+    top: 0;
+    left: 0;
+    text-align: center;
+    font-size: 1.4em;
+}
+
+#wc-crm-page .enrolled-yes:before {
+    content: "\e015";
+    color: #a46497;
+}
+
+#wc-crm-page .enrolled-no:before {
+    content: "\e013";
+    color: #999;
+}
+
+#wc-crm-page td.enrolled .enrolled-no,
+#wc-crm-page td.enrolled .enrolled-yes {
+    display: inline-block;
+}
+
+#wc_crm_account_customers .wp-list-table,
+#woocommerce-customer-orders .wp-list-table,
+#woocommerce-customer-activity .wp-list-table {
+    border: none;
+}
+
+#woocommerce-customer-orders table.wp-list-table .column-order_status .status_head {
+    width: 100%;
+}
+
+#wc_crm_account_customers .inside {
+    margin: 0;
+    padding: 0;
+}
+
+#wc_crm_account_customers .wp-list-table .column-customer_status .status_head,
+#wc_crm_account_customers .wp-list-table .column-customer_notes .ico_notes,
+#wc_crm_account_customers .wp-list-table .column-enrolled .ico_news,
+#wc_crm_customers_form .wp-list-table .column-customer_status .status_head,
+#wc_crm_customers_form .wp-list-table .column-customer_notes .ico_notes,
+#wc_crm_customers_form .wp-list-table .column-enrolled .ico_news {
+    display: block;
+    height: 1em;
+    margin: 0 auto;
+    position: relative;
+    text-indent: -9999px;
+    width: 1em;
+}
+
+#wc_crm_customers_form .wp-list-table .column-customer_name img,
+#wc_crm_account_customers .wp-list-table .column-customer_name img {
+    float: left;
+    margin: 0px;
+    margin-right: 10px;
+    border-radius: 4px;
+    width: 50px;
+    height: auto;
+}
+
+#wc_crm_account_customers .wp-list-table th#customer_status {
+    width: auto;
+}
+
+#wc_crm_account_customers #asign_customer_to_account {
+    float: right;
+    margin: 10px 20px 17px 0;
+}
+
+#wc_crm_account_customers .wp-list-table .column-num_orders,
+#wc_crm_account_customers .wp-list-table .column-customer_notes,
+#wc_crm_account_customers .wp-list-table .column-enrolled {
+    width: 48px;
+    text-align: center;
+}
+
+#wc_crm_account_customers .wp-list-table .column-location {
+    width: 10%;
+}
+
+#wc_crm_account_customers .wp-list-table .column-name,
+#wc_crm_account_customers .wp-list-table .column-email {
+    width: 15%;
+}
+
+#wc_crm_account_customers .wp-list-table .column-name {
+    min-width: 200px;
+}
+
+#wc_crm_account_customers .wp-list-table tbody td {
+    padding: 8px 10px !important;
+    vertical-align: top;
+}
+
+#wc_crm_account_customers .wp-list-table .column-order_value {
+    width: 9%;
+}
+
+#wc_crm_account_customers .wp-list-table .column-customer_status .status_head:after,
+#wc_crm_account_customers .wp-list-table .column-customer_notes .ico_notes:after,
+#wc_crm_account_customers .wp-list-table .column-enrolled .ico_news:after,
+#wc_crm_customers_form .wp-list-table .column-customer_status .status_head:after,
+#wc_crm_customers_form .wp-list-table .column-customer_notes .ico_notes:after,
+#wc_crm_customers_form .wp-list-table .column-enrolled .ico_news:after,
+#wc_crm_customers_form .wp-list-table .column-order_value .ico_value:after {
+    font-variant: normal;
+    height: 100%;
+    left: 0;
+    line-height: 1;
+    margin: 0;
+    position: absolute;
+    text-align: center;
+    text-indent: 0;
+    text-transform: none;
+    top: 0;
+    width: 100%;
+    -webkit-font-smoothing: antialiased;
+}
+
+/* Actions */
+.groups_tables .column-group_action a.button,
+#wc-crm-page .crm_actions a.button,
+#woocommerce-customer-activity .crm_actions a.button,
+#woocommerce-customer-orders .crm_actions a.button {
+    cursor: pointer;
+    float: left;
+    height: auto;
+    margin: 0 4px 2px 0;
+    padding: 3px 4px;
+    display: block;
+    height: 2em !important;
+    padding: 0 !important;
+    position: relative;
+    text-indent: -9999px;
+    width: 2em;
+}
+
+.groups_tables .column-group_action a.button:after,
+#wc-crm-page .crm_actions a.button:after,
+#woocommerce-customer-activity .crm_actions a.button:after,
+#woocommerce-customer-orders .crm_actions a.button:after {
+    font-variant: normal;
+    font-weight: 400;
+    height: 100%;
+    left: 0;
+    line-height: 1.85;
+    margin: 0;
+    position: absolute;
+    text-align: center;
+    text-indent: 0;
+    text-transform: none;
+    top: 0;
+    width: 100%;
+    -webkit-font-smoothing: antialiased;
+}
+
+.groups_tables .column-group_action a.view:after,
+#woocommerce-customer-activity .crm_actions a.view:after,
+#woocommerce-customer-orders .crm_actions a.view:after,
+#wc-crm-page .crm_actions a.view:after {
+    content: "\e010";
+    font-family: WooCommerce;
+}
+
+#wc-crm-page .crm_actions a.edit:after {
+    content: "\f464";
+    font-family: dashicons;
+}
+
+#wc-crm-page .crm_actions a.complete:after,
+#woocommerce-customer-orders .crm_actions a.complete:after {
+    content: "\e017";
+    font-family: WooCommerce;
+}
+
+#wc-crm-page .crm_actions a.processing:after,
+#woocommerce-customer-orders .crm_actions a.processing:after {
+    content: "\e00f";
+    font-family: WooCommerce;
+}
+
+#wc-crm-page .crm_phone {
+    display: block;
+    margin: 3px 0;
+}
+
+#woocommerce-customer-activity .crm_actions a.delete_log:after,
+#wc-crm-page .crm_actions a.delete_log:after {
+    content: "\f182";
+    font-family: dashicons;
+}
+
+.groups_tables .column-group_action {
+    width: 28px;
+}
+
+.groups_tables .column-group_type,
+.groups_tables .column-group_slug {
+    width: 128px;
+}
+
+/* Customers Table */
+#wc-crm-page table.customers #the-list td {
+    padding: 8px 10px;
+    vertical-align: middle;
+}
+#wc-crm-page table.customers #the-list th.check-column {
+	vertical-align: middle;
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+#wc-crm-page table.customers #the-list td.order_value {
+	text-align: right;
+}
+#wc-crm-page table.customers #order_value a,
+#wc-crm-page table.customers #order_value a span {
+	float: right;
+}
+#wc-crm-page table.customers #order_value a span.sorting-indicator {
+	float: left;
+	margin-left: 0;
+    margin-right: 7px;
+}
+#wc-crm-page table.customers #the-list td.crm_actions a {
+	float: right;
+}
+#wc-crm-page table.customers #crm_actions {
+	text-align: right;
+}
+#wc-crm-page table.customers #the-list td.crm_actions,
+#wc-crm-page table.customers #crm_actions {
+	padding-right: 2em;
+}
+#wc-crm-page img.tips {
+    padding: 0px !important;
+}
+
+#wc-crm-page table.customers .note-on,
+#wc-crm-page table.customers .note-off {
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 1;
+    margin: 0;
+    text-transform: none;
+    display: block;
+    color: #999;
+    text-align: center;
+}
+
+#wc-crm-page table.customers .note-on:after {
+    content: "\e027";
+    font-family: WooCommerce;
+    speak: none;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    -webkit-font-smoothing: antialiased;
+    margin: 0;
+    top: 0;
+    left: 0;
+    text-align: center;
+    line-height: 16px;
+}
+
+/* Icons */
+.ico_pause,
+.ico_stop,
+table .status_head,
+table .ico_news,
+table .ico_notes,
+table .ico_value {
+    margin-right: 10px;
+    font-family: 'aecrm' !important;
+    font-style: normal !important;
+    margin: auto;
+}
+
+#reset_timer:after {
+    font-family: WooCommerce;
+    content: "\e031";
+}
+
+table .status_head:after {
+    font-family: WooCommerce;
+    content: "\e011";
+}
+
+.ico_mail:after {
+    content: "\e60c";
+}
+
+.ico_phone:after {
+    content: "\e613";
+}
+
+table .ico_news:after {
+    content: "\f488";
+    font-family: dashicons;
+}
+
+#woocommerce-customer-detail #order_data .total_value:before,
+#woocommerce-customer-detail #order_data .num_orders:before,
+#woocommerce-customer-detail #order_data .created_date:before {
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-family: Dashicons !important;
+    margin-right: .2em;
+}
+
+#woocommerce-customer-detail #order_data .total_value:before {
+    content: "\f239";
+}
+
+#woocommerce-customer-detail #order_data .num_orders:before {
+    content: "\f174";
+}
+
+#woocommerce-customer-detail #order_data .created_date:before {
+    content: "\f508";
+}
+
+#woocommerce-customer-detail #order_data h2 {
+    float: left;
+}
+
+#woocommerce-customer-detail #order_data .order_number {
+    float: left;
+    margin-right: 1em;
+    margin-top: .5em;
+    clear: right;
+}
+
+#woocommerce-customer-detail  #order_data .order_data_column:first-child {
+	width: 100% !important;
+}
+#woocommerce-customer-detail  #order_data .order_data_column {
+	width: 48%;
+	float: left;
+	clear: left;
+}
+#woocommerce-customer-detail  #order_data #order_data_column_shipping {
+	float: right;
+	clear: right;
+}
+
+#woocommerce-customer-detail #customer_data #customer_general_details label[for=user_email]:after {
+    color: red;
+    content: ' *';
+}
+#woocommerce-customer-detail #order_data {
+	padding-top: 12px;
+}
+
+#woocommerce-customer-detail #order_data img.avatar {
+    float: left;
+    width: 60px;
+    height: auto;
+    margin-right: 1.5em;
+    box-shadow: 0px 0px 0px 1px #c5c5c5;
+    border-radius: 4px;
+}
+
+#watch-button {
+    position: absolute;
+    right: 24px;
+    margin-top: 36px;
+}
+
+#watch-button input {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    visibility: hidden;
+}
+#watch-button .button:after {
+	font-family: dashicons;
+    content: "\f537";
+    speak: none;
+    -webkit-font-smoothing: antialiased;
+    text-align: center;
+    font-size: 125%;
+    line-height: 175%;
+}
+
+input#customer_watching:checked + span {
+    background: #0085ba;
+    border-color: #0073aa #006799 #006799;
+    box-shadow: 0 1px 0 #006799;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: 0 -1px 1px #006799, 1px 0 1px #006799, 0 1px 1px #006799, -1px 0 1px #006799;
+}
+
+table .ico_value:after {
+    content: "\e60d";
+}
+
+table .ico_notes:after {
+    content: "\e028";
+    font-family: 'WooCommerce';
+}
+
+a.watch-customer {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    float: right;
+    color: #0184bb;
+    font-size: 15px;
+    text-align: center;
+}
+
+a.watch-customer::after {
+    content: "\f537";
+    font-family: dashicons;
+}
+a.button.watching-button {
+    height: 32px;
+    display: inline-block;
+}
+
+a.button.watching-button:after {
+    font-family: dashicons;
+    content: "\f537";
+    speak: none;
+    -webkit-font-smoothing: antialiased;
+    text-align: center;
+    font-size: 125%;
+    line-height: 175%;
+}
+
+.tablenav.bottom a.button.watching-button {
+    display: none;
+}
+
+#wc-crm-page .crm_actions a.select_order:after {
+    content: "\e024";
+    font-family: WooCommerce;
+}
+
+input.current-page {
+    width: 50px;
+}
+
+/*************Activity****************/
+
+#wc-crm-page .column-activity_type, #woocommerce-customer-activity .column-activity_type {
+    width: 60px;
+    text-align: center;
+}
+
+#wc-crm-page .column-created,
+#woocommerce-customer-activity .column-created {
+    width: 100px;
+}
+
+#wc-crm-page .column-user_id,
+#woocommerce-customer-activity .column-user_id {
+    width: 20%;
+}
+
+#woocommerce-customer-activity table.logs .column-crm_actions {
+    width: 70px;
+    text-align: center;
+}
+
+#wc-crm-page table.logs .column-crm_actions {
+	width: 8ch;
+}
+#woocommerce-customer-orders .column-crm_actions {
+    width: 6ch;
+}
+
+#woocommerce-customer-orders .column-order_total {
+	width: 8ch;
+	text-align: right;
+}
+#woocommerce-customer-orders .column-order_status {
+	width: 14ch;
+}
+#woocommerce-customer-orders .column-order_date {
+	width: 10ch;
+}
+#woocommerce-customer-orders .inside table.orders #the-list td {
+	padding: 1em;
+	vertical-align: middle;
+}
+#woocommerce-customer-orders .inside table.orders #the-list td.order_status mark.order-status {
+	display: inherit !important;
+}
+.view-activity {
+    width: 85%;
+}
+
+.view-activity td {
+    padding: 10px 5px;
+    vertical-align: top;
+    line-height: 1.5;
+}
+
+.view-activity td p {
+    margin-top: 0px;
+}
+
+.view-activity th {
+    padding: 10px 5px;
+    vertical-align: top;
+    text-align: right;
+    line-height: 1.5;
+}
+
+.Flagged,
+.Customer,
+.Lead,
+.Follow-Up,
+.Prospect,
+.Favourite,
+.Blocked,
+.customer_status .customer_status_custom {
+	display: inline-block;
+    -webkit-font-smoothing: antialiased;
+    padding: 5px 10px;
+    border-radius: 4px;
+    font-weight: 400;
+    border-bottom: 1px solid rgba(0,0,0,.05);
+    white-space: nowrap;
+}
+.customer_status i {
+	margin-right: 5px;
+}
+.Flagged:before,
+.Customer:before,
+.Lead:before,
+.Follow-Up:before,
+.Prospect:before,
+.Favourite:before,
+.Blocked:before  {
+    font-family: dashicons;
+    margin-right: 5px;
+    float: left;
+}
+.Flagged {
+    color: #a00;
+    background-color: rgba(170, 0, 0, 0.40);
+}
+.Flagged:before {
+	content: "\f227";
+    color: #a00;
+}
+.Customer {
+    color: #2ea2cc;
+    background-color: #2ea2cc40;
+}
+.Customer:before {
+    content: '\f110';
+    color: #2ea2cc;
+}
+.Lead {
+    color: #ffba00;
+    background-color: #ffba0040;
+}
+.Lead:before {
+    content: '\f101';
+    color: #ffba00;
+}
+.Follow-Up {
+    color: #551A8B;
+    background-color: #551A8B40;
+}
+.Follow-Up:before {
+    content: '\f230';
+    color: #551A8B;
+}
+.Prospect {
+    color: #73a724;
+    background-color: #73a72440;
+}
+.Prospect:before {
+    content: '\f529';
+    color: #73a724;
+}
+.Favourite {
+    color: #d0c21f;
+    background-color: #d0c21f40;
+}
+.Favourite:before {
+	content: "\f155";
+    color: #d0c21f;
+}
+.Blocked {
+    color: #999;
+    background-color: rgba(153, 153, 153, 0.40);
+}
+.Blocked:before {
+    content: '\f158';
+    color: #999;
+}
+
+#wc_crm_account_customers .tablenav,
+#woocommerce-customer-orders .tablenav,
+#wcrm-products-purchased .tablenav,
+#woocommerce-customer-activity .tablenav {
+    display: none;
+}
+
+.wrap_date {
+    float: left;
+    position: relative;
+}
+
+#customer_data #order_data .order_data_column div.edit_address {
+    overflow: visible;
+}
+
+#screen-meta .metabox-prefs label * {
+    font-family: "Open Sans", sans-serif !important;
+}
+#wc_crm_loading_data .spinner {
+    float: left;
+    display: inline;
+}
+
+#wc_crm_customer_groups {
+    width: 100%;
+}
+
+.dynamic_group_type .select2 {
+	width: 95% !important;
+	max-width: 95%;
+}
+
+#wc_crm_customer_statuses {
+    min-height: 544px;
+}
+
+.spiner_wrap {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(255, 255, 255, 0.7);
+    display: none;
+}
+
+.spiner_wrap span {
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    left: 50%;
+    margin-left: -10px;
+    top: 50%;
+    margin-top: -10px;
+    display: block;
+}
+
+#customer_address_map_canvas {
+    width: 100%;
+    height: 255px;
+}
+
+#customer_general_details .form-field:nth-child(2n) {
+    float: right !important;
+    clear: right !important;
+}
+
+#wcrm-products-purchased .widefat.products {
+    border: none;
+}
+
+#wcrm-products-purchased .widefat.products td.column-thumb img {
+	border: 2px solid #e8e8e8;
+}
+#wcrm-products-purchased .widefat.products td.column-name .item-sku {
+	color: #888;
+	font-size: .92em!important;
+	margin-top: .5em;
+}
+#wcrm-products-purchased .widefat.products .column-name {
+	width: inherit;
+}
+#wcrm-products-purchased .widefat.products .column-number_purchased,
+#wcrm-products-purchased .widefat.products .column-value_purchases {
+	width: 100px;
+	text-align: right;
+}
+#wcrm-products-purchased .widefat.products .column-number_purchased small.times {
+	margin-right: .25em;
+}
+#wcrm-products-purchased .widefat.products td {
+	padding: 12px 10px;
+}
+#wcrm-products-purchased .widefat.products td:last-child,
+#wcrm-products-purchased .widefat.products th:last-child {
+	padding-right: 15px;
+}
+#wc_crm_edit_customer_form ul.order_notes,
+#wc_crm_edit_customer_form ul.validation_files {
+    padding: 0 10px !important;
+}
+
+#wc_crm_edit_customer_form ul.order_notes li,
+#wc_crm_edit_customer_form ul.validation_files li {
+    padding: 0px !important;
+}
+
+#wc_crm_edit_customer_form #woocommerce-customer-maps .inside {
+	margin: 0;
+	padding: 0;
+}
+.inside .inside-padding {
+    padding: 12px 12px;
+}
+.customers_page_wc_new_customer .new_status_icon,
+.customers_page_wc_new_customer .old_status_icon {
+    border-radius: 100%;
+    color: #fff;
+    display: block;
+    float: none;
+    height: 12px;
+    margin: auto;
+    padding: 3px;
+    width: 12px;
+}
+
+.customers_page_wc_new_customer .new_status_icon::after,
+.customers_page_wc_new_customer .old_status_icon::after {
+    display: block;
+    font-family: "ActualityExtensions" !important;
+    font-size: 9px;
+    line-height: 13px;
+}
+
+.customers_page_wc_new_customer .status_text {
+    border-radius: 3px;
+    color: #fff;
+    display: block;
+    font-size: 11px;
+    font-weight: normal;
+    line-height: 22px;
+    min-width: 80px;
+    padding: 0 7px;
+    text-align: center;
+}
+
+.customers_page_wc_new_customer .status_line_text {
+    border: 1px solid;
+    border-radius: 3px;
+    color: #666;
+    display: block;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 20px;
+    min-width: 80px;
+    padding: 0 7px;
+    text-align: center;
+}
+
+.wcrm_import_custom_meta {
+    display: none;
+    float: right;
+}
+
+body.customers_page_wc_crm_import table.import_fields th.number {
+    width: 10%;
+}
+
+body.customers_page_wc_crm_import table.import_fields th.first_row {
+    width: 60%;
+}
+
+body.customers_page_wc_crm_import table.import_fields th.mapped_fields {
+    width: 40%;
+}
+
+body.customers_page_wc_crm_import table.import_fields th,
+body.customers_page_wc_crm_import table.import_fields td {
+    padding: 8px 10px;
+}
+
+#wc_crm_customers_form table.customers td.wc_group ul li {
+    background: #e4e4e4;
+    float: left;
+    padding: 5px 8px 5px 8px;
+    margin: 0px 0 3px 5px;
+    position: relative;
+    line-height: 15px;
+    color: #333;
+    cursor: default;
+    border-radius: 2px;
+    background-clip: padding-box;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+#wc_crm_customers_form table.customers td.wc_group ul {
+    margin: 0;
+}
+
+#wc_crm_customers_form table.customers .column-wc_group {
+    width: 10%;
+}
+
+#wc_crm_customers_form table.customers .column-wc_subscriber {
+    width: 75px;
+}
+
+#wc_crm_customers_form table.customers .column-wc_subscriber .enrolled-yes:before {
+    display: block;
+    float: none;
+    text-align: center;
+}
+
+#wc_crm_customers_form table.customers td.column-wc_subscriber {
+    text-align: center;
+}
+
+.wc-crm-page-logs-view .panel-wrap {
+    background: #fff;
+    border: 1px solid #e5e5e5;
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+    padding: 23px 24px 12px;
+    margin-right: 300px;
+    margin-top: 1em;
+}
+
+.wc-crm-page-logs-view #log_data h2 {
+    margin: 0;
+    font-size: 21px;
+    line-height: 1.2;
+    text-shadow: 1px 1px 1px #fff;
+    padding: 0;
+    font-family: HelveticaNeue-Light, "Helvetica Neue Light", "Helvetica Neue", sans-serif;
+    font-weight: 400;
+}
+
+.wc-crm-page-logs-view #log_data p.email_date_time {
+    margin: 0;
+    line-height: 1.6em;
+    font-size: 16px;
+    font-family: HelveticaNeue-Light, "Helvetica Neue Light", "Helvetica Neue", sans-serif;
+    font-weight: 400;
+    color: #777;
+}
+
+#group_total_spent {
+    width: 120px;
+}
+
+.access-error {
+    margin-top: 50px;
+    background: #fff;
+    color: #444;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    margin: 2em auto;
+    padding: 1em 2em;
+    max-width: 700px;
+    -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.13);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.13);
+}
+
+.access-error p {
+    font-size: 14px;
+    line-height: 1.5;
+    margin: 25px 0 20px;
+}
+
+ul.order_notes li .note_content.all {
+    background: #e8d49d;
+}
+
+ul.order_notes li .note_content.all:after {
+    border-color: #e8d49d transparent;
+}
+
+ul.order_notes li .note_content.private {
+    background: #efefef;
+}
+
+ul.order_notes li .note_content.private:after {
+    border-color: #efefef transparent;
+}
+
+ul.order_notes li .note_content.customer {
+    background: #A7CEDC;
+}
+
+ul.order_notes li .note_content.customer:after {
+    border-color: #A7CEDC transparent;
+}
+
+ul.order_notes li .note_content.agent {
+    background: #d7cad2;
+}
+
+ul.order_notes li .note_content.agent:after {
+    border-color: #d7cad2 transparent;
+}
+
+#reset_default{
+    margin: 0 0 0 10px;
+}
+.column-indication span {
+	font-size: 18px;
+	line-height: 20px;
+	vertical-align: middle;
+}
+.column-indication span:after {
+	speak: none;
+	font-variant: normal;
+	font-weight: 400;
+	-webkit-font-smoothing: antialiased;
+	text-align: center;
+	margin-right: 10px;
+	color: #0073aa;
+}
+.column-indication .ico_repeat:after{
+    font-family: 'dashicons';
+    content:"\f313";
+}
+.column-indication .ico_groups:after{
+    font-family: 'dashicons';
+    content:"\f110";
+}
+.column-indication .ico_attention:after{
+    font-family: 'dashicons';
+    content:"\f534";
+}
+.column-indication .ico_flagged:after{
+    font-family: 'dashicons';
+    content: "\f227";
+}
+.column-indication .ico_favourite:after{
+    font-family: 'dashicons';
+    content: "\f155";
+}
+.column-indication .ico_total_spent:after{
+    font-family: 'dashicons';
+    content: "\f487";
+}
+.column-indication {
+	width: 12ch !important;
+}
+
+
+/** Import page styles
+*/
+.wc-crm-wrap {
+    max-width: 700px;
+    margin: 0 auto 20px;
+    background: #fff;
+    padding: 0;
+    box-sizing: border-box;
+    box-shadow: 0 1px 3px rgba(0,0,0,.13);
+}
+
+.wc-crm-wrap .submit {
+    padding: 0;
+    text-align: right;
+    margin: 0;
+}
+
+.wc-crm-wrap .button-primary {
+    background-color: #1565c0 !important;
+    border-color: #114580;
+    box-shadow: none !important;
+    text-shadow: 0 -1px 1px #114580, 1px 0 1px #114580, 0 1px 1px #114580, -1px 0 1px #114580;
+    margin: 0;
+    font-size: 1.25em;
+    padding: .5em 1em!important;
+    line-height: 1.5em!important;
+    height: auto!important;
+    border-radius: 4px;
+    text-transform: capitalize;
+}
+
+.wc-crm-wrap .button-primary:hover {
+    background: #003c8f !important;
+    border-color: #003c8f;
+    color: #fff;
+}
+
+.wc-crm-wrap .button-primary:disabled,
+.wc-crm-wrap .button-primary[disabled] {
+    color: #2485f3!important;
+    background: #1565c0!important;
+    border-color: #114580!important;
+    box-shadow: none!important;
+    text-shadow: 0 -1px 0 rgba(0,0,0,.1)!important;
+    cursor: default;
+}
+
+ol.wc-crm-progress-steps {
+    padding: 0 0 24px;
+    margin: 0;
+    list-style: none outside;
+    overflow: hidden;
+    color: #ccc;
+    width: 100%;
+    display: -webkit-inline-flex;
+    display: -ms-inline-flexbox;
+    display: -webkit-inline-box;
+    display: inline-flex;
+}
+
+.wc-crm-progress-form-wrapper li {
+    width: 33.33%;
+    float: left;
+    padding: 0 0 .8em;
+    margin: 0;
+    text-align: center;
+    position: relative;
+    border-bottom: 4px solid #ccc;
+    line-height: 1.4em;
+}
+
+.wc-crm-progress-form-wrapper {
+    max-width: 700px;
+    margin: 40px auto 0;
+}
+
+.wrap.wc-crm-wrap h2.title {
+    margin: 0 0 24px;
+    color: #555;
+    font-size: 24px;
+    font-weight: 400;
+    padding: 0;
+    line-height: 1em;
+}
+
+.wrap.wc-crm-wrap .sub-title {
+    line-height: 1.75em;
+    font-size: 16px;
+    color: #555;
+    margin: 0 0 24px;
+}
+
+.wc-crm-progress-form-wrapper li.active {
+    border-color: #1565c0;
+    color: #1565c0;
+}
+
+.wc-crm-progress-form-wrapper li::before {
+    content: '';
+    border: 4px solid #ccc;
+    border-radius: 100%;
+    width: 4px;
+    height: 4px;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    margin-left: -6px;
+    margin-bottom: -8px;
+    background: #fff;
+}
+
+.wc-crm-progress-form-wrapper li.done::before {
+    border-color: #1565c0;
+    background: #1565c0;
+}
+
+.wc-crm-progress-form-wrapper li.done {
+    border-color: #1565c0;
+    color: #1565c0;
+}
+
+.wc-crm-progress-form-wrapper li.active::before {
+    border-color: #1565c0;
+}
+
+p.wc-crm-message {
+    max-width: 1060px;
+    margin: 20px auto;
+    padding: 10px 5px 10px 20px;
+    background: #fff;
+    border-radius: 3px;
+    box-shadow: 0 0.15rem 0 rgba(0, 0, 0, .05);
+}
+
+p.wc-crm-message strong {
+    margin-bottom: 6px !important;
+    display: inline-block;
+}
+
+p.wc-crm-message.error {
+    border-left: 5px solid #e74c3c;
+}
+
+.wc-crm-wrap .form-table td,
+.wc-crm-wrap .form-table th {
+    vertical-align: top;
+}
+
+.go-to {
+    text-align: center;
+}
+
+a.button.button-primary.go-to-btn {
+    width: 200px;
+}
+
+.wc-crm-wrap header {
+    padding: 24px 24px 0;
+    border-bottom: 1px solid #eee;
+}
+
+.wc-crm-wrap section {
+    padding: 48px 24px;
+    line-height: 1.75em;
+}
+
+.wc-crm-wrap .form-table {
+    margin: 0;
+}
+
+.wc-crm-wrap .form-table td {
+    margin-bottom: 9px;
+    padding: 0 20px 24px 0;
+    line-height: 1.3;
+    vertical-align: top;
+}
+
+.wc-crm-wrap .form-table th {
+    padding: 0 20px 0 0;
+    vertical-align: top;
+    color: #555;
+    font-weight: 400;
+}
+
+.wc-crm-wrap footer {
+    overflow: hidden;
+    border-top: 1px solid #eee;
+    margin: 0;
+    padding: 23px 24px 24px;
+    line-height: 3em;
+}
+
+table.import_fields {
+    border: none;
+    border-top: 1px solid #ddd;
+}
+
+table.import_fields thead th {
+    font-weight: bold !important;
+    padding: 12px 12px 12px 24px !important;
+}
+
+table.import_fields tbody td {
+    padding: 12px 12px 12px 24px !important;
+}
+
+.import-complete-icon {
+    display: block;
+    width: 100%;
+}
+
+.import-complete-icon::before {
+    font-family: WooCommerce;
+    speak: none;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    text-indent: 0;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    content: "";
+    color: #1465c0;
+    position: static;
+    font-size: 100px;
+    display: block;
+    float: none;
+    margin: 0 0 24px;
+}
+
+section.import-complete p {
+    text-align: center;
+    font-size: 1.5em;
+    line-height: 1.75em;
+}
+
+.wc-crm-wrap div.updated {
+    display: none;
+}
+
+.page-heading {
+    font-size: 23px;
+    font-weight: 400;
+    margin: 10px 0;
+    padding: 9px 0 4px;
+    line-height: 29px;
+}
+
+.import_fields td .description {
+    color: #999;
+    margin-top: 4px;
+    display: block;
+}
+
+/** Validation Fields */
+#validations_data .form-field label {
+    display: block;
+    padding: 0 0 3px;
+    color: #777;
+}
+
+#validations_data .form-field input,
+#validations_data .form-field select {
+    width: 100%;
+}
+#validations_data .form-field a.view_customer {
+	margin-top: 12px;
+}
+#wc_crm_validation_data div.inside {
+	padding: 12px 24px 24px 24px;
+}
+#validations_data .validation-file {
+    max-width: 100px;
+    display: block;
+    height: auto;
+    left: 20%;
+    position: relative;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#validations ul {
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+#validations li img {
+    display: table-cell;
+    vertical-align: middle;
+    padding-right: 5px;
+    width: 40px;
+    margin: 0;
+}
+
+#validations li span {
+    display: table-cell;
+    width: 100%;
+    vertical-align: middle;
+}
+
+#validations li a {
+    display: table-row;
+    width: 100%;
+    word-break: break-all;
+    line-height: 1.5em;
+}
+
+body.post-type-wc_crm_validations #excerpt {
+    margin-top: 0;
+    font-size: 1.7em;
+    line-height: 1.42em;
+    height: auto;
+    width: 100%;
+}
+
+.validation-window {
+    max-height: 400px;
+}
+
+.validation-window .validation-container {
+    width: 100% !important;
+    box-sizing: border-box !important;
+    max-height: 100% !important;
+    height: auto !important;
+}
+
+.validation-window p.form-row {
+    display: table;
+    width: 100%;
+}
+
+.validation-window p.form-row label {
+    width: 20%;
+    display: table-cell;
+}
+
+.validation-window p.form-row select {
+    width: 100%;
+    display: table-cell;
+}
+
+.validation-window button#submitValidation {
+    width: 120px;
+    margin-top: 20px;
+}
+
+.validation-window .file-frame {
+    max-width: 150px;
+    margin: auto;
+    text-align: center;
+}
+
+.validation-window .upload-preview {
+    width: 100%;
+}
+
+.validation-action .woocommerce-help-tip::after {
+    content: "";
+}

@@ -1,0 +1,87 @@
+/* 
+		This stylesheet belongs to TextboxList - Copyright Guillermo Rauch <http://devthought.com> 2009 
+		TextboxList is not priceless for commercial use. See <http://devthought.com/projects/jquery/textboxlist/> 
+		Purchase to remove copyright
+*/
+
+.textboxlist {
+	cursor: text;
+	line-height: 1.85em;
+    font-size: 14px;
+}
+
+.textboxlist-bits {
+    height: 1%;
+    margin: 0;
+    padding: 0 5px 0 0;
+    position: relative;
+    border: 1px solid #ccc;
+    cursor: text;
+    overflow: hidden;
+    background-color: #fff;
+    min-height: 26px;
+}
+
+.textboxlist-bit {
+	list-style-type: none;
+	float: left;
+	display: block;
+	padding: 0;
+	margin: 0 5px 3px 0;
+	cursor: default;
+}
+
+.textboxlist-bit-editable {
+	border: 1px solid #fff;
+	margin: 0 !important;
+	margin-left: 3px !important;
+}
+
+.textboxlist-bit-editable-input {
+	border: 0;
+	height: 24px;
+	vertical-align: middle;
+}
+
+.textboxlist-bit-editable-input:focus {
+	outline: 0;
+}
+
+.textboxlist-bit-box {
+	padding: 5px 8px 5px 24px;
+    margin: 3px 0 3px 5px;
+    position: relative;
+    line-height: 15px;
+    color: #333;
+    cursor: default;
+    border-radius: 2px;
+    background-clip: padding-box;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color: #e4e4e4;
+}
+.textboxlist-bit-box-deletebutton {
+	display: block;
+    width: 12px;
+    height: 13px;
+    position: absolute;
+    left: 7px;
+    top: 6px;
+    font-size: 1px;
+    outline: 0;
+    background: url(select2.png) right top no-repeat;
+}
+
+/*  TextboxList Style guidelines 
+			This style doesn't necessarily have to be in a separate file. 
+			It's advisable not to set widths and margins from here, but instead apply it to a particular object or class (#id .textboxlist { width: xxx } or .class .textboxlist { width: xxx })
+			The padding-top + padding-left + height of ".textboxlist-bit-editable-input {}" has to match the line-height of ".textboxlist-bit-box {}" for UI consistency. 
+			The font configuration has to be present in .textboxlist and .textboxlist-bit-editable-input (for IE reasons)
+			The *padding-bottom (notice the *) property of .textboxlist-bits {} has to be equal to the margin-bottom of .textboxlist-bit {} for IE reasons.
+			The padding-top of .textboxlist ul {} has to match the margin-bottom of .textboxlist-bit, and the padding-bottom has to be null.
+			Make sure the border-width of the .textboxlist-bit-editable {} is equal to the border-width of the box (a border that matches the background is advisable for the input)
+			Feel free to edit the borders, fonts, backgrounds and radius.		
+*/
